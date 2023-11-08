@@ -8,9 +8,9 @@
 
 | 기용  | 연우 |  진우  |
 | ---------- | ------ | --------- |
-| <img src="![image](https://github.com/DjangoBnB/djangobnb-be/assets/139518217/beb072ed-d812-4224-a740-5c05a7fd4673)" width="100" /> | 
-<img src="![image](https://github.com/DjangoBnB/djangobnb-be/assets/139518217/09cf973d-8f3c-4dff-aacf-660f8a3605c2)" width="100" /> | 
-<img src="![image](https://github.com/DjangoBnB/djangobnb-be/assets/139518217/34484fc1-d31b-4a54-b0b0-0f4177b8903e)" width="100" /> |
+| <img src="https://github.com/DjangoBnB/djangobnb-be/assets/139518217/beb072ed-d812-4224-a740-5c05a7fd4673" width="100" /> | 
+<img src=(https://github.com/DjangoBnB/djangobnb-be/assets/139518217/09cf973d-8f3c-4dff-aacf-660f8a3605c2" width="100" /> | 
+<img src="https://github.com/DjangoBnB/djangobnb-be/assets/139518217/34484fc1-d31b-4a54-b0b0-0f4177b8903e" width="100" /> |
 | [github](https://github.com/ssafykwon)                                                                                 
 | [github](https://github.com/dusdn0224) 
 | [github](https://github.com/JWhan96)  |                                                                                  |
