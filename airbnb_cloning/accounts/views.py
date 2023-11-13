@@ -6,8 +6,8 @@ from .models import User
 from .serializer import UserSerializer
 
 # Create your views here.
-@api_view(["POST"])
-def signup(request):
-    password = request.data.get('password')
-    confirm = request.data.get('confirm')
-    serializer = UserSerializer(request.data)
+# @api_view(["POST"])
+# def signup(request):
+#     password = request.data.get('password')
+#     confirm = request.data.get('confirm')
+#     serializer = UserSerializer(request.data)

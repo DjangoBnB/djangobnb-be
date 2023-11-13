@@ -4,4 +4,4 @@ from django.contrib.auth.models import AbstractUser
 # Create your models here.
 class User(AbstractUser):
 	nickname = models.CharField(max_length=100, default='')
-	confirm = models.CharField(max_length=100)
+	# confirm = models.CharField(max_length=100)

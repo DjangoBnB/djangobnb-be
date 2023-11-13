@@ -9,5 +9,5 @@ class UserSerializer(ModelSerializer):
             'username', 
             'nickname', 
             'password', 
-            'confirm', 
+            # 'confirm', 
             'email')
