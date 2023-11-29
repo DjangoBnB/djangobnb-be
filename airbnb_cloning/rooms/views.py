@@ -8,5 +8,6 @@ def index(request):
     data = {'message': 'Hello, REST API!'}
     return Response(data)
 
+@api_view(['GET'])
 def detail(request):
     pass
