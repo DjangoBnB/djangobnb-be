@@ -1,0 +1,650 @@
+[
+  {
+    "pk": 1,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "1",
+      "image_url": "https://fastly.picsum.photos/id/682/400/400.jpg?hmac=BWv4uiqSLjtH0r5kyzZ3s4gkUS2HO5JQlFkVUtzfKVo"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "1",
+      "image_url": "https://fastly.picsum.photos/id/170/400/400.jpg?hmac=P_ORjKv_6ZXG5Z6FU_0MbZF2uXpqi4k65K7I4lpxZhM"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "1",
+      "image_url": "https://fastly.picsum.photos/id/682/400/400.jpg?hmac=BWv4uiqSLjtH0r5kyzZ3s4gkUS2HO5JQlFkVUtzfKVo"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "1",
+      "image_url": "https://fastly.picsum.photos/id/682/400/400.jpg?hmac=BWv4uiqSLjtH0r5kyzZ3s4gkUS2HO5JQlFkVUtzfKVo"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "2",
+      "image_url": "https://fastly.picsum.photos/id/220/400/400.jpg?hmac=TZxXlzOtXbltfQjPEQ7DnsOcm4b0BNwUvXdtmJeIwGw"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "2",
+      "image_url": "https://fastly.picsum.photos/id/234/400/400.jpg?hmac=uU8AMTXZThjcDxLOKW1IWSxUOFD9vIeo6N255d_tF-8"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "2",
+      "image_url": "https://fastly.picsum.photos/id/202/400/400.jpg?hmac=vG9jUJmx9DuzkAgvvYzAQFGNp-5aLRLcoSuI4VPXEtI"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "2",
+      "image_url": "https://fastly.picsum.photos/id/757/400/400.jpg?hmac=eI31C3SciqTt5v7CpCFNvKREavuTOUPbcw0-vBS576A"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "2",
+      "image_url": "https://fastly.picsum.photos/id/511/400/400.jpg?hmac=y6LNQnqVsWams6_WGLFXkk7eLM7G7XeFKFL7DmJvmKk"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "2",
+      "image_url": "https://fastly.picsum.photos/id/469/400/400.jpg?hmac=1a1Oxg98CZIvJ2hNl4gvKDyBnnt7KGvH2KLxjFhmrfI"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "3",
+      "image_url": "https://fastly.picsum.photos/id/996/400/400.jpg?hmac=ontE1GNHSq8paHn7FtzlWFn6veu64A3Pa81jEyzQiXU"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "3",
+      "image_url": "https://fastly.picsum.photos/id/744/400/400.jpg?hmac=2J82-H9IdQpY6940Fkcvzr6n_bFovfAcNLtO7PwY-9Y"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "3",
+      "image_url": "https://fastly.picsum.photos/id/84/400/400.jpg?hmac=pEpqR27WNnuRW-VTXxSxWGPXOiRJYx5SXMOpkPJB0Kc"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "3",
+      "image_url": "https://fastly.picsum.photos/id/170/400/400.jpg?hmac=P_ORjKv_6ZXG5Z6FU_0MbZF2uXpqi4k65K7I4lpxZhM"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "3",
+      "image_url": "https://fastly.picsum.photos/id/35/400/400.jpg?hmac=_Z7lTnUyouf1jGbUd1UhhQ9fI1dIficzLiiCKvmsZ3M"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "4",
+      "image_url": "https://fastly.picsum.photos/id/469/400/400.jpg?hmac=1a1Oxg98CZIvJ2hNl4gvKDyBnnt7KGvH2KLxjFhmrfI"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "4",
+      "image_url": "https://fastly.picsum.photos/id/466/400/400.jpg?hmac=aMjqaxyL-2u_P8UZtjJ0mNgBvnbt69hTVBhIA2FiGA4"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "5",
+      "image_url": "https://fastly.picsum.photos/id/170/400/400.jpg?hmac=P_ORjKv_6ZXG5Z6FU_0MbZF2uXpqi4k65K7I4lpxZhM"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "5",
+      "image_url": "https://fastly.picsum.photos/id/202/400/400.jpg?hmac=vG9jUJmx9DuzkAgvvYzAQFGNp-5aLRLcoSuI4VPXEtI"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "5",
+      "image_url": "https://fastly.picsum.photos/id/42/400/400.jpg?hmac=jdZCzdSGavYrUAAzJ-vPdwGgfAi-cgyw1mq8YnknYaM"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "6",
+      "image_url": "https://fastly.picsum.photos/id/254/400/400.jpg?hmac=6TSX9LxpbzEmUoWKg3q6S133eqTb3CDwjCua8jhC9wQ"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "6",
+      "image_url": "https://fastly.picsum.photos/id/3/400/400.jpg?hmac=WAzZN6oxj9HvFl0_y2bcQcYNHN7YeT9Sh4gP6jePsJI"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "7",
+      "image_url": "https://fastly.picsum.photos/id/305/400/400.jpg?hmac=SoMCZhTXX6izu9lebOx4ZpM61Wk9REorgeeZft6f6kg"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "7",
+      "image_url": "https://fastly.picsum.photos/id/811/400/400.jpg?hmac=YAjbeYJRKPhBGHz0R4UBJ7CAufGZ2qKanB6BmYr8BBY"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "7",
+      "image_url": "https://fastly.picsum.photos/id/126/400/400.jpg?hmac=ia-Rdu9o6OB1KGp2XJs9WuRJ4GPksZXn9XNwgGmu5iU"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "7",
+      "image_url": "https://fastly.picsum.photos/id/126/400/400.jpg?hmac=ia-Rdu9o6OB1KGp2XJs9WuRJ4GPksZXn9XNwgGmu5iU"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "7",
+      "image_url": "https://fastly.picsum.photos/id/198/400/400.jpg?hmac=6ulR3tL4MRrpH-YkPVzpxnqNB7WqjUoMn_XQX0OqgWA"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "7",
+      "image_url": "https://fastly.picsum.photos/id/170/400/400.jpg?hmac=P_ORjKv_6ZXG5Z6FU_0MbZF2uXpqi4k65K7I4lpxZhM"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "7",
+      "image_url": "https://fastly.picsum.photos/id/48/400/400.jpg?hmac=DQ0-nRCzTvay9k4QyoTDVHi7r3JL5rGJ48QkmqsYQts"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "8",
+      "image_url": "https://fastly.picsum.photos/id/1052/400/400.jpg?hmac=4f0VGLxsRxf5Tx5e2nfJiq-rR63_58TrXL6Uf4C26fo"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "8",
+      "image_url": "https://fastly.picsum.photos/id/688/400/400.jpg?hmac=glS7oJZ7JoNyHm8rcYegdYQtDwX5EDyek4tr0fs1Mio"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "8",
+      "image_url": "https://fastly.picsum.photos/id/599/400/400.jpg?hmac=Uny4ZMfOwgf6u1rjSyp2eDkNZPN_DloHpkFCuvZC55s"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "8",
+      "image_url": "https://fastly.picsum.photos/id/324/400/400.jpg?hmac=FNvSnDH2LM9s_74wXGut5LXk2W3XavYhnxsSWmrJlqg"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "8",
+      "image_url": "https://fastly.picsum.photos/id/254/400/400.jpg?hmac=6TSX9LxpbzEmUoWKg3q6S133eqTb3CDwjCua8jhC9wQ"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "8",
+      "image_url": "https://fastly.picsum.photos/id/305/400/400.jpg?hmac=SoMCZhTXX6izu9lebOx4ZpM61Wk9REorgeeZft6f6kg"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "9",
+      "image_url": "https://fastly.picsum.photos/id/437/400/400.jpg?hmac=cCwUyShNp1L-JhIOE0fdZpK8YtJwWIB-to6VpH4ZwFg"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "9",
+      "image_url": "https://fastly.picsum.photos/id/305/400/400.jpg?hmac=SoMCZhTXX6izu9lebOx4ZpM61Wk9REorgeeZft6f6kg"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "9",
+      "image_url": "https://fastly.picsum.photos/id/35/400/400.jpg?hmac=_Z7lTnUyouf1jGbUd1UhhQ9fI1dIficzLiiCKvmsZ3M"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "10",
+      "image_url": "https://fastly.picsum.photos/id/340/400/400.jpg?hmac=1dAoG8Zd0CHRH9qGYQ6YEm3LSvEbjQtQDcCxJTRoFoc"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "10",
+      "image_url": "https://fastly.picsum.photos/id/981/400/400.jpg?hmac=Ep0DQfToZ14s9bzNhDfipAEj7xvs8ANxIyAXWnZJxU0"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "10",
+      "image_url": "https://fastly.picsum.photos/id/996/400/400.jpg?hmac=ontE1GNHSq8paHn7FtzlWFn6veu64A3Pa81jEyzQiXU"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "10",
+      "image_url": "https://fastly.picsum.photos/id/130/400/400.jpg?hmac=t7pjDM3Xuw1JrVA6Zohl7DYlGQWzMGSx6Mo9n-rgQQY"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "10",
+      "image_url": "https://fastly.picsum.photos/id/469/400/400.jpg?hmac=1a1Oxg98CZIvJ2hNl4gvKDyBnnt7KGvH2KLxjFhmrfI"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "10",
+      "image_url": "https://fastly.picsum.photos/id/617/400/400.jpg?hmac=MqRNOlg5VSJf2yq6kIPkUOyevjacjZpDJZX4xoJY3IE"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "10",
+      "image_url": "https://fastly.picsum.photos/id/682/400/400.jpg?hmac=BWv4uiqSLjtH0r5kyzZ3s4gkUS2HO5JQlFkVUtzfKVo"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "11",
+      "image_url": "https://fastly.picsum.photos/id/682/400/400.jpg?hmac=BWv4uiqSLjtH0r5kyzZ3s4gkUS2HO5JQlFkVUtzfKVo"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "11",
+      "image_url": "https://fastly.picsum.photos/id/1076/400/400.jpg?hmac=sgCCffCzESI9KZvJFh0zKiyaetr5dm7BkNTnDsMquqY"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "12",
+      "image_url": "https://fastly.picsum.photos/id/821/400/400.jpg?hmac=dN89zU0qdoag7yL5lyGqzkHF6dDqHtEK2Q6DwsiMEwI"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "12",
+      "image_url": "https://fastly.picsum.photos/id/511/400/400.jpg?hmac=y6LNQnqVsWams6_WGLFXkk7eLM7G7XeFKFL7DmJvmKk"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "12",
+      "image_url": "https://fastly.picsum.photos/id/71/400/400.jpg?hmac=jwnuiCB39VWvyS6KUQzh4eAnaboQj7UDxlYqKXCceBU"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "12",
+      "image_url": "https://fastly.picsum.photos/id/548/400/400.jpg?hmac=OaSyHU90agBHQ4eS12WOSVPaYFvR6UEKt1e1lbFCi9s"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "12",
+      "image_url": "https://fastly.picsum.photos/id/170/400/400.jpg?hmac=P_ORjKv_6ZXG5Z6FU_0MbZF2uXpqi4k65K7I4lpxZhM"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "12",
+      "image_url": "https://fastly.picsum.photos/id/1052/400/400.jpg?hmac=4f0VGLxsRxf5Tx5e2nfJiq-rR63_58TrXL6Uf4C26fo"
+    }
+  },
+  {
+    "pk": 54,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "12",
+      "image_url": "https://fastly.picsum.photos/id/617/400/400.jpg?hmac=MqRNOlg5VSJf2yq6kIPkUOyevjacjZpDJZX4xoJY3IE"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "13",
+      "image_url": "https://fastly.picsum.photos/id/228/400/400.jpg?hmac=RYt_tMVPWwec6THlEzF5mmdK8rrf0M1p9XJJXTSAkKM"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "13",
+      "image_url": "https://fastly.picsum.photos/id/681/400/400.jpg?hmac=HRS7JxcpqzUdJwMymnYn4hGCJGs2Vo9ehfo4N4PFKDg"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "13",
+      "image_url": "https://fastly.picsum.photos/id/744/400/400.jpg?hmac=2J82-H9IdQpY6940Fkcvzr6n_bFovfAcNLtO7PwY-9Y"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "13",
+      "image_url": "https://fastly.picsum.photos/id/757/400/400.jpg?hmac=eI31C3SciqTt5v7CpCFNvKREavuTOUPbcw0-vBS576A"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "13",
+      "image_url": "https://fastly.picsum.photos/id/288/400/400.jpg?hmac=4ug4KN9xuKlNQLpk92pdvKC0fo3323_kN_lm80UIi4M"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "13",
+      "image_url": "https://fastly.picsum.photos/id/862/400/400.jpg?hmac=V73Saef5hv_qY2TChEqXxcm_WW48tLU7YA1R-gQ_b94"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "14",
+      "image_url": "https://fastly.picsum.photos/id/742/400/400.jpg?hmac=SywhWP3vklMx265xxSW9zgbq5kVtoKTHt96yPFXoP1o"
+    }
+  },
+  {
+    "pk": 62,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "15",
+      "image_url": "https://fastly.picsum.photos/id/95/400/400.jpg?hmac=O97DCrV2iNY6B_zrMbZDBP-01weqsYuKkxpi1jT4rGk"
+    }
+  },
+  {
+    "pk": 63,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "15",
+      "image_url": "https://fastly.picsum.photos/id/95/400/400.jpg?hmac=O97DCrV2iNY6B_zrMbZDBP-01weqsYuKkxpi1jT4rGk"
+    }
+  },
+  {
+    "pk": 64,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "15",
+      "image_url": "https://fastly.picsum.photos/id/548/400/400.jpg?hmac=OaSyHU90agBHQ4eS12WOSVPaYFvR6UEKt1e1lbFCi9s"
+    }
+  },
+  {
+    "pk": 65,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "15",
+      "image_url": "https://fastly.picsum.photos/id/48/400/400.jpg?hmac=DQ0-nRCzTvay9k4QyoTDVHi7r3JL5rGJ48QkmqsYQts"
+    }
+  },
+  {
+    "pk": 66,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "15",
+      "image_url": "https://fastly.picsum.photos/id/305/400/400.jpg?hmac=SoMCZhTXX6izu9lebOx4ZpM61Wk9REorgeeZft6f6kg"
+    }
+  },
+  {
+    "pk": 67,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "16",
+      "image_url": "https://fastly.picsum.photos/id/228/400/400.jpg?hmac=RYt_tMVPWwec6THlEzF5mmdK8rrf0M1p9XJJXTSAkKM"
+    }
+  },
+  {
+    "pk": 68,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "16",
+      "image_url": "https://fastly.picsum.photos/id/305/400/400.jpg?hmac=SoMCZhTXX6izu9lebOx4ZpM61Wk9REorgeeZft6f6kg"
+    }
+  },
+  {
+    "pk": 69,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "16",
+      "image_url": "https://fastly.picsum.photos/id/892/400/400.jpg?hmac=CBVzjeBFrLU_bOGxkBqloqfB24tboHyEt5hrsG8OrUw"
+    }
+  },
+  {
+    "pk": 70,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "16",
+      "image_url": "https://fastly.picsum.photos/id/525/400/400.jpg?hmac=WT3Pt7Kt7Nwxdc9gJLDo6MhJMX_BTaiL_jmKT5qM0yg"
+    }
+  },
+  {
+    "pk": 71,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "16",
+      "image_url": "https://fastly.picsum.photos/id/1052/400/400.jpg?hmac=4f0VGLxsRxf5Tx5e2nfJiq-rR63_58TrXL6Uf4C26fo"
+    }
+  },
+  {
+    "pk": 72,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "16",
+      "image_url": "https://fastly.picsum.photos/id/340/400/400.jpg?hmac=1dAoG8Zd0CHRH9qGYQ6YEm3LSvEbjQtQDcCxJTRoFoc"
+    }
+  },
+  {
+    "pk": 73,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "17",
+      "image_url": "https://fastly.picsum.photos/id/133/400/400.jpg?hmac=fqf6pjgv90K_96eKCtqAuhE_nKHguVxewB1fx1euQJs"
+    }
+  },
+  {
+    "pk": 74,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "17",
+      "image_url": "https://fastly.picsum.photos/id/992/400/400.jpg?hmac=lF_CZPhHNLZVVdFMqHtJvVDPjAlbfVaC2tnrYcy6vS4"
+    }
+  },
+  {
+    "pk": 75,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "18",
+      "image_url": "https://fastly.picsum.photos/id/585/400/400.jpg?hmac=O9GzcKjC3jWmiRSgwiLd9jXkmuGA50J8nFym12TePEY"
+    }
+  },
+  {
+    "pk": 76,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "18",
+      "image_url": "https://fastly.picsum.photos/id/48/400/400.jpg?hmac=DQ0-nRCzTvay9k4QyoTDVHi7r3JL5rGJ48QkmqsYQts"
+    }
+  },
+  {
+    "pk": 77,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "18",
+      "image_url": "https://fastly.picsum.photos/id/133/400/400.jpg?hmac=fqf6pjgv90K_96eKCtqAuhE_nKHguVxewB1fx1euQJs"
+    }
+  },
+  {
+    "pk": 78,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "19",
+      "image_url": "https://fastly.picsum.photos/id/633/400/400.jpg?hmac=6kEo2i6wXnxuLBoUDbfy2BfHCKpVAm-k8WUgnP37tIM"
+    }
+  },
+  {
+    "pk": 79,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "20",
+      "image_url": "https://fastly.picsum.photos/id/101/400/400.jpg?hmac=A9-cVYU4gUlBCOdmuPdF8pHsiO6yx4dSYWtyI0OtDOs"
+    }
+  },
+  {
+    "pk": 80,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "20",
+      "image_url": "https://fastly.picsum.photos/id/848/400/400.jpg?hmac=9bHsfjIG7VGrUjWRLJ8bv_97nofeBm1IaUutrwLDGTY"
+    }
+  },
+  {
+    "pk": 81,
+    "model": "rooms.Room_image",
+    "fields": {
+      "room_id": "20",
+      "image_url": "https://fastly.picsum.photos/id/324/400/400.jpg?hmac=FNvSnDH2LM9s_74wXGut5LXk2W3XavYhnxsSWmrJlqg"
+    }
+  }
+]

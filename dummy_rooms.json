@@ -1,0 +1,342 @@
+[
+  {
+    "pk": 1,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 조이고",
+      "room_address_latitude": "36.20389",
+      "room_address_longitude": "127.08472",
+      "room_address": "대구광역시 금천구 잠실길",
+      "room_des": "Unde doloribus exercitationem nisi eum veritatis libero.\nDolor corporis dolor. Ut odio nam fugiat.\nIusto hic alias vitae. Eligendi nesciunt ex repellendus placeat.",
+      "room_capacity": "5",
+      "room_types": "4",
+      "room_host": "1",
+      "room_daily_price": "191000",
+      "room_created_at": "2022-08-20 04:32:41",
+      "room_updated_at": "2023-08-24 03:56:55"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 심",
+      "room_address_latitude": "37.65639",
+      "room_address_longitude": "126.835",
+      "room_address": "충청남도 고양시 일산서구 언주307로",
+      "room_des": "Minus non magni inventore amet assumenda cum. Excepturi minus ipsam molestias.\nAccusamus blanditiis neque illo labore beatae. Doloribus eos quia voluptates amet.",
+      "room_capacity": "7",
+      "room_types": "4",
+      "room_host": "2",
+      "room_daily_price": "160000",
+      "room_created_at": "2022-04-28 23:04:56",
+      "room_updated_at": "2023-02-25 01:05:43"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 이",
+      "room_address_latitude": "36.20389",
+      "room_address_longitude": "127.08472",
+      "room_address": "광주광역시 도봉구 영동대거리 (예원강김리)",
+      "room_des": "Laudantium nemo labore minus. Rerum et tempore iste voluptatum. Sequi sequi fuga id.\nIste fugiat illo occaecati. Illo quisquam provident. Nobis officiis sapiente et assumenda architecto.",
+      "room_capacity": "1",
+      "room_types": "1",
+      "room_host": "3",
+      "room_daily_price": "162000",
+      "room_created_at": "2022-01-16 16:24:52",
+      "room_updated_at": "2023-10-22 13:15:24"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 박이장",
+      "room_address_latitude": "37.1759",
+      "room_address_longitude": "128.9889",
+      "room_address": "충청북도 청주시 상당구 가락거리 (지현성배읍)",
+      "room_des": "Impedit fugit facilis vel. Nesciunt aperiam iure sint excepturi sint.",
+      "room_capacity": "6",
+      "room_types": "1",
+      "room_host": "4",
+      "room_daily_price": "120000",
+      "room_created_at": "2020-11-21 19:56:53",
+      "room_updated_at": "2023-04-22 13:06:35"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박오최",
+      "room_address_latitude": "36.82167",
+      "room_address_longitude": "128.63083",
+      "room_address": "제주특별자치도 제천시 서초중앙거리 (건우박남동)",
+      "room_des": "Veritatis modi explicabo odio voluptates inventore.\nOptio ut quos voluptas adipisci. Nihil accusamus maxime reiciendis.",
+      "room_capacity": "5",
+      "room_types": "1",
+      "room_host": "5",
+      "room_daily_price": "428000",
+      "room_created_at": "2020-08-22 21:36:42",
+      "room_updated_at": "2023-11-08 19:26:16"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김이",
+      "room_address_latitude": "37.1759",
+      "room_address_longitude": "128.9889",
+      "room_address": "서울특별시 마포구 잠실길 (병철김손마을)",
+      "room_des": "Vero quisquam accusamus tempore quas dolores molestiae. Placeat tenetur asperiores recusandae nemo.\nNam magni facere ratione. Quis et odio aliquam commodi aliquam eum.",
+      "room_capacity": "6",
+      "room_types": "2",
+      "room_host": "6",
+      "room_daily_price": "145000",
+      "room_created_at": "2023-09-05 15:30:07",
+      "room_updated_at": "2023-02-01 08:47:33"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "백이",
+      "room_address_latitude": "37.65639",
+      "room_address_longitude": "126.835",
+      "room_address": "충청남도 수원시 장안구 서초중앙로 (지연강김동)",
+      "room_des": "Dolores adipisci blanditiis fuga. Nihil exercitationem molestiae iste at quisquam ducimus porro. Ducimus ipsam iure.",
+      "room_capacity": "3",
+      "room_types": "1",
+      "room_host": "7",
+      "room_daily_price": "124000",
+      "room_created_at": "2023-06-21 07:24:02",
+      "room_updated_at": "2023-09-14 22:19:45"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 이이장",
+      "room_address_latitude": "36.6009",
+      "room_address_longitude": "126.665",
+      "room_address": "전라북도 고성군 강남대1가 (수진정면)",
+      "room_des": "Quod ipsam asperiores maxime. Atque officia modi minus quod inventore esse.",
+      "room_capacity": "10",
+      "room_types": "4",
+      "room_host": "8",
+      "room_daily_price": "107000",
+      "room_created_at": "2021-12-20 09:34:25",
+      "room_updated_at": "2023-05-13 19:38:33"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이박",
+      "room_address_latitude": "37.65639",
+      "room_address_longitude": "126.835",
+      "room_address": "서울특별시 은평구 양재천96길",
+      "room_des": "Perspiciatis expedita fugiat reiciendis sapiente quae nobis. Molestias sit quasi sunt libero facere. Molestias incidunt corporis.",
+      "room_capacity": "9",
+      "room_types": "4",
+      "room_host": "9",
+      "room_daily_price": "197000",
+      "room_created_at": "2021-02-03 12:40:51",
+      "room_updated_at": "2023-07-02 08:28:32"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 최이이",
+      "room_address_latitude": "37.65639",
+      "room_address_longitude": "126.835",
+      "room_address": "전라남도 안산시 단원구 삼성2로 (도윤이김면)",
+      "room_des": "Quidem consectetur culpa deserunt. Harum et aspernatur tempora necessitatibus.\nDolorem enim mollitia sapiente saepe. Magnam molestiae et voluptas quidem eos earum.",
+      "room_capacity": "8",
+      "room_types": "2",
+      "room_host": "10",
+      "room_daily_price": "201000",
+      "room_created_at": "2023-08-16 06:00:15",
+      "room_updated_at": "2023-10-03 15:44:03"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "민고김",
+      "room_address_latitude": "34.8825",
+      "room_address_longitude": "128.62667",
+      "room_address": "서울특별시 용산구 오금길",
+      "room_des": "Magni repudiandae quaerat quaerat quia. Laboriosam accusantium quidem totam id ut temporibus.\nAliquam eius quae facilis. Officia eligendi dicta earum ducimus.",
+      "room_capacity": "9",
+      "room_types": "2",
+      "room_host": "11",
+      "room_daily_price": "3000",
+      "room_created_at": "2021-09-15 01:50:36",
+      "room_updated_at": "2023-11-26 14:02:24"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 윤",
+      "room_address_latitude": "36.20389",
+      "room_address_longitude": "127.08472",
+      "room_address": "전라남도 고양시 덕양구 강남대길",
+      "room_des": "Accusamus quaerat sequi saepe. Dignissimos fugiat adipisci repellat. Fuga illo eos quis.\nIusto facilis repellendus illum magnam minus. Accusantium iste laboriosam voluptatum a fugiat.",
+      "room_capacity": "10",
+      "room_types": "4",
+      "room_host": "12",
+      "room_daily_price": "226000",
+      "room_created_at": "2022-08-19 23:30:53",
+      "room_updated_at": "2023-06-19 13:31:13"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "백배정",
+      "room_address_latitude": "36.82167",
+      "room_address_longitude": "128.63083",
+      "room_address": "충청북도 하남시 삼성256가 (현정김박면)",
+      "room_des": "Deleniti eveniet eos.\nIste cumque doloribus quam totam reprehenderit.\nRem beatae hic tenetur repellat. Nemo ut inventore autem voluptatum voluptate sed.",
+      "room_capacity": "3",
+      "room_types": "2",
+      "room_host": "13",
+      "room_daily_price": "47000",
+      "room_created_at": "2021-10-24 12:10:51",
+      "room_updated_at": "2023-02-28 16:14:06"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이한신",
+      "room_address_latitude": "36.6009",
+      "room_address_longitude": "126.665",
+      "room_address": "충청남도 성남시 수정구 가락20거리",
+      "room_des": "Est dolores culpa. Sit quasi corporis et cumque perspiciatis. Voluptatem enim rerum laborum doloribus repellendus voluptatibus.\nEsse nesciunt suscipit accusantium doloribus.",
+      "room_capacity": "7",
+      "room_types": "4",
+      "room_host": "14",
+      "room_daily_price": "68000",
+      "room_created_at": "2020-01-27 02:52:25",
+      "room_updated_at": "2023-09-26 21:32:59"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 최김박",
+      "room_address_latitude": "37.1759",
+      "room_address_longitude": "128.9889",
+      "room_address": "대구광역시 관악구 서초대7로 (영희황마을)",
+      "room_des": "Dignissimos iusto fugit officia natus culpa. Harum incidunt perspiciatis harum recusandae consequuntur.",
+      "room_capacity": "3",
+      "room_types": "3",
+      "room_host": "15",
+      "room_daily_price": "746000",
+      "room_created_at": "2023-12-05 12:03:00",
+      "room_updated_at": "2023-08-19 07:07:07"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김한",
+      "room_address_latitude": "37.65639",
+      "room_address_longitude": "126.835",
+      "room_address": "대구광역시 동작구 역삼959가 (지연김박마을)",
+      "room_des": "Laboriosam expedita alias deleniti excepturi neque. Numquam vero veritatis velit recusandae. Ex ratione dolorem animi. Earum nihil tenetur sint fuga.",
+      "room_capacity": "10",
+      "room_types": "4",
+      "room_host": "16",
+      "room_daily_price": "181000",
+      "room_created_at": "2021-05-24 22:05:24",
+      "room_updated_at": "2023-03-17 06:01:27"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김이안",
+      "room_address_latitude": "34.8825",
+      "room_address_longitude": "128.62667",
+      "room_address": "강원도 정선군 선릉47길",
+      "room_des": "Veniam nostrum voluptates ducimus quam. Pariatur tempora eos vel alias officia. Non voluptatibus deleniti magnam harum.\nExpedita aut aut. Soluta magni tempora dolor ea. Facilis ex voluptas itaque.",
+      "room_capacity": "9",
+      "room_types": "2",
+      "room_host": "17",
+      "room_daily_price": "27000",
+      "room_created_at": "2023-07-19 03:11:50",
+      "room_updated_at": "2023-03-14 13:18:43"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 송",
+      "room_address_latitude": "37.65639",
+      "room_address_longitude": "126.835",
+      "room_address": "제주특별자치도 청양군 도산대로 (정훈김읍)",
+      "room_des": "At minima perspiciatis officia minus nulla quaerat. Ipsam ipsam ullam aut odio. Ad repudiandae soluta laborum exercitationem.",
+      "room_capacity": "8",
+      "room_types": "4",
+      "room_host": "18",
+      "room_daily_price": "6000",
+      "room_created_at": "2020-12-27 05:10:02",
+      "room_updated_at": "2023-11-15 05:01:35"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 이",
+      "room_address_latitude": "36.6009",
+      "room_address_longitude": "126.665",
+      "room_address": "전라북도 음성군 개포48가",
+      "room_des": "Doloremque cum eligendi. Aspernatur commodi dolorem cupiditate. Perferendis esse sed ipsam veniam pariatur deleniti.\nConsectetur harum voluptatem possimus a modi eaque.",
+      "room_capacity": "10",
+      "room_types": "1",
+      "room_host": "19",
+      "room_daily_price": "235000",
+      "room_created_at": "2022-08-02 07:43:42",
+      "room_updated_at": "2023-07-04 23:16:36"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 최최최",
+      "room_address_latitude": "36.82167",
+      "room_address_longitude": "128.63083",
+      "room_address": "제주특별자치도 평택시 학동38길",
+      "room_des": "Veritatis culpa praesentium expedita ipsam eius amet placeat. Assumenda ipsum perferendis corrupti alias numquam sed. Aliquam eligendi odit distinctio asperiores aut.\nNatus aliquid rerum.",
+      "room_capacity": "6",
+      "room_types": "4",
+      "room_host": "20",
+      "room_daily_price": "115000",
+      "room_created_at": "2020-05-17 21:20:41",
+      "room_updated_at": "2023-10-04 05:53:30"
+    }
+  }
+]

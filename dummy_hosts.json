@@ -1,0 +1,142 @@
+[
+  {
+    "pk": 1,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "이미영"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "민지원"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "김민준"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "박예원"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "이진호"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "이은경"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "홍현주"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "구중수"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "배성민"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "한정호"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "박영자"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "최예준"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "박건우"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "강민수"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "문지아"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "하영일"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "박성훈"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "이미숙"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "전은경"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "rooms.Host",
+    "fields": {
+      "name": "윤성진"
+    }
+  }
+]

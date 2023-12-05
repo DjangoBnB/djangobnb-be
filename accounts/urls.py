@@ -1,12 +1,8 @@
-from django.urls import path
+from django.urls import path, include
 from . import views
 
-
-app_name = 'accounts'
 urlpatterns = [
-    # path('login/', views.login, name='login'),
-    # path('logout/', views.logout, name='logout'),
-    # path('signup/', views.signup, name='signup'),
-    # path('delete/', views.delete, name='delete'),
-    # path('update/', views.update, name='update'),
+    path('', include('dj_rest_auth.urls')),
+    path('signup/', include('dj_rest_auth.registration.urls')),
+    path('update/', views.update)
 ]
