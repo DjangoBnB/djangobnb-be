@@ -7,21 +7,42 @@ from rest_framework.permissions import IsAuthenticated
 
 # Create your views here.
 @api_view(['GET',])
-def index(requests):
+def index(request):
     rooms = Room.objects.all()
-    serializer = RoomListSerializer(rooms, many=True)
+    room_option = request.GET.getlist('option')
+    room_type = request.GET.get('type')
+    place = request.GET.getlist('place')
+    count_p = request.GET.get('count_p')
+    filtered_rooms = rooms
+
+    if room_type:
+        filtered_rooms = filtered_rooms.filter(room_type=room_type)
+
+    if room_option:
+        for option in room_option:
+            filtered_rooms = filtered_rooms.filter(room_option__id__in=option)
+
+    if place:
+        for p in place:
+            filtered_rooms = filtered_rooms.filter(room_address__contains=p)
+
+    if count_p:
+        filtered_rooms = filtered_rooms.filter(room_max__gte=count_p)
+    # 이상: __gte, 초과: __gt, 이하:__lte, 미만:__lt
+    
+    serializer = RoomListSerializer(filtered_rooms, many=True)
     return Response(serializer.data)
 
 
 @api_view(['GET',])
-def detail(requests, room_id):
+def detail(request, room_id):
     room = Room.objects.get(id=room_id)
     serializer = RoomSerializer(room)
     return Response(serializer.data)
 
 
 @api_view(['GET',])
-def reviews(requests):
+def reviews(request):
     reviews = Review.objects.all()
     serializer = ReviewSerializer(reviews, many=True)
     return Response(serializer.data)
@@ -30,13 +51,13 @@ def reviews(requests):
 
 @api_view(['POST',])
 @permission_classes([IsAuthenticated])
-def book(requests, room_id):
+def book(request, room_id):
     # print(requests.data)
     room = Room.objects.get(id=room_id)
-    serializer = BookSerializer(data=requests.data)
-    print(requests.user)
+    serializer = BookSerializer(data=request.data)
+    print(request.user)
     if serializer.is_valid():
-        print(requests.user)
-        serializer.save(book_user=requests.user, book_room=room)
+        print(request.user)
+        serializer.save(book_user=request.user, book_room=room)
         return Response(serializer.data)
     print(serializer.errors)
