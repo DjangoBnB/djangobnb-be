@@ -3,7 +3,7 @@
 [ERD URL 작성중](https://www.erdcloud.com/d/2H4dsj384NJDdRbaG)
 
 # AirBnB 클론코딩 (DjangoBnB)
-[협업 노션](https://yoooooooung.notion.site/20d6946a1f4947f99f118a776b6765a4)
+[협업 노션](https://yoooooooung.notion.site/20d6946a1f4947f99f118a776b6765a4)    
 [장고팀 노션](https://yoooooooung.notion.site/yoooooooung/41ef66aad4d140d29cbcabfb505fa9eb)
 ## 🧑🏻‍💻 BE 개발자
 
