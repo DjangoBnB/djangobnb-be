@@ -31,7 +31,7 @@ class CustomAccountAdapter(DefaultAccountAdapter):
         if last_name:
             user_field(user, "last_name", last_name)
         if nickname:
-            user_field(user, "nickname", nickname)
+             user_field(user, "nickname", nickname)
         if "password1" in data:
             user.set_password(data["password1"])
         else:
