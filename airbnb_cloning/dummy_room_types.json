@@ -1,0 +1,30 @@
+[
+  {
+    "pk": 1,
+    "model": "rooms.Type",
+    "fields": {
+      "name": "호텔"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "rooms.Type",
+    "fields": {
+      "name": "모텔"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "rooms.Type",
+    "fields": {
+      "name": "펜션"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "rooms.Type",
+    "fields": {
+      "name": "아파트"
+    }
+  }
+]
