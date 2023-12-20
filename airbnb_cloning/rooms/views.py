@@ -5,7 +5,10 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated
 from django.contrib.auth import get_user_model
-from django.shortcuts import get_object_or_404
+from django.shortcuts import get_object_or_404, get_list_or_404
+from django.http import HttpResponseForbidden
+
+
 
 # Create your views here.
 @api_view(['GET',])
@@ -52,11 +55,16 @@ def detail(request, room_id):
     
 
 
-@api_view(['GET',])
-def reviews(request):
-    reviews = Review.objects.all()
-    serializer = ReviewSerializer(reviews, many=True)
-    return Response(serializer.data)
+@api_view(['POST',])
+def create_review(request, room_id):
+    room = get_object_or_404(Room, id=room_id)
+    books = get_list_or_404(Book, book_user=request.user, book_room=room_id)
+    if books:
+        serializer = ReviewSerializer(data=request.data)
+        if serializer.is_valid():
+            serializer.save(review_author=request.user, review_room=room)
+            return Response(serializer.data)
+    return HttpResponseForbidden('사용자는 해당 숙소에 예약되어 있지 않습니다.')
 
     
 
