@@ -174,3 +174,6 @@ REST_AUTH = {
 }
 
 ACCOUNT_ADAPTER = 'accounts.models.CustomAccountAdapter'
+
+MEDIA_ROOT = BASE_DIR / 'media'
+MEDIA_URL = 'media/'
