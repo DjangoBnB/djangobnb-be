@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from .models import Room, Review, Book
 from .serializers import RoomListSerializer, RoomSerializer, ReviewSerializer, BookSerializer
+from rest_framework import status
 from rest_framework.response import Response
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated
@@ -15,6 +16,7 @@ def index(request):
     room_type = request.GET.get('type')
     place = request.GET.getlist('place')
     count_p = request.GET.get('count_p')
+    room_booked = request.GET.get('room_booked')
     filtered_rooms = rooms
 
     if room_type:
@@ -33,7 +35,10 @@ def index(request):
     # 이상: __gte, 초과: __gt, 이하:__lte, 미만:__lt
     
     serializer = RoomListSerializer(filtered_rooms, many=True)
-    return Response(serializer.data)
+    if serializer.data:
+        return Response(serializer.data, status=status.HTTP_200_OK)
+    else:
+        return Response({"message": "아쉽지만 맞는 숙소가 없네용"}, status=status.HTTP_204_NO_CONTENT)
 
 
 @api_view(['GET', 'POST',])
@@ -46,10 +51,13 @@ def detail(request, room_id):
         if request.user.is_authenticated:
             serializer = BookSerializer(data=request.data)
             
-            if serializer.is_valid():
+            if serializer.is_valid(raise_exception=True):
                 serializer.save(book_user=request.user, book_room=room)
+                request.user.save()
                 return Response(serializer.data)
-    
+            # book제대로 적용이 안 돼서 수정
+            # 문제점 똑같은 날짜를 보내도 중복적용
+
 
 
 @api_view(['GET',])
