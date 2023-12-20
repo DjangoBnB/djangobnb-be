@@ -34,14 +34,9 @@ class RoomListSerializer(serializers.ModelSerializer):
     room_id = serializers.IntegerField(source='id', read_only=True)
     room_score = serializers.SerializerMethodField()
     room_reviews_count = serializers.IntegerField(source='room_reviewed.count', read_only=True)
-<<<<<<< HEAD
     room_host = serializers.CharField(source='room_host_name.name', read_only=True)
     room_images = serializers.SerializerMethodField()
-=======
-    host_name = serializers.CharField(source='room_host_name.name', read_only=True)
-    image_url = serializers.SerializerMethodField()
-
->>>>>>> hjw
+    room_booked = serializers.SerializerMethodField()
 
     class Meta():
         model = Room
@@ -54,21 +49,19 @@ class RoomListSerializer(serializers.ModelSerializer):
             return 0
         return round(av, 1)
     
-<<<<<<< HEAD
     def get_room_images(self, obj):
         if obj.room_images.all():
             return [img.image_url for img in obj.room_images.all()]
         else:
-            return []
-=======
-    def get_image_url(self, obj):
-        if not obj.room_images.all():
             return "https://media.istockphoto.com/id/1454186576/ko/%EB%B2%A1%ED%84%B0/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EC%B6%9C%EC%8B%9C-%EC%98%88%EC%A0%95-%EC%82%AC%EC%A7%84-%EA%B8%B0%ED%98%B8%EA%B0%80-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%8D%B8%EB%84%A4%EC%9D%BC%EC%9D%B4-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-%EA%B8%B0%EB%B3%B8-%EC%B6%95%EC%86%8C%ED%8C%90%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%97%86%EC%9D%8C-%EC%95%84%EC%9D%B4%EC%BD%98%EC%9E%85%EB%8B%88%EB%8B%A4-%ED%94%84%EB%A1%9C%ED%95%84-%EC%82%AC%EC%A7%84-%EB%B2%A1%ED%84%B0-%EC%8A%A4%ED%86%A1-%EA%B7%B8%EB%A6%BC%EC%9E%85%EB%8B%88%EB%8B%A4.jpg?s=1024x1024&w=is&k=20&c=vXhGWLi02G8izNY-dAHP0E6tpfLOYQNw1jkHh_OJbKY="
-        else:
-            return [img.image_url for img in obj.room_images.all()]
 
->>>>>>> hjw
+    def get_room_booked(self, obj):
+        books = Book.objects.filter(book_room_id=obj.id)
+        date_list = []
+        for book in books:
+            get_date_range(book.book_check_in, book.book_check_out, date_list)
 
+        return date_list
 
 class BookSerializer(serializers.ModelSerializer):
     class Meta():
