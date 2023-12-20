@@ -25,6 +25,7 @@ class Room(models.Model):
     room_option = models.ManyToManyField(Option, blank=True, related_name='options_room')
     room_booked = models.ManyToManyField(get_user_model(), null=True, through='Book', related_name='user_room')
     room_reviews = models.ManyToManyField(get_user_model(), null=True, through='Review', related_name='review_room')
+    room_like_users = models.ManyToManyField(get_user_model(), related_name='like_rooms')
     room_host_name = models.ForeignKey(Host, on_delete=models.CASCADE)
     room_price = models.IntegerField()
     room_created_at = models.DateTimeField(auto_now_add=True)
