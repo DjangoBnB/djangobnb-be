@@ -151,12 +151,12 @@ class RoomSerializer(serializers.ModelSerializer):
             get_date_range(book.book_check_in, book.book_check_out, date_list)
 
         return date_list
-    
 
 
 
 
-    
+
+
 
 
 
