@@ -1,0 +1,30 @@
+[
+  {
+    "pk": 1,
+    "model": "rooms.Option",
+    "fields": {
+      "name": "수영장"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "rooms.Option",
+    "fields": {
+      "name": "주방"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "rooms.Option",
+    "fields": {
+      "name": "와이파이"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "rooms.Option",
+    "fields": {
+      "name": "애견동반"
+    }
+  }
+]
