@@ -7,8 +7,10 @@ from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import IsAuthenticated
 from django.contrib.auth import get_user_model
 from django.shortcuts import get_object_or_404
-
+from datetime import datetime, timedelta
+from django.db.models import Q
 # Create your views here.
+
 @api_view(['GET',])
 def index(request):
     rooms = Room.objects.all()
@@ -16,7 +18,8 @@ def index(request):
     room_type = request.GET.get('type')
     place = request.GET.getlist('place')
     count_p = request.GET.get('count_p')
-    room_booked = request.GET.get('room_booked')
+    book_check_in = request.GET.get('book_check_in')
+    book_check_out = request.GET.get('book_check_out')
     filtered_rooms = rooms
 
     if room_type:
@@ -26,13 +29,25 @@ def index(request):
         for option in room_option:
             filtered_rooms = filtered_rooms.filter(room_option__id__in=option)
 
-    if place:
+    if place:  
         for p in place:
             filtered_rooms = filtered_rooms.filter(room_address__contains=p)
 
     if count_p:
         filtered_rooms = filtered_rooms.filter(room_max__gte=count_p)
     # 이상: __gte, 초과: __gt, 이하:__lte, 미만:__lt
+    if book_check_in and book_check_out:
+        check_in = datetime.strptime(book_check_in, "%Y-%m-%d")
+        check_out = datetime.strptime(book_check_out, "%Y-%m-%d")
+        
+        booked_room_ids = Book.objects.filter(
+            Q(book_check_in__lte=check_out, book_check_out__gte=check_in) |
+            Q(book_check_in__gte=check_in, book_check_out__lte=check_out) |
+            Q(book_check_in__lte=check_in, book_check_out__gte=check_out)
+        ).values_list('book_room_id', flat=True)
+
+        filtered_rooms = Room.objects.exclude(id__in=booked_room_ids)
+
     
     serializer = RoomListSerializer(filtered_rooms, many=True)
     if serializer.data:
