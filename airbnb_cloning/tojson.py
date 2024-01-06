@@ -2,10 +2,10 @@ import csv
 import json
 
 # CSV 파일 경로 - 읽을 CSV 파일
-csv_file_path = 'dummy_reviews.csv'
+csv_file_path = 'dummy_rooms.csv'
 
 # JSON 파일 경로
-json_file_path = 'dummy_reviews.json'
+json_file_path = 'dummy_rooms.json'
 
 # CSV 파일 읽어오기
 with open(csv_file_path, 'r', encoding='utf-8') as csv_file:
@@ -16,7 +16,7 @@ with open(csv_file_path, 'r', encoding='utf-8') as csv_file:
     n = 1
     for row in csv_reader:
         pk_value = n
-        model_name = 'rooms.Review' # 생성할 model 이름
+        model_name = 'rooms.Room' # 생성할 model 이름
         fields_data = row
 
         json_object = {

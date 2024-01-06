@@ -3,360 +3,3600 @@
     "pk": 1,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "유한회사 이",
-      "room_lat": "36.20389",
-      "room_long": "127.08472",
-      "room_address": "대전광역시 강남구 개포거리 (미경유면)",
-      "room_des": "Quo deserunt neque placeat. Nostrum provident temporibus eligendi.\nDolorem eius nostrum fuga officia quia. Mollitia dignissimos repudiandae sit ea at harum tenetur. Soluta qui nemo id quam quidem.",
-      "room_max": "7",
+      "room_name": "최김오",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "부산광역시 북구 석촌호수083가 (서현김리)",
+      "room_des": "Laudantium repudiandae veritatis officia harum repudiandae illo.\nReiciendis qui repellat provident molestias. Officia sed nostrum totam dicta minus.",
+      "room_max": "8",
       "room_type": "3",
-      "room_option": [3, 4],
-      "room_host_name": "1",
-      "room_price": "171000",
-      "room_created_at": "2023-11-04 19:18:31",
-      "room_updated_at": "2023-05-11 09:06:24"
+      "room_option": [1, 2, 3],
+      "room_host_name": "14",
+      "room_price": "233000",
+      "room_created_at": "2022-09-15 06:47:32",
+      "room_updated_at": "2024-01-06 03:01:16"
     }
   },
   {
     "pk": 2,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "류허",
+      "room_name": "남정오",
       "room_lat": "34.8825",
       "room_long": "128.62667",
-      "room_address": "인천광역시 강남구 서초중앙7가 (지혜박김면)",
-      "room_des": "Ullam at necessitatibus soluta. Ullam in impedit provident minima.\nConsequatur temporibus repudiandae quaerat fuga. Animi voluptates fuga aperiam dicta voluptatibus.",
-      "room_max": "7",
-      "room_type": "3",
-      "room_option": [1, 3, 4],
-      "room_host_name": "2",
-      "room_price": "37000",
-      "room_created_at": "2021-03-28 02:56:36",
-      "room_updated_at": "2023-07-20 01:17:34"
+      "room_address": "부산광역시 북구 압구정61가 (현숙노최동)",
+      "room_des": "Similique ipsam esse eaque rem odit. Perspiciatis eligendi perferendis reiciendis dolor.",
+      "room_max": "9",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "11",
+      "room_price": "176000",
+      "room_created_at": "2022-08-05 13:10:54",
+      "room_updated_at": "2024-01-03 18:59:26"
     }
   },
   {
     "pk": 3,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "유한회사 노",
-      "room_lat": "36.6009",
-      "room_long": "126.665",
-      "room_address": "인천광역시 동구 서초대로",
-      "room_des": "Porro voluptatem earum recusandae. Incidunt occaecati hic numquam dolore delectus. Totam architecto distinctio nisi.",
-      "room_max": "1",
-      "room_type": "3",
-      "room_option": [],
-      "room_host_name": "3",
-      "room_price": "352000",
-      "room_created_at": "2023-06-27 20:43:41",
-      "room_updated_at": "2023-01-07 23:16:49"
+      "room_name": "이권송",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 북구 수지구 역삼길",
+      "room_des": "Cumque maiores aut exercitationem esse eos. Voluptas consequuntur voluptatem qui. Consequatur praesentium suscipit. Voluptatibus pariatur corporis consequatur eaque sequi incidunt.",
+      "room_max": "6",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "13",
+      "room_price": "354000",
+      "room_created_at": "2021-04-09 08:29:15",
+      "room_updated_at": "2024-01-04 09:51:51"
     }
   },
   {
     "pk": 4,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "한장강",
-      "room_lat": "34.8825",
-      "room_long": "128.62667",
-      "room_address": "제주특별자치도 단양군 서초중앙가 (예원민마을)",
-      "room_des": "Aliquid animi minus quae optio debitis. Sed consectetur cum reprehenderit ducimus. Omnis veniam excepturi nam ducimus molestias.\nRepellendus veniam debitis voluptatibus doloribus.",
-      "room_max": "9",
-      "room_type": "3",
-      "room_option": [1, 2, 3, 4],
-      "room_host_name": "4",
-      "room_price": "565000",
-      "room_created_at": "2021-03-31 14:38:47",
-      "room_updated_at": "2023-09-25 05:17:30"
+      "room_name": "한김",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "부산광역시 동구 강남대7거리 (준서남면)",
+      "room_des": "Laudantium minima porro ducimus voluptatem tenetur doloremque. Ratione assumenda occaecati dolore autem corrupti deleniti.\nMinima qui doloremque quae.",
+      "room_max": "6",
+      "room_type": "1",
+      "room_option": [1, 3],
+      "room_host_name": "20",
+      "room_price": "73000",
+      "room_created_at": "2022-08-18 00:30:08",
+      "room_updated_at": "2024-01-01 10:51:43"
     }
   },
   {
     "pk": 5,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "김박이",
-      "room_lat": "36.20389",
-      "room_long": "127.08472",
-      "room_address": "대구광역시 금천구 압구정가",
-      "room_des": "Vitae qui aut officiis voluptate perspiciatis quisquam. Iure ea deleniti fugiat.\nDeleniti officia in error et dolore temporibus consectetur. Ea quis quasi quidem in nemo.",
-      "room_max": "2",
-      "room_type": "4",
+      "room_name": "주식회사 오",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 북구 삼성로 (우진윤리)",
+      "room_des": "Dolore culpa ut distinctio quia ex. Sapiente ducimus impedit debitis fugit incidunt.",
+      "room_max": "7",
+      "room_type": "1",
       "room_option": [1, 2, 3, 4],
-      "room_host_name": "5",
-      "room_price": "78000",
-      "room_created_at": "2023-02-25 14:39:25",
-      "room_updated_at": "2023-06-08 11:58:11"
+      "room_host_name": "16",
+      "room_price": "224000",
+      "room_created_at": "2022-06-13 15:21:49",
+      "room_updated_at": "2024-01-03 16:36:27"
     }
   },
   {
     "pk": 6,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "박장",
-      "room_lat": "36.82167",
-      "room_long": "128.63083",
-      "room_address": "충청남도 단양군 봉은사가 (서영하조동)",
-      "room_des": "Assumenda saepe praesentium voluptates blanditiis facilis. Error eligendi occaecati mollitia vitae.\nMagnam architecto labore aut earum. Nulla eius perspiciatis error labore.",
-      "room_max": "3",
-      "room_type": "2",
+      "room_name": "유한회사 김",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대전광역시 서구 선릉로",
+      "room_des": "Ex pariatur aspernatur. Sint veritatis placeat distinctio.",
+      "room_max": "6",
+      "room_type": "4",
       "room_option": [1, 2, 3, 4],
-      "room_host_name": "6",
-      "room_price": "136000",
-      "room_created_at": "2021-03-22 20:22:30",
-      "room_updated_at": "2023-03-05 19:08:36"
+      "room_host_name": "13",
+      "room_price": "308000",
+      "room_created_at": "2023-09-02 05:17:42",
+      "room_updated_at": "2024-01-05 14:18:24"
     }
   },
   {
     "pk": 7,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "서김",
-      "room_lat": "34.8825",
-      "room_long": "128.62667",
-      "room_address": "전라북도 충주시 언주거리 (서현서노동)",
-      "room_des": "Cumque blanditiis non magni enim accusamus laudantium velit. Minus qui veniam ipsa eius perspiciatis. Repudiandae iure ad sunt qui rem quos aperiam. Magni maxime tempora maiores error nesciunt.",
-      "room_max": "8",
-      "room_type": "3",
-      "room_option": [2, 3, 4],
-      "room_host_name": "7",
-      "room_price": "246000",
-      "room_created_at": "2023-01-14 10:11:53",
-      "room_updated_at": "2023-01-06 09:40:26"
+      "room_name": "유한회사 이",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "부산광역시 서구 잠실891로",
+      "room_des": "Aspernatur nesciunt sequi doloribus laborum.\nDoloribus doloremque culpa voluptate necessitatibus quam commodi. Ducimus nam placeat vitae qui. Aliquam qui magni illum. Dolorem ipsa inventore esse.",
+      "room_max": "2",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "4",
+      "room_price": "497000",
+      "room_created_at": "2022-12-23 12:01:41",
+      "room_updated_at": "2024-01-02 03:16:28"
     }
   },
   {
     "pk": 8,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "이김",
-      "room_lat": "37.65639",
-      "room_long": "126.835",
-      "room_address": "대구광역시 양천구 학동489길",
-      "room_des": "Minima distinctio dolor vitae quasi reiciendis. Hic dolorum perspiciatis delectus. Rem distinctio dolores voluptas laborum rerum ut. Delectus iste neque explicabo nesciunt pariatur sapiente.",
-      "room_max": "3",
-      "room_type": "2",
-      "room_option": [1, 2],
-      "room_host_name": "8",
-      "room_price": "126000",
-      "room_created_at": "2023-10-31 22:51:01",
-      "room_updated_at": "2023-04-28 21:45:42"
+      "room_name": "오김",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "부산광역시 중구 반포대거리 (성호박동)",
+      "room_des": "At itaque quibusdam pariatur voluptates. Nesciunt ut sunt distinctio.\nNatus a natus facere deserunt odio. Ratione sapiente minus veniam possimus.",
+      "room_max": "5",
+      "room_type": "1",
+      "room_option": [4],
+      "room_host_name": "4",
+      "room_price": "151000",
+      "room_created_at": "2022-03-23 04:59:57",
+      "room_updated_at": "2024-01-06 06:37:36"
     }
   },
   {
     "pk": 9,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "(유) 문",
-      "room_lat": "34.8825",
-      "room_long": "128.62667",
-      "room_address": "대전광역시 성동구 봉은사08로",
-      "room_des": "Blanditiis quo enim consequuntur numquam nesciunt repellendus.\nDoloremque modi tempore modi asperiores sint. Repellat aspernatur sequi culpa. Dolore quod aliquam incidunt dicta ipsam ipsum fugit.",
-      "room_max": "10",
-      "room_type": "1",
-      "room_option": [1],
-      "room_host_name": "9",
-      "room_price": "361000",
-      "room_created_at": "2021-10-28 11:10:17",
-      "room_updated_at": "2023-09-16 00:35:24"
+      "room_name": "(유) 성장김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "부산광역시 중구 개포59가",
+      "room_des": "Odio corrupti illo non magni. Numquam laboriosam sunt totam.\nAliquam provident consequuntur quasi. Autem laudantium rerum corporis.",
+      "room_max": "4",
+      "room_type": "4",
+      "room_option": [1, 3, 4],
+      "room_host_name": "14",
+      "room_price": "114000",
+      "room_created_at": "2022-12-14 06:14:01",
+      "room_updated_at": "2024-01-04 16:06:01"
     }
   },
   {
     "pk": 10,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "한이",
-      "room_lat": "37.1759",
-      "room_long": "128.9889",
-      "room_address": "세종특별자치시 성북구 서초중앙57가",
-      "room_des": "Facere deserunt impedit esse error nobis. Magni labore in fugiat maxime aut exercitationem a. Consequatur cupiditate ex suscipit.\nVelit quidem animi perspiciatis. Culpa veniam eligendi.",
+      "room_name": "(주) 이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 서구 반포대85가 (경수신마을)",
+      "room_des": "Molestias beatae numquam iste impedit a. Similique maiores quibusdam ut architecto.\nLibero consequuntur id culpa officia molestiae nisi. Quam minima maxime accusamus consectetur iusto quisquam.",
       "room_max": "6",
       "room_type": "1",
-      "room_option": [2, 4],
-      "room_host_name": "10",
-      "room_price": "482000",
-      "room_created_at": "2023-03-05 12:02:21",
-      "room_updated_at": "2023-06-17 22:24:01"
+      "room_option": [1, 2, 4],
+      "room_host_name": "20",
+      "room_price": "31000",
+      "room_created_at": "2023-03-13 13:08:08",
+      "room_updated_at": "2024-01-03 05:00:14"
     }
   },
   {
     "pk": 11,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "차이김",
-      "room_lat": "36.6009",
-      "room_long": "126.665",
-      "room_address": "제주특별자치도 원주시 서초대거리 (서준곽류면)",
-      "room_des": "Aperiam autem fuga quia. Consectetur eos reiciendis cupiditate iste eligendi. A voluptatum nihil earum.\nUt nihil voluptate ipsum dolorum. Pariatur cumque molestias debitis. Sunt officia earum sit.",
+      "room_name": "장김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "부산광역시 북구 영동대57거리",
+      "room_des": "Fugiat recusandae sint.\nDeserunt tempore harum incidunt in esse enim. Repellendus ut fugiat occaecati iusto. Dignissimos minima numquam dolore veritatis.",
       "room_max": "10",
-      "room_type": "4",
-      "room_option": [1, 2, 3],
-      "room_host_name": "11",
-      "room_price": "211000",
-      "room_created_at": "2022-10-23 09:23:59",
-      "room_updated_at": "2023-03-14 19:13:29"
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "10",
+      "room_price": "638000",
+      "room_created_at": "2020-07-04 14:19:44",
+      "room_updated_at": "2024-01-06 07:29:08"
     }
   },
   {
     "pk": 12,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "(주) 이",
-      "room_lat": "36.20389",
-      "room_long": "127.08472",
-      "room_address": "제주특별자치도 원주시 서초중앙367길",
-      "room_des": "Velit voluptate occaecati error laborum quas. Modi cum aperiam ea deleniti consectetur recusandae quidem.",
-      "room_max": "6",
-      "room_type": "2",
-      "room_option": [1, 3],
-      "room_host_name": "12",
-      "room_price": "80000",
-      "room_created_at": "2021-12-24 17:26:09",
-      "room_updated_at": "2023-04-19 06:59:27"
+      "room_name": "박이김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "제주특별시 남구 양재천4가 (아름오김동)",
+      "room_des": "Facere sed voluptatum soluta. Nihil consectetur eaque quae impedit.",
+      "room_max": "1",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "9",
+      "room_price": "312000",
+      "room_created_at": "2020-10-21 01:16:57",
+      "room_updated_at": "2024-01-04 23:32:47"
     }
   },
   {
     "pk": 13,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "김김김",
+      "room_name": "류김",
       "room_lat": "36.6009",
       "room_long": "126.665",
-      "room_address": "충청북도 수원시 영통구 양재천가",
-      "room_des": "Commodi tenetur cupiditate deserunt mollitia laudantium.\nReprehenderit ratione aliquam possimus. Neque repudiandae odio sit totam ad blanditiis.",
+      "room_address": "부산광역시 남구 강남대로",
+      "room_des": "In distinctio placeat voluptas quae. Expedita distinctio vitae recusandae cupiditate.",
       "room_max": "7",
-      "room_type": "4",
-      "room_option": [1, 2, 3],
-      "room_host_name": "13",
-      "room_price": "138000",
-      "room_created_at": "2021-01-21 00:23:56",
-      "room_updated_at": "2023-07-27 17:49:09"
+      "room_type": "1",
+      "room_option": [1, 2],
+      "room_host_name": "2",
+      "room_price": "39000",
+      "room_created_at": "2022-04-11 16:40:18",
+      "room_updated_at": "2024-01-03 22:54:51"
     }
   },
   {
     "pk": 14,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "유한회사 김권김",
-      "room_lat": "36.82167",
-      "room_long": "128.63083",
-      "room_address": "대구광역시 금천구 테헤란430가",
-      "room_des": "Amet corporis quaerat quia dignissimos dolorem explicabo. Fugiat commodi molestias.",
-      "room_max": "8",
-      "room_type": "2",
-      "room_option": [1, 2, 3, 4],
-      "room_host_name": "14",
-      "room_price": "475000",
-      "room_created_at": "2022-04-16 20:25:06",
-      "room_updated_at": "2023-01-26 23:04:11"
+      "room_name": "주식회사 이",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대전광역시 서구 봉은사로",
+      "room_des": "Voluptatum vero quos nulla dicta. Quo laborum delectus eius consectetur.\nDucimus beatae expedita unde officia unde esse.\nNulla et fugiat cum.",
+      "room_max": "5",
+      "room_type": "4",
+      "room_option": [1, 3],
+      "room_host_name": "16",
+      "room_price": "57000",
+      "room_created_at": "2020-06-05 23:14:16",
+      "room_updated_at": "2024-01-05 13:48:02"
     }
   },
   {
     "pk": 15,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "김조",
-      "room_lat": "37.1759",
-      "room_long": "128.9889",
-      "room_address": "서울특별시 관악구 역삼695로 (영숙권박마을)",
-      "room_des": "Quam quos accusamus facere minima. Dolore modi voluptates nesciunt.\nDeserunt rerum ad quaerat facere magnam libero nihil. Doloribus error eum dolores.\nTemporibus earum saepe iusto.",
+      "room_name": "장이배",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "제주특별시 동구 테헤란로",
+      "room_des": "Veniam explicabo facere vel. Nostrum sapiente placeat suscipit voluptas non.\nLaboriosam eum facere enim laborum praesentium.",
       "room_max": "2",
-      "room_type": "3",
-      "room_option": [2, 4],
-      "room_host_name": "15",
-      "room_price": "290000",
-      "room_created_at": "2022-05-09 07:24:10",
-      "room_updated_at": "2023-09-30 08:21:29"
+      "room_type": "1",
+      "room_option": [1, 3],
+      "room_host_name": "4",
+      "room_price": "348000",
+      "room_created_at": "2020-05-04 08:44:00",
+      "room_updated_at": "2024-01-03 18:04:37"
     }
   },
   {
     "pk": 16,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "이임김",
-      "room_lat": "36.6009",
-      "room_long": "126.665",
-      "room_address": "강원도 계룡시 영동대가",
-      "room_des": "Maxime officia asperiores veniam. Blanditiis aliquam modi quis dicta. Vero voluptates dolorum earum quos ipsa.",
-      "room_max": "2",
-      "room_type": "3",
-      "room_option": [4],
-      "room_host_name": "16",
-      "room_price": "250000",
-      "room_created_at": "2023-06-03 17:30:30",
-      "room_updated_at": "2023-04-25 08:13:11"
+      "room_name": "장류김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 서구 선릉가 (혜진김박면)",
+      "room_des": "Vel fugit nesciunt id dolor possimus. Ab distinctio provident nostrum nostrum neque.\nAccusantium dolore temporibus. Iure fuga quidem placeat reprehenderit distinctio. Ipsam impedit odio.",
+      "room_max": "10",
+      "room_type": "4",
+      "room_option": [1, 2],
+      "room_host_name": "1",
+      "room_price": "107000",
+      "room_created_at": "2022-01-29 01:01:24",
+      "room_updated_at": "2024-01-02 09:48:21"
     }
   },
   {
     "pk": 17,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "(주) 김",
-      "room_lat": "37.65639",
-      "room_long": "126.835",
-      "room_address": "경기도 화천군 서초중앙43거리 (서영허오리)",
-      "room_des": "Cumque animi molestiae. Consectetur aperiam ad accusamus itaque ducimus. Quisquam repellendus veritatis nemo ducimus veritatis magnam.",
-      "room_max": "1",
-      "room_type": "4",
+      "room_name": "황성주",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대전광역시 중구 도산대043가",
+      "room_des": "Repudiandae repellat beatae impedit quis fugit. Officiis quasi facilis molestiae delectus. Reprehenderit totam cupiditate fugiat sapiente eos.",
+      "room_max": "9",
+      "room_type": "1",
       "room_option": [1, 2, 3, 4],
-      "room_host_name": "17",
-      "room_price": "279000",
-      "room_created_at": "2022-10-08 06:21:07",
-      "room_updated_at": "2023-10-23 13:31:14"
+      "room_host_name": "10",
+      "room_price": "171000",
+      "room_created_at": "2020-06-12 10:41:20",
+      "room_updated_at": "2024-01-01 00:09:16"
     }
   },
   {
     "pk": 18,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "(유) 김최이",
-      "room_lat": "37.65639",
-      "room_long": "126.835",
-      "room_address": "울산광역시 용산구 영동대길",
-      "room_des": "Similique quibusdam occaecati debitis ad nisi. Facilis at in voluptatibus voluptates dolore suscipit. Similique dolores rem commodi voluptate nostrum eligendi.",
-      "room_max": "6",
-      "room_type": "4",
-      "room_option": [],
-      "room_host_name": "18",
-      "room_price": "753000",
-      "room_created_at": "2022-05-19 07:26:53",
-      "room_updated_at": "2023-03-10 00:17:07"
+      "room_name": "유한회사 이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 북구 백제고분길",
+      "room_des": "In similique beatae occaecati enim et asperiores. Minima culpa fugiat quae praesentium quibusdam aperiam.",
+      "room_max": "10",
+      "room_type": "1",
+      "room_option": [3, 4],
+      "room_host_name": "5",
+      "room_price": "10000",
+      "room_created_at": "2023-01-16 17:47:47",
+      "room_updated_at": "2024-01-03 07:45:07"
     }
   },
   {
     "pk": 19,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "박이박",
-      "room_lat": "34.8825",
-      "room_long": "128.62667",
-      "room_address": "전라남도 수원시 장안구 서초대13로",
-      "room_des": "Nam cupiditate pariatur. Earum distinctio saepe at quam dolorem deleniti.",
-      "room_max": "6",
-      "room_type": "3",
-      "room_option": [4],
-      "room_host_name": "19",
-      "room_price": "166000",
-      "room_created_at": "2022-04-08 03:47:11",
-      "room_updated_at": "2023-05-20 16:09:15"
+      "room_name": "(주) 송박김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대전광역시 동구 서초중앙로 (성훈민하읍)",
+      "room_des": "Doloribus omnis doloribus dolore. Magni mollitia possimus ullam explicabo dicta ducimus fugit. Rem placeat a doloribus blanditiis.",
+      "room_max": "1",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "14",
+      "room_price": "42000",
+      "room_created_at": "2020-12-17 20:30:27",
+      "room_updated_at": "2024-01-03 07:30:11"
     }
   },
   {
     "pk": 20,
     "model": "rooms.Room",
     "fields": {
-      "room_name": "주식회사 서",
+      "room_name": "이이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "부산광역시 동구 청원구 도산대로",
+      "room_des": "Ea mollitia culpa nemo provident doloribus. Modi ea mollitia fugit officiis. Eveniet nihil excepturi enim accusantium pariatur neque.",
+      "room_max": "10",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "5",
+      "room_price": "164000",
+      "room_created_at": "2023-05-05 01:11:59",
+      "room_updated_at": "2024-01-02 02:33:59"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 김안김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 북구 삼성로",
+      "room_des": "Totam provident minima.\nSint consequuntur labore odit iste deserunt. Labore officia officia veritatis.\nVero delectus expedita vitae. Qui cupiditate voluptatem quam.",
+      "room_max": "10",
+      "room_type": "4",
+      "room_option": [],
+      "room_host_name": "10",
+      "room_price": "48000",
+      "room_created_at": "2022-05-10 21:33:23",
+      "room_updated_at": "2024-01-05 13:10:48"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "배송",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 중구 학동354로 (영일김박동)",
+      "room_des": "Ab minus quasi ratione repellendus ex. At fugiat earum minima amet vitae expedita.\nEa similique commodi officia.",
+      "room_max": "4",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "19",
+      "room_price": "263000",
+      "room_created_at": "2020-08-11 03:01:17",
+      "room_updated_at": "2024-01-05 03:06:56"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 정윤윤",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 서구 양재천135로 (병철김면)",
+      "room_des": "Modi molestias facilis fugit consequuntur. Alias minima excepturi perspiciatis. Earum praesentium vero.",
+      "room_max": "5",
+      "room_type": "2",
+      "room_option": [1],
+      "room_host_name": "7",
+      "room_price": "229000",
+      "room_created_at": "2021-08-06 05:59:20",
+      "room_updated_at": "2024-01-02 21:30:33"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김이이",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "제주특별시 중구 반포대거리",
+      "room_des": "Doloribus reiciendis iste error. Commodi aperiam praesentium commodi libero. Officia odit quia minus officia perferendis laboriosam.",
+      "room_max": "4",
+      "room_type": "1",
+      "room_option": [1, 4],
+      "room_host_name": "20",
+      "room_price": "515000",
+      "room_created_at": "2023-11-30 19:09:04",
+      "room_updated_at": "2024-01-04 03:52:47"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 양송김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "서울특별시 중구 논현로 (지원최이면)",
+      "room_des": "Quaerat enim officia facilis labore non tenetur. Iste recusandae hic ad.\nConsectetur porro dolorum ad sequi rem.",
+      "room_max": "3",
+      "room_type": "4",
+      "room_option": [1, 2, 3],
+      "room_host_name": "13",
+      "room_price": "263000",
+      "room_created_at": "2021-08-17 05:11:06",
+      "room_updated_at": "2024-01-04 02:23:54"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "윤윤",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 북구 백제고분길",
+      "room_des": "Architecto hic nisi animi aperiam repellendus.\nDolore ullam consequuntur sed. Consequatur adipisci unde corporis occaecati.",
+      "room_max": "10",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "20",
+      "room_price": "240000",
+      "room_created_at": "2020-06-30 05:50:03",
+      "room_updated_at": "2024-01-05 03:32:28"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "노박김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "서울특별시 북구 동안구 양재천023가",
+      "room_des": "Assumenda modi quam a mollitia. Quaerat quam iusto dolorum praesentium nobis ut quis.\nEaque cum in nulla molestiae. Amet corporis earum. Qui asperiores vel veniam voluptate maiores deserunt.",
+      "room_max": "8",
+      "room_type": "3",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "10",
+      "room_price": "132000",
+      "room_created_at": "2023-04-13 01:05:05",
+      "room_updated_at": "2024-01-02 13:35:10"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "안김",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대전광역시 북구 양재천길",
+      "room_des": "Cumque id voluptates eum consectetur doloremque. Explicabo laborum neque quas est expedita a. Aliquam debitis a.",
+      "room_max": "3",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "20",
+      "room_price": "41000",
+      "room_created_at": "2020-11-20 06:35:02",
+      "room_updated_at": "2024-01-04 13:49:23"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 박",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 북구 역삼52길 (광수김면)",
+      "room_des": "Ducimus dicta repellendus quam facilis dolore. Possimus eaque nam eius cumque necessitatibus.",
+      "room_max": "6",
+      "room_type": "4",
+      "room_option": [1, 2, 3],
+      "room_host_name": "8",
+      "room_price": "165000",
+      "room_created_at": "2021-03-14 10:43:36",
+      "room_updated_at": "2024-01-06 19:59:20"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최허",
       "room_lat": "36.6009",
       "room_long": "126.665",
-      "room_address": "광주광역시 동대문구 도산대446길",
-      "room_des": "Ea reprehenderit at eum maxime illum consequatur. Pariatur placeat animi odio occaecati iusto fuga dignissimos.\nCorrupti iste in eaque consectetur.",
+      "room_address": "서울특별시 동구 반포대43길 (민수김마을)",
+      "room_des": "Nisi molestias cum soluta dolore. Culpa error temporibus modi provident earum provident. Itaque quos corrupti ratione voluptatem itaque.",
+      "room_max": "8",
+      "room_type": "3",
+      "room_option": [1, 3, 4],
+      "room_host_name": "3",
+      "room_price": "277000",
+      "room_created_at": "2023-05-18 08:36:56",
+      "room_updated_at": "2024-01-02 06:05:08"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 김김이",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "서울특별시 동구 언주920거리 (성수노박동)",
+      "room_des": "Exercitationem repellat ullam totam incidunt vel cupiditate. Beatae quia quidem nesciunt sit facere. Maxime ratione eos tempora facilis.",
+      "room_max": "2",
+      "room_type": "4",
+      "room_option": [1],
+      "room_host_name": "3",
+      "room_price": "269000",
+      "room_created_at": "2022-06-10 07:59:01",
+      "room_updated_at": "2024-01-03 23:02:44"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "제주특별시 동구 개포로",
+      "room_des": "Corrupti et explicabo eveniet aperiam tenetur. Autem natus consequatur ut quidem consequatur ipsum. Ullam alias doloremque recusandae et minima.",
+      "room_max": "6",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "15",
+      "room_price": "290000",
+      "room_created_at": "2020-03-31 09:32:33",
+      "room_updated_at": "2024-01-06 07:20:56"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 박이이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대전광역시 중구 봉은사로 (민서하면)",
+      "room_des": "Et exercitationem numquam aspernatur voluptatibus non. Molestias facilis illo.\nQuasi beatae sed modi. Beatae eaque eaque est animi aliquam.",
+      "room_max": "5",
+      "room_type": "4",
+      "room_option": [1, 2, 4],
+      "room_host_name": "20",
+      "room_price": "197000",
+      "room_created_at": "2021-08-02 16:40:15",
+      "room_updated_at": "2024-01-03 02:12:56"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 동구 봉은사로 (정자문읍)",
+      "room_des": "Dolorem exercitationem omnis ducimus eveniet quae. Aliquid aperiam deserunt dicta nemo.",
+      "room_max": "7",
+      "room_type": "2",
+      "room_option": [2],
+      "room_host_name": "3",
+      "room_price": "389000",
+      "room_created_at": "2020-10-18 01:28:34",
+      "room_updated_at": "2024-01-05 22:14:07"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 조",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "제주특별시 중구 서초대738거리",
+      "room_des": "Id voluptate officia illum fugit illo. Illo nobis eum quas illum animi.",
+      "room_max": "7",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "2",
+      "room_price": "39000",
+      "room_created_at": "2020-10-11 03:21:47",
+      "room_updated_at": "2024-01-06 03:06:42"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박김",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "부산광역시 서구 삼성334거리 (영호김동)",
+      "room_des": "Quasi exercitationem maxime rem repudiandae tempora veritatis. Natus nisi est quibusdam at ut officiis.",
+      "room_max": "4",
+      "room_type": "2",
+      "room_option": [3],
+      "room_host_name": "4",
+      "room_price": "570000",
+      "room_created_at": "2023-02-27 10:31:44",
+      "room_updated_at": "2024-01-02 14:30:25"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 양윤유",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대전광역시 남구 서초대가 (준영심이리)",
+      "room_des": "Veniam beatae quaerat ea quibusdam doloribus dolore. Sunt provident ullam voluptates odit quod.",
       "room_max": "9",
       "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "5",
+      "room_price": "23000",
+      "room_created_at": "2021-08-23 21:23:04",
+      "room_updated_at": "2024-01-01 16:36:53"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이조",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대구광역시 북구 강남대가 (예진박박리)",
+      "room_des": "Voluptatem minus aliquam. Odio error reiciendis quia vitae corrupti culpa nam. Fuga odit rem delectus numquam modi.\nIure qui reiciendis. Iure nihil delectus laboriosam consectetur ad quasi omnis.",
+      "room_max": "6",
+      "room_type": "2",
+      "room_option": [2, 3],
+      "room_host_name": "10",
+      "room_price": "257000",
+      "room_created_at": "2023-08-02 17:07:49",
+      "room_updated_at": "2024-01-06 02:44:18"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 김김문",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "제주특별시 서구 개포가 (예준박이리)",
+      "room_des": "Sequi vitae quam. Earum nisi temporibus assumenda accusamus. Nihil itaque repellendus officiis.\nMolestias odit illum. Odit quia maiores nesciunt fugit.\nSunt commodi quia fugit dicta voluptatibus.",
+      "room_max": "10",
+      "room_type": "3",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "7",
+      "room_price": "157000",
+      "room_created_at": "2020-11-27 01:24:57",
+      "room_updated_at": "2024-01-05 18:28:48"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "진황",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 서구 영동대82거리",
+      "room_des": "Nihil reiciendis ratione similique sequi iste. Saepe inventore amet ipsa quisquam soluta tenetur quibusdam. Ab natus praesentium fugit. Aliquid explicabo vitae aut nostrum est amet.",
+      "room_max": "8",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "1",
+      "room_price": "75000",
+      "room_created_at": "2021-12-13 13:04:57",
+      "room_updated_at": "2024-01-05 22:22:40"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "홍윤",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "부산광역시 동구 기흥구 역삼길",
+      "room_des": "Velit ut ab voluptas debitis dolorum. Tempora accusantium officia inventore impedit. Nobis natus est eaque nulla quidem.",
+      "room_max": "4",
+      "room_type": "3",
+      "room_option": [1, 2, 3],
+      "room_host_name": "5",
+      "room_price": "245000",
+      "room_created_at": "2023-01-25 18:56:24",
+      "room_updated_at": "2024-01-05 12:43:17"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "부산광역시 동구 선릉가 (은영오마을)",
+      "room_des": "Voluptates sapiente facere illo corporis.\nEarum veritatis eveniet eveniet unde mollitia cum nostrum. Hic porro laborum ex tempora.",
+      "room_max": "8",
+      "room_type": "1",
+      "room_option": [4],
+      "room_host_name": "3",
+      "room_price": "261000",
+      "room_created_at": "2020-04-20 09:54:47",
+      "room_updated_at": "2024-01-04 04:46:41"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 임",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대전광역시 중구 서초중앙720길 (민재이면)",
+      "room_des": "Magni atque vero eos voluptatibus rem. Eos aspernatur amet blanditiis perspiciatis aspernatur.\nAutem sint omnis quas. Iure facilis illo quaerat velit.",
+      "room_max": "1",
+      "room_type": "3",
+      "room_option": [4],
+      "room_host_name": "17",
+      "room_price": "307000",
+      "room_created_at": "2022-02-22 17:21:11",
+      "room_updated_at": "2024-01-02 10:17:46"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 손",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대구광역시 동구 오금240로 (수민박리)",
+      "room_des": "Voluptatem voluptatum quam repellat dolorum repellat eos. Quaerat voluptatum molestias reprehenderit velit. Modi voluptatem eos laborum nesciunt ad.",
+      "room_max": "7",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "2",
+      "room_price": "329000",
+      "room_created_at": "2021-01-01 01:43:03",
+      "room_updated_at": "2024-01-03 06:47:43"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이박김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "서울특별시 북구 언주길 (선영윤강마을)",
+      "room_des": "Nihil voluptatibus alias consequatur occaecati. Dolore fugit a tempora aliquam veritatis. Ullam aut eaque sint.",
+      "room_max": "7",
+      "room_type": "2",
+      "room_option": [3],
+      "room_host_name": "9",
+      "room_price": "406000",
+      "room_created_at": "2023-08-19 10:01:25",
+      "room_updated_at": "2024-01-06 00:10:39"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최최고",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "서울특별시 북구 가락0길 (예은이리)",
+      "room_des": "A recusandae voluptate ad doloribus expedita. Quod quia sapiente necessitatibus. Labore rerum impedit quasi nulla. Laudantium reprehenderit voluptates earum doloribus soluta optio.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "8",
+      "room_price": "470000",
+      "room_created_at": "2021-05-15 00:40:18",
+      "room_updated_at": "2024-01-03 12:45:58"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박박",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "제주특별시 북구 서초대로",
+      "room_des": "Animi delectus ratione deleniti facilis.\nQuos modi reprehenderit velit. Architecto soluta iusto aliquam error magni.\nDelectus cupiditate libero molestias. Quam exercitationem rem hic ut architecto.",
+      "room_max": "4",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "15",
+      "room_price": "92000",
+      "room_created_at": "2021-10-01 14:48:53",
+      "room_updated_at": "2024-01-01 17:57:32"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 박김김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대전광역시 남구 잠실길",
+      "room_des": "Beatae ipsa et recusandae repudiandae. Ipsum aperiam dolorem reprehenderit. Quis earum eveniet.",
+      "room_max": "9",
+      "room_type": "1",
+      "room_option": [1, 2, 4],
+      "room_host_name": "10",
+      "room_price": "441000",
+      "room_created_at": "2023-11-24 23:34:28",
+      "room_updated_at": "2024-01-06 06:12:45"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "양김황",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대전광역시 동구 영동대길 (수진박장면)",
+      "room_des": "Nihil aliquam hic asperiores ipsum praesentium. Voluptate dolor unde illo. Iure quisquam molestiae quos nobis dolorem facilis. Laboriosam tenetur sunt repellendus.",
+      "room_max": "3",
+      "room_type": "3",
+      "room_option": [2],
+      "room_host_name": "9",
+      "room_price": "446000",
+      "room_created_at": "2022-06-02 16:11:32",
+      "room_updated_at": "2024-01-04 12:13:08"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박박박",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 서구 서북구 삼성5길 (민지이하마을)",
+      "room_des": "A voluptas quos possimus rem. Voluptatem quae odit quam quidem dicta. Odio animi laborum expedita.\nAccusamus tenetur possimus assumenda et quaerat. Ducimus officiis magnam doloremque.",
+      "room_max": "9",
+      "room_type": "1",
+      "room_option": [2, 3],
+      "room_host_name": "2",
+      "room_price": "367000",
+      "room_created_at": "2021-04-07 19:25:56",
+      "room_updated_at": "2024-01-02 18:08:10"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 최",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "부산광역시 남구 서초대4길 (정남강김리)",
+      "room_des": "Laborum ducimus cumque facilis. Alias doloribus quis hic quaerat consectetur. Aliquid iure temporibus ratione non error.",
+      "room_max": "2",
+      "room_type": "1",
+      "room_option": [3],
+      "room_host_name": "8",
+      "room_price": "232000",
+      "room_created_at": "2021-04-09 03:35:32",
+      "room_updated_at": "2024-01-04 04:45:13"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최신",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 중구 테헤란15길",
+      "room_des": "Quidem quibusdam praesentium quibusdam officiis eum tempora. Nam consequatur ullam facere doloremque facilis alias.",
+      "room_max": "8",
+      "room_type": "3",
+      "room_option": [2],
+      "room_host_name": "15",
+      "room_price": "70000",
+      "room_created_at": "2020-11-28 09:56:44",
+      "room_updated_at": "2024-01-02 06:09:54"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 하이이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대전광역시 남구 역삼0거리 (진호김마을)",
+      "room_des": "Dignissimos magnam asperiores molestiae reprehenderit officiis aut. Quis eos atque ut. Possimus explicabo quos reiciendis quos.\nNatus sequi corrupti labore hic deserunt cum.",
+      "room_max": "6",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "6",
+      "room_price": "195000",
+      "room_created_at": "2020-11-18 13:05:34",
+      "room_updated_at": "2024-01-06 10:24:19"
+    }
+  },
+  {
+    "pk": 54,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 박박최",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 북구 테헤란길",
+      "room_des": "Dolore voluptatibus quasi ullam facere facilis. Libero beatae iusto alias culpa eum excepturi. Deserunt fugit quod voluptate omnis libero numquam.",
+      "room_max": "7",
+      "room_type": "1",
+      "room_option": [1],
+      "room_host_name": "10",
+      "room_price": "47000",
+      "room_created_at": "2022-12-26 22:03:00",
+      "room_updated_at": "2024-01-04 14:33:32"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 김김이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 북구 봉은사522거리 (선영이읍)",
+      "room_des": "Veritatis iste earum omnis officia iure. Quos sequi nam commodi quasi corporis numquam ducimus.",
+      "room_max": "4",
+      "room_type": "3",
+      "room_option": [1, 2, 3],
+      "room_host_name": "8",
+      "room_price": "432000",
+      "room_created_at": "2021-08-14 08:35:47",
+      "room_updated_at": "2024-01-02 20:17:10"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 허",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "제주특별시 남구 백제고분로 (채원김리)",
+      "room_des": "Exercitationem aspernatur vitae iste autem. Saepe asperiores occaecati.\nSuscipit minima non eveniet neque quos deserunt minima.",
+      "room_max": "7",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "17",
+      "room_price": "747000",
+      "room_created_at": "2022-02-01 15:28:34",
+      "room_updated_at": "2024-01-04 21:29:01"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최손장",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "제주특별시 북구 강남대가 (서준이리)",
+      "room_des": "Porro tempore numquam nobis rem atque.\nFuga occaecati nam in. Enim saepe ducimus.\nQuidem ipsum veniam ea nemo maiores. Eligendi exercitationem accusamus.",
+      "room_max": "2",
+      "room_type": "3",
+      "room_option": [2],
+      "room_host_name": "10",
+      "room_price": "214000",
+      "room_created_at": "2023-05-03 20:14:58",
+      "room_updated_at": "2024-01-02 05:03:08"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 박",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "부산광역시 서구 도산대662가",
+      "room_des": "Similique aliquam aliquam vitae voluptatum laborum fugiat. Eum atque vel praesentium repudiandae officia porro ipsa.\nQuae consectetur ullam nemo doloribus quasi. Sit quos voluptatum fugit.",
+      "room_max": "7",
+      "room_type": "2",
+      "room_option": [3],
+      "room_host_name": "8",
+      "room_price": "214000",
+      "room_created_at": "2022-05-03 04:21:33",
+      "room_updated_at": "2024-01-02 06:39:36"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최고김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 서구 학동37길 (준혁이리)",
+      "room_des": "Repellendus saepe blanditiis assumenda accusantium reprehenderit. Autem nam aliquid odio explicabo. Ullam consequatur tempore quas optio.",
+      "room_max": "1",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "20",
+      "room_price": "25000",
+      "room_created_at": "2022-04-20 15:44:52",
+      "room_updated_at": "2024-01-06 01:54:01"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이임",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 동구 학동길 (예준김김읍)",
+      "room_des": "Nemo tenetur optio cumque quod dolore numquam.\nImpedit nam repellendus cupiditate aliquid. Inventore magni perspiciatis id.\nIpsa eos optio exercitationem corporis. Vel sit dolor fugit vitae.",
+      "room_max": "7",
+      "room_type": "3",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "1",
+      "room_price": "262000",
+      "room_created_at": "2023-06-24 12:49:25",
+      "room_updated_at": "2024-01-06 09:01:26"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "손김류",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "부산광역시 동구 압구정373길",
+      "room_des": "Perspiciatis ad mollitia. Nulla distinctio excepturi quidem aliquam a natus. Itaque ipsa ut ab.\nTempora eius dolores porro minima. Rerum laudantium illo dolorem.",
+      "room_max": "9",
+      "room_type": "2",
+      "room_option": [3, 4],
+      "room_host_name": "3",
+      "room_price": "219000",
+      "room_created_at": "2020-09-05 07:15:21",
+      "room_updated_at": "2024-01-01 23:43:52"
+    }
+  },
+  {
+    "pk": 62,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "부산광역시 동구 만안구 선릉4로",
+      "room_des": "Voluptates ipsa quam nisi ratione. Natus aperiam est dolor reprehenderit.\nTempore eum saepe incidunt laboriosam.\nReiciendis reprehenderit porro rem. Quisquam quisquam id facere.",
+      "room_max": "9",
+      "room_type": "3",
+      "room_option": [2],
+      "room_host_name": "18",
+      "room_price": "365000",
+      "room_created_at": "2021-04-20 12:26:51",
+      "room_updated_at": "2024-01-05 21:06:46"
+    }
+  },
+  {
+    "pk": 63,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "안김",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "서울특별시 남구 가락58거리",
+      "room_des": "Consectetur praesentium ipsam quae explicabo dolore. Nemo nobis vel eum ullam suscipit.\nMolestiae a iusto aut minus odio tempore. Autem minus reiciendis pariatur sunt voluptatum libero.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [1, 2],
+      "room_host_name": "14",
+      "room_price": "144000",
+      "room_created_at": "2023-02-17 05:51:33",
+      "room_updated_at": "2024-01-06 17:09:14"
+    }
+  },
+  {
+    "pk": 64,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "문정",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "부산광역시 서구 단원구 양재천18거리",
+      "room_des": "Voluptates vitae labore. Sapiente quidem numquam officiis a dolorem. Perspiciatis earum sequi quis voluptas soluta.\nIn deleniti tenetur culpa rem dolor enim. Quos error numquam.",
+      "room_max": "4",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "19",
+      "room_price": "268000",
+      "room_created_at": "2021-10-05 16:34:12",
+      "room_updated_at": "2024-01-03 16:51:59"
+    }
+  },
+  {
+    "pk": 65,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "강장김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "제주특별시 북구 역삼2가 (수민장리)",
+      "room_des": "Dolore alias voluptatum corrupti deleniti ipsa quis enim. Nisi optio blanditiis doloremque. Neque quidem explicabo mollitia dolores porro sit.",
+      "room_max": "3",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "11",
+      "room_price": "563000",
+      "room_created_at": "2020-07-13 07:33:05",
+      "room_updated_at": "2024-01-01 14:36:16"
+    }
+  },
+  {
+    "pk": 66,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 북구 테헤란3거리 (하은손김리)",
+      "room_des": "Nisi voluptatem nobis reprehenderit. Saepe a voluptates enim quo.\nPerspiciatis vel a harum maiores. Consequuntur aperiam quos ipsum corporis.",
+      "room_max": "2",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "7",
+      "room_price": "50000",
+      "room_created_at": "2022-12-14 05:44:30",
+      "room_updated_at": "2024-01-05 11:39:31"
+    }
+  },
+  {
+    "pk": 67,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 정",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "부산광역시 중구 도산대84로",
+      "room_des": "Perspiciatis dicta dolor. Quidem itaque natus maiores.\nAb mollitia corrupti temporibus necessitatibus nisi. Culpa quod quod eos. Occaecati rem explicabo consequatur.",
+      "room_max": "2",
+      "room_type": "3",
+      "room_option": [1, 2, 4],
+      "room_host_name": "9",
+      "room_price": "329000",
+      "room_created_at": "2022-04-07 10:26:18",
+      "room_updated_at": "2024-01-05 03:05:03"
+    }
+  },
+  {
+    "pk": 68,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 김",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "제주특별시 동구 테헤란493길",
+      "room_des": "Architecto totam qui distinctio quas odio.\nPraesentium culpa aliquam magnam.",
+      "room_max": "8",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "9",
+      "room_price": "203000",
+      "room_created_at": "2021-11-04 04:47:40",
+      "room_updated_at": "2024-01-04 20:17:03"
+    }
+  },
+  {
+    "pk": 69,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 심오김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 서구 강남대로",
+      "room_des": "Dolor corrupti nihil eaque quibusdam. Earum similique beatae nemo similique voluptate. Labore provident nulla fugiat animi velit.",
+      "room_max": "3",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "19",
+      "room_price": "163000",
+      "room_created_at": "2023-12-12 04:25:58",
+      "room_updated_at": "2024-01-05 19:51:50"
+    }
+  },
+  {
+    "pk": 70,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "한최",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대전광역시 동구 양재천70거리 (승현최면)",
+      "room_des": "Voluptates ipsam repudiandae alias perferendis modi. Unde magnam itaque. Veniam natus distinctio.",
+      "room_max": "10",
+      "room_type": "3",
       "room_option": [2, 3, 4],
       "room_host_name": "20",
-      "room_price": "133000",
-      "room_created_at": "2022-02-06 14:48:51",
-      "room_updated_at": "2023-05-04 20:40:53"
+      "room_price": "463000",
+      "room_created_at": "2023-11-15 21:02:47",
+      "room_updated_at": "2024-01-01 19:15:51"
+    }
+  },
+  {
+    "pk": 71,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 장이최",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "부산광역시 중구 가락길",
+      "room_des": "Reprehenderit velit dicta voluptas sed fugit. Adipisci perferendis quod esse nesciunt necessitatibus inventore.",
+      "room_max": "10",
+      "room_type": "1",
+      "room_option": [2, 3, 4],
+      "room_host_name": "8",
+      "room_price": "49000",
+      "room_created_at": "2021-11-01 12:33:09",
+      "room_updated_at": "2024-01-06 00:25:54"
+    }
+  },
+  {
+    "pk": 72,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 김류박",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "서울특별시 남구 학동가",
+      "room_des": "Aliquam possimus exercitationem atque adipisci sunt. Aliquid quaerat accusamus harum. Dicta molestias labore recusandae minus eveniet sequi.",
+      "room_max": "10",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "20",
+      "room_price": "362000",
+      "room_created_at": "2023-05-29 19:31:55",
+      "room_updated_at": "2024-01-04 10:00:14"
+    }
+  },
+  {
+    "pk": 73,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이장김",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "서울특별시 중구 서초중앙493길 (채원이홍읍)",
+      "room_des": "Doloribus fuga quaerat aspernatur voluptatum necessitatibus alias. Repellat odio doloremque reiciendis. Molestias at quasi labore asperiores eaque recusandae.",
+      "room_max": "2",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "3",
+      "room_price": "675000",
+      "room_created_at": "2022-12-18 21:15:58",
+      "room_updated_at": "2024-01-06 16:31:42"
+    }
+  },
+  {
+    "pk": 74,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이박",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "제주특별시 중구 수지구 언주857거리",
+      "room_des": "Libero est nihil velit optio. Fugit rem ab.\nQuibusdam tenetur error. Veritatis quo a possimus iure provident veniam sequi. Temporibus quas nobis enim.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [2, 3, 4],
+      "room_host_name": "16",
+      "room_price": "73000",
+      "room_created_at": "2021-11-24 19:38:51",
+      "room_updated_at": "2024-01-03 15:52:08"
+    }
+  },
+  {
+    "pk": 75,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 김",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대구광역시 북구 압구정길 (성훈강김동)",
+      "room_des": "Fuga saepe animi perferendis. Voluptate architecto dicta inventore eligendi voluptatum facere.\nAt ea consectetur minus dolorum eius ullam. Dolores maxime voluptate voluptatem natus.",
+      "room_max": "9",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "2",
+      "room_price": "514000",
+      "room_created_at": "2023-12-04 09:18:13",
+      "room_updated_at": "2024-01-03 05:45:20"
+    }
+  },
+  {
+    "pk": 76,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 이류하",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "제주특별시 중구 오금91길",
+      "room_des": "Labore eos exercitationem maxime libero doloribus laboriosam. Dolor aspernatur itaque facilis autem dolorum esse. Animi quas iste quo animi.",
+      "room_max": "3",
+      "room_type": "4",
+      "room_option": [],
+      "room_host_name": "9",
+      "room_price": "279000",
+      "room_created_at": "2020-03-15 10:19:53",
+      "room_updated_at": "2024-01-04 00:04:01"
+    }
+  },
+  {
+    "pk": 77,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이김이",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "제주특별시 동구 테헤란가",
+      "room_des": "Saepe necessitatibus quibusdam aut. Cupiditate doloremque cupiditate deleniti omnis vitae. Pariatur officiis mollitia saepe voluptates necessitatibus.",
+      "room_max": "2",
+      "room_type": "3",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "13",
+      "room_price": "12000",
+      "room_created_at": "2022-04-10 05:50:08",
+      "room_updated_at": "2024-01-04 01:48:44"
+    }
+  },
+  {
+    "pk": 78,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최한최",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 동구 학동가",
+      "room_des": "Itaque suscipit saepe id eius provident sequi.\nRerum dolore ipsa adipisci quisquam porro. Qui adipisci ullam quas at unde.",
+      "room_max": "4",
+      "room_type": "3",
+      "room_option": [1, 2, 3],
+      "room_host_name": "5",
+      "room_price": "112000",
+      "room_created_at": "2021-02-01 19:08:56",
+      "room_updated_at": "2024-01-05 05:15:27"
+    }
+  },
+  {
+    "pk": 79,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 문",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 남구 역삼길",
+      "room_des": "Repellat aliquam dolor provident.\nCum maiores quos saepe occaecati. Tempore necessitatibus dolorum amet aperiam laborum repudiandae ab. Rem voluptas saepe blanditiis nemo laboriosam at.",
+      "room_max": "3",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "19",
+      "room_price": "46000",
+      "room_created_at": "2021-04-12 18:08:47",
+      "room_updated_at": "2024-01-05 11:35:41"
+    }
+  },
+  {
+    "pk": 80,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김이박",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "서울특별시 중구 개포4가 (준영오동)",
+      "room_des": "Cum quisquam exercitationem debitis magni repellendus praesentium. Repellat voluptate explicabo odit. Repellendus praesentium rerum adipisci harum.",
+      "room_max": "5",
+      "room_type": "1",
+      "room_option": [2],
+      "room_host_name": "20",
+      "room_price": "169000",
+      "room_created_at": "2021-11-28 09:37:22",
+      "room_updated_at": "2024-01-01 03:30:15"
+    }
+  },
+  {
+    "pk": 81,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박최김",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대전광역시 동구 반포대1거리 (민재김이읍)",
+      "room_des": "Quas amet doloremque hic eum omnis nihil. Exercitationem sequi magnam laudantium. Animi architecto iure cum. Aliquam dolorum eum.",
+      "room_max": "1",
+      "room_type": "3",
+      "room_option": [2],
+      "room_host_name": "3",
+      "room_price": "367000",
+      "room_created_at": "2020-06-02 23:25:54",
+      "room_updated_at": "2024-01-05 14:23:03"
+    }
+  },
+  {
+    "pk": 82,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 중구 백제고분7거리",
+      "room_des": "Esse natus aut ut. Iure eos reprehenderit error minima cumque. Optio quam minima consequuntur vel neque dolorum.",
+      "room_max": "3",
+      "room_type": "3",
+      "room_option": [1, 2, 4],
+      "room_host_name": "10",
+      "room_price": "417000",
+      "room_created_at": "2023-05-19 03:12:04",
+      "room_updated_at": "2024-01-02 11:44:10"
+    }
+  },
+  {
+    "pk": 83,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김최우",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대구광역시 북구 봉은사거리",
+      "room_des": "Voluptate ex cupiditate eum ab nisi odio. Fugiat minus pariatur ducimus deleniti ad ipsam.\nVero enim pariatur dolore id. Vero cum fugit deserunt.",
+      "room_max": "2",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "16",
+      "room_price": "6000",
+      "room_created_at": "2021-12-16 07:09:56",
+      "room_updated_at": "2024-01-02 22:39:25"
+    }
+  },
+  {
+    "pk": 84,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김황",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "서울특별시 서구 테헤란로 (영식김김마을)",
+      "room_des": "Veritatis pariatur eligendi illo dolores earum.\nNesciunt magni veniam officia dicta. Architecto veritatis error sit numquam nihil fuga. Molestiae officiis nostrum nihil nemo error.",
+      "room_max": "5",
+      "room_type": "1",
+      "room_option": [4],
+      "room_host_name": "4",
+      "room_price": "21000",
+      "room_created_at": "2021-11-08 13:57:14",
+      "room_updated_at": "2024-01-05 11:46:46"
+    }
+  },
+  {
+    "pk": 85,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "나이",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대구광역시 동구 논현길",
+      "room_des": "In totam quibusdam harum omnis.\nVeritatis laboriosam magni in natus. Possimus explicabo commodi praesentium.",
+      "room_max": "9",
+      "room_type": "4",
+      "room_option": [],
+      "room_host_name": "20",
+      "room_price": "522000",
+      "room_created_at": "2022-08-20 08:39:51",
+      "room_updated_at": "2024-01-04 22:33:58"
+    }
+  },
+  {
+    "pk": 86,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "부산광역시 남구 서초대487길",
+      "room_des": "Tenetur non inventore laborum minima. Consectetur numquam maxime suscipit harum. Quod distinctio quod vitae qui fuga.",
+      "room_max": "5",
+      "room_type": "2",
+      "room_option": [1, 2, 3],
+      "room_host_name": "19",
+      "room_price": "799000",
+      "room_created_at": "2021-12-22 11:54:35",
+      "room_updated_at": "2024-01-04 07:29:31"
+    }
+  },
+  {
+    "pk": 87,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이윤허",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대전광역시 북구 역삼96거리 (재현송안면)",
+      "room_des": "Neque sequi nisi accusamus eos. Officiis hic asperiores veniam. Unde tenetur ut iste laudantium totam at ratione.\nAccusamus commodi facere veniam adipisci. Illum quaerat officiis dignissimos.",
+      "room_max": "6",
+      "room_type": "4",
+      "room_option": [1, 2, 3],
+      "room_host_name": "15",
+      "room_price": "373000",
+      "room_created_at": "2023-04-09 10:55:03",
+      "room_updated_at": "2024-01-04 16:08:41"
+    }
+  },
+  {
+    "pk": 88,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김김김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 남구 선릉가",
+      "room_des": "Sint enim distinctio quis sapiente voluptates nostrum. Ipsam sapiente molestias explicabo natus.",
+      "room_max": "10",
+      "room_type": "2",
+      "room_option": [1],
+      "room_host_name": "6",
+      "room_price": "413000",
+      "room_created_at": "2022-04-10 16:52:46",
+      "room_updated_at": "2024-01-05 04:31:33"
+    }
+  },
+  {
+    "pk": 89,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김박",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대구광역시 남구 서북구 역삼5거리",
+      "room_des": "Illum commodi magni eius.\nOfficiis quasi ab voluptates.\nPerferendis unde occaecati dolor quaerat nulla ea. Dicta porro laborum.",
+      "room_max": "2",
+      "room_type": "2",
+      "room_option": [1, 2, 3],
+      "room_host_name": "17",
+      "room_price": "367000",
+      "room_created_at": "2023-10-24 09:59:51",
+      "room_updated_at": "2024-01-02 17:30:31"
+    }
+  },
+  {
+    "pk": 90,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대구광역시 중구 반포대거리",
+      "room_des": "Similique eius voluptatem repudiandae. Natus natus at quaerat odio.\nDicta debitis earum deserunt odio consequatur.\nAperiam eligendi similique nemo. Quae tempora quidem nesciunt.",
+      "room_max": "8",
+      "room_type": "3",
+      "room_option": [4],
+      "room_host_name": "6",
+      "room_price": "229000",
+      "room_created_at": "2022-08-08 01:26:18",
+      "room_updated_at": "2024-01-03 16:07:31"
+    }
+  },
+  {
+    "pk": 91,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "남민",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "부산광역시 서구 가락1거리 (영숙장안읍)",
+      "room_des": "Ipsum eligendi deleniti voluptates. Quis modi ipsum maiores error optio odio. Quisquam tempora quos eos modi soluta debitis.",
+      "room_max": "5",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "12",
+      "room_price": "602000",
+      "room_created_at": "2023-09-26 12:51:08",
+      "room_updated_at": "2024-01-04 08:06:35"
+    }
+  },
+  {
+    "pk": 92,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 고이구",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대구광역시 중구 역삼거리 (영수김김읍)",
+      "room_des": "Aliquid et fugiat harum. Reprehenderit accusantium eos recusandae temporibus. Doloremque corporis incidunt quia dignissimos.",
+      "room_max": "5",
+      "room_type": "4",
+      "room_option": [1],
+      "room_host_name": "2",
+      "room_price": "63000",
+      "room_created_at": "2023-01-07 14:33:53",
+      "room_updated_at": "2024-01-02 18:38:54"
+    }
+  },
+  {
+    "pk": 93,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 이서이",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "부산광역시 동구 강남대거리 (지후한마을)",
+      "room_des": "Consectetur aspernatur exercitationem. Impedit doloribus voluptates sed esse est accusamus.",
+      "room_max": "10",
+      "room_type": "3",
+      "room_option": [2, 3],
+      "room_host_name": "18",
+      "room_price": "479000",
+      "room_created_at": "2023-10-18 03:06:39",
+      "room_updated_at": "2024-01-06 02:00:34"
+    }
+  },
+  {
+    "pk": 94,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "윤안",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "부산광역시 북구 학동로",
+      "room_des": "Ratione aut fuga vero eveniet rerum ipsa. Ea fugiat porro reiciendis reiciendis in. Nesciunt labore magnam sapiente quia.",
+      "room_max": "8",
+      "room_type": "3",
+      "room_option": [2, 3],
+      "room_host_name": "9",
+      "room_price": "71000",
+      "room_created_at": "2021-10-17 06:31:03",
+      "room_updated_at": "2024-01-01 13:14:49"
+    }
+  },
+  {
+    "pk": 95,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 김김김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "부산광역시 남구 언주거리",
+      "room_des": "Recusandae molestiae officiis voluptatum porro mollitia temporibus modi. Accusamus vitae soluta. Nemo sunt sapiente distinctio minima dolorum non.",
+      "room_max": "7",
+      "room_type": "1",
+      "room_option": [1, 3, 4],
+      "room_host_name": "5",
+      "room_price": "68000",
+      "room_created_at": "2022-08-17 12:44:07",
+      "room_updated_at": "2024-01-02 14:52:02"
+    }
+  },
+  {
+    "pk": 96,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김권이",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "서울특별시 북구 영통구 가락로 (지아이김리)",
+      "room_des": "Velit quas sit porro consequuntur repellat aliquam commodi. Maxime minus reiciendis enim voluptatibus hic nesciunt. Recusandae magni provident similique vel animi.",
+      "room_max": "2",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "16",
+      "room_price": "68000",
+      "room_created_at": "2021-10-24 16:57:15",
+      "room_updated_at": "2024-01-03 01:35:12"
+    }
+  },
+  {
+    "pk": 97,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 박김고",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대전광역시 중구 가락31거리 (유진이마을)",
+      "room_des": "Nemo eaque delectus ducimus blanditiis. Recusandae amet atque quisquam eos unde dolor. Nemo illo deleniti quis dicta magnam.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "5",
+      "room_price": "368000",
+      "room_created_at": "2021-10-09 18:14:10",
+      "room_updated_at": "2024-01-05 20:29:42"
+    }
+  },
+  {
+    "pk": 98,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "부산광역시 중구 학동8로 (예은김마을)",
+      "room_des": "Alias doloremque itaque possimus expedita nihil.\nEnim fugit veniam incidunt hic possimus. Vitae eveniet labore fugit. Voluptatem dolorum molestiae mollitia sed aut.",
+      "room_max": "10",
+      "room_type": "1",
+      "room_option": [1, 3, 4],
+      "room_host_name": "13",
+      "room_price": "36000",
+      "room_created_at": "2020-01-05 08:22:13",
+      "room_updated_at": "2024-01-05 23:03:26"
+    }
+  },
+  {
+    "pk": 99,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 장홍전",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 남구 논현로",
+      "room_des": "Veritatis odio blanditiis cum dignissimos dolorum. Maxime odit veniam expedita sequi possimus. Libero facere quos perspiciatis quidem corrupti.",
+      "room_max": "8",
+      "room_type": "1",
+      "room_option": [4],
+      "room_host_name": "8",
+      "room_price": "338000",
+      "room_created_at": "2020-06-18 17:10:52",
+      "room_updated_at": "2024-01-06 12:29:00"
+    }
+  },
+  {
+    "pk": 100,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김김김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 동구 논현2가",
+      "room_des": "Quo similique facilis nisi. Fugiat laudantium ullam magni vero maiores nemo.",
+      "room_max": "8",
+      "room_type": "1",
+      "room_option": [2, 3],
+      "room_host_name": "18",
+      "room_price": "197000",
+      "room_created_at": "2023-01-09 09:22:34",
+      "room_updated_at": "2024-01-03 21:33:06"
+    }
+  },
+  {
+    "pk": 101,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "고권",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 남구 단원구 도산대로 (정수이박리)",
+      "room_des": "Quia veniam laboriosam voluptate. Maxime consectetur odio. Vel rerum maiores repellat vero commodi eius.",
+      "room_max": "10",
+      "room_type": "2",
+      "room_option": [3],
+      "room_host_name": "19",
+      "room_price": "32000",
+      "room_created_at": "2021-08-31 00:55:18",
+      "room_updated_at": "2024-01-01 23:02:31"
+    }
+  },
+  {
+    "pk": 102,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김이",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 북구 양재천44가",
+      "room_des": "Dolor iusto consectetur quis velit. Tenetur numquam maiores atque animi consequuntur labore eius. Minima enim repellat recusandae odit accusamus eos. Ex labore beatae voluptate.",
+      "room_max": "3",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "20",
+      "room_price": "213000",
+      "room_created_at": "2023-03-29 09:59:14",
+      "room_updated_at": "2024-01-02 07:35:34"
+    }
+  },
+  {
+    "pk": 103,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "안황",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "제주특별시 북구 언주로 (정호황마을)",
+      "room_des": "Recusandae cum voluptate magni atque. Aliquam fuga architecto impedit. Non enim quam quaerat.",
+      "room_max": "2",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "6",
+      "room_price": "55000",
+      "room_created_at": "2022-04-18 15:17:26",
+      "room_updated_at": "2024-01-05 15:55:54"
+    }
+  },
+  {
+    "pk": 104,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 황",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대전광역시 서구 가락944로 (중수김마을)",
+      "room_des": "Doloribus natus quod soluta et quas. Atque maiores numquam sed.\nDeleniti molestiae consectetur tempore incidunt illum quidem. Aliquid error distinctio. Vel repellendus molestias.",
+      "room_max": "4",
+      "room_type": "4",
+      "room_option": [3, 4],
+      "room_host_name": "11",
+      "room_price": "142000",
+      "room_created_at": "2022-02-10 20:44:03",
+      "room_updated_at": "2024-01-03 19:10:31"
+    }
+  },
+  {
+    "pk": 105,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "지신이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 동구 오금447가 (영숙김윤마을)",
+      "room_des": "Incidunt consectetur aliquam.\nNeque eaque distinctio perferendis ipsa esse iusto. Quod esse consequuntur facilis. Distinctio provident ab sapiente dolore atque et. Natus dolores voluptate.",
+      "room_max": "5",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "15",
+      "room_price": "322000",
+      "room_created_at": "2021-01-06 23:17:49",
+      "room_updated_at": "2024-01-02 22:38:11"
+    }
+  },
+  {
+    "pk": 106,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "강전",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대전광역시 북구 양재천41길",
+      "room_des": "Alias commodi rerum consectetur repudiandae. Iste repellendus libero beatae qui explicabo rem. Vero libero totam atque deleniti.",
+      "room_max": "5",
+      "room_type": "3",
+      "room_option": [4],
+      "room_host_name": "1",
+      "room_price": "117000",
+      "room_created_at": "2022-07-15 07:23:43",
+      "room_updated_at": "2024-01-01 23:11:11"
+    }
+  },
+  {
+    "pk": 107,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박이이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 북구 삼성00로 (상현김고읍)",
+      "room_des": "Labore harum perspiciatis occaecati adipisci tempora. Voluptatibus nobis fuga libero illum culpa unde fugiat. Quod esse necessitatibus voluptatibus voluptatum fugiat.",
+      "room_max": "8",
+      "room_type": "1",
+      "room_option": [1, 2, 4],
+      "room_host_name": "9",
+      "room_price": "299000",
+      "room_created_at": "2020-12-27 09:23:50",
+      "room_updated_at": "2024-01-05 08:58:10"
+    }
+  },
+  {
+    "pk": 108,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 김",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "서울특별시 중구 오금가 (지원김배면)",
+      "room_des": "Repudiandae quaerat quia eligendi occaecati error. Eos est quam consequuntur beatae ea. Magnam cum suscipit consectetur aliquam molestias.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [],
+      "room_host_name": "16",
+      "room_price": "410000",
+      "room_created_at": "2020-02-26 12:20:34",
+      "room_updated_at": "2024-01-03 00:51:25"
+    }
+  },
+  {
+    "pk": 109,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "부산광역시 서구 오금거리 (순자박곽리)",
+      "room_des": "Repellat labore neque laboriosam voluptatibus vitae vitae. Earum quis occaecati non.",
+      "room_max": "4",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "2",
+      "room_price": "408000",
+      "room_created_at": "2022-12-07 04:24:41",
+      "room_updated_at": "2024-01-02 07:32:00"
+    }
+  },
+  {
+    "pk": 110,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김김",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대전광역시 북구 상당구 서초중앙473로 (병철박마을)",
+      "room_des": "Enim quo saepe ducimus. Aspernatur delectus atque hic voluptatem. Nam magnam atque ipsum deleniti.\nIllo possimus odio culpa exercitationem.",
+      "room_max": "6",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "7",
+      "room_price": "363000",
+      "room_created_at": "2021-01-31 15:44:35",
+      "room_updated_at": "2024-01-03 14:15:13"
+    }
+  },
+  {
+    "pk": 111,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "안박",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 북구 논현837로 (경자김이리)",
+      "room_des": "Id repellendus esse optio ipsum neque. Ab modi at.\nIure inventore ullam adipisci repellendus repellat enim. Sint ex quibusdam eos.",
+      "room_max": "3",
+      "room_type": "4",
+      "room_option": [],
+      "room_host_name": "3",
+      "room_price": "9000",
+      "room_created_at": "2020-07-15 13:49:21",
+      "room_updated_at": "2024-01-05 04:49:54"
+    }
+  },
+  {
+    "pk": 112,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 최",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 동구 서초대거리 (준영남면)",
+      "room_des": "Ut consequuntur ipsa illo at alias totam eum. Pariatur eius qui nam consequuntur aliquid corrupti sint. Ea delectus nobis autem.",
+      "room_max": "8",
+      "room_type": "2",
+      "room_option": [1, 3, 4],
+      "room_host_name": "17",
+      "room_price": "251000",
+      "room_created_at": "2020-09-17 19:59:14",
+      "room_updated_at": "2024-01-04 20:24:13"
+    }
+  },
+  {
+    "pk": 113,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "안황김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대전광역시 중구 압구정702가",
+      "room_des": "Velit nisi ex. Odit eaque nobis itaque labore. Optio reiciendis maiores fugiat sit consequuntur.\nIncidunt eum illum repudiandae soluta sit nobis. Explicabo modi ex cum quidem porro.",
+      "room_max": "3",
+      "room_type": "1",
+      "room_option": [1, 2, 3],
+      "room_host_name": "17",
+      "room_price": "391000",
+      "room_created_at": "2020-01-17 22:41:52",
+      "room_updated_at": "2024-01-04 03:16:58"
+    }
+  },
+  {
+    "pk": 114,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김송안",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "서울특별시 서구 잠실1가 (준호김면)",
+      "room_des": "Dolorum excepturi nobis rerum modi. Hic provident nihil voluptas officia. Autem possimus magni.",
+      "room_max": "10",
+      "room_type": "3",
+      "room_option": [1],
+      "room_host_name": "8",
+      "room_price": "370000",
+      "room_created_at": "2020-03-17 07:34:08",
+      "room_updated_at": "2024-01-04 08:45:36"
+    }
+  },
+  {
+    "pk": 115,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 송배김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "서울특별시 서구 일산동구 논현74거리 (중수전김리)",
+      "room_des": "Possimus vitae vero voluptate expedita ratione. Quisquam repudiandae praesentium dolorum dolore. Repellat molestiae laudantium facilis eaque delectus.\nQuia fugit tempore praesentium sint qui enim.",
+      "room_max": "8",
+      "room_type": "4",
+      "room_option": [3, 4],
+      "room_host_name": "10",
+      "room_price": "213000",
+      "room_created_at": "2020-12-15 04:19:44",
+      "room_updated_at": "2024-01-01 06:37:26"
+    }
+  },
+  {
+    "pk": 116,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 장양윤",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 남구 학동8거리",
+      "room_des": "Beatae voluptatibus facilis molestiae temporibus. Dolor a nobis recusandae eum.\nRepellendus dolores quasi vitae beatae.\nAnimi enim earum architecto.",
+      "room_max": "3",
+      "room_type": "2",
+      "room_option": [2, 3, 4],
+      "room_host_name": "16",
+      "room_price": "532000",
+      "room_created_at": "2021-10-21 03:05:23",
+      "room_updated_at": "2024-01-01 20:12:38"
+    }
+  },
+  {
+    "pk": 117,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김권박",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "부산광역시 남구 학동로 (승현김리)",
+      "room_des": "Atque repudiandae veritatis mollitia ab maxime quos magni. Repellendus animi deleniti praesentium quam. Iusto fugit sapiente adipisci.",
+      "room_max": "6",
+      "room_type": "1",
+      "room_option": [1],
+      "room_host_name": "16",
+      "room_price": "5000",
+      "room_created_at": "2021-01-26 08:55:24",
+      "room_updated_at": "2024-01-06 04:01:53"
+    }
+  },
+  {
+    "pk": 118,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이민",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "서울특별시 서구 선릉885길 (은지김김동)",
+      "room_des": "Quas qui in quas voluptatum. Iusto modi ipsam fugiat error eos perspiciatis minus.\nFugit alias provident ipsa excepturi. Unde cum aut debitis.",
+      "room_max": "8",
+      "room_type": "2",
+      "room_option": [1, 2, 3],
+      "room_host_name": "15",
+      "room_price": "149000",
+      "room_created_at": "2020-12-28 13:01:48",
+      "room_updated_at": "2024-01-04 09:17:22"
+    }
+  },
+  {
+    "pk": 119,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대전광역시 서구 영동대로 (혜진김박마을)",
+      "room_des": "Itaque cumque laudantium aliquid. Fugit iure laborum non. Consequatur laborum quod amet modi.",
+      "room_max": "7",
+      "room_type": "1",
+      "room_option": [1, 2, 4],
+      "room_host_name": "15",
+      "room_price": "5000",
+      "room_created_at": "2023-07-23 22:51:34",
+      "room_updated_at": "2024-01-02 17:19:49"
+    }
+  },
+  {
+    "pk": 120,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박권주",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "서울특별시 동구 서초중앙3길",
+      "room_des": "Corporis magnam est eos ipsum. Ipsam quae totam voluptatibus. Eum quas consequuntur illo maiores nam officia suscipit.\nQuis non quas qui quae. Hic recusandae accusamus.",
+      "room_max": "4",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "20",
+      "room_price": "380000",
+      "room_created_at": "2023-12-08 22:56:30",
+      "room_updated_at": "2024-01-01 01:49:31"
+    }
+  },
+  {
+    "pk": 121,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김백",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "제주특별시 중구 수정구 백제고분13거리 (성호이황면)",
+      "room_des": "Rem quidem fugiat alias tempore aliquid.\nRepellat iste cumque atque unde iure. Repudiandae nesciunt repellendus maiores ipsam error ea.",
+      "room_max": "10",
+      "room_type": "1",
+      "room_option": [2, 4],
+      "room_host_name": "6",
+      "room_price": "42000",
+      "room_created_at": "2023-06-30 01:54:16",
+      "room_updated_at": "2024-01-04 23:52:12"
+    }
+  },
+  {
+    "pk": 122,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박김문",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 남구 석촌호수거리",
+      "room_des": "Laborum numquam totam officia recusandae veritatis. Excepturi soluta explicabo voluptatibus maiores doloremque. Tenetur distinctio eum tempore.",
+      "room_max": "6",
+      "room_type": "4",
+      "room_option": [3],
+      "room_host_name": "12",
+      "room_price": "18000",
+      "room_created_at": "2021-11-29 16:30:46",
+      "room_updated_at": "2024-01-04 23:34:59"
+    }
+  },
+  {
+    "pk": 123,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김이권",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "부산광역시 북구 봉은사길 (춘자김송동)",
+      "room_des": "Ab illum expedita blanditiis ex quae. Voluptatibus cumque laborum nihil pariatur.\nQuisquam molestias natus inventore assumenda quaerat rerum. Magni vitae dolorum.",
+      "room_max": "1",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "9",
+      "room_price": "87000",
+      "room_created_at": "2022-10-16 15:37:51",
+      "room_updated_at": "2024-01-04 05:30:22"
+    }
+  },
+  {
+    "pk": 124,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "서울특별시 서구 서초중앙05길",
+      "room_des": "Et beatae recusandae sed dolorum. Quis nemo eius officia illo enim perferendis.",
+      "room_max": "8",
+      "room_type": "3",
+      "room_option": [2, 3, 4],
+      "room_host_name": "6",
+      "room_price": "163000",
+      "room_created_at": "2021-09-07 18:33:15",
+      "room_updated_at": "2024-01-03 01:18:30"
+    }
+  },
+  {
+    "pk": 125,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김김양",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "서울특별시 서구 영동대로 (민재한면)",
+      "room_des": "Tempora neque adipisci numquam iure facere facilis. Blanditiis necessitatibus occaecati. Eligendi tenetur molestias cum nam magnam quod.",
+      "room_max": "3",
+      "room_type": "3",
+      "room_option": [3, 4],
+      "room_host_name": "6",
+      "room_price": "556000",
+      "room_created_at": "2022-03-11 01:38:36",
+      "room_updated_at": "2024-01-03 21:52:34"
+    }
+  },
+  {
+    "pk": 126,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "오이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 중구 상당구 개포거리",
+      "room_des": "Delectus quo possimus possimus placeat. Iusto voluptatum reiciendis odio.\nSaepe iste facilis cupiditate vero.\nIpsum culpa ducimus. Labore minima ex ea alias. Temporibus sapiente temporibus.",
+      "room_max": "6",
+      "room_type": "4",
+      "room_option": [1, 2, 3],
+      "room_host_name": "9",
+      "room_price": "39000",
+      "room_created_at": "2023-03-09 18:57:16",
+      "room_updated_at": "2024-01-06 21:28:49"
+    }
+  },
+  {
+    "pk": 127,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 송",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "제주특별시 중구 개포830거리",
+      "room_des": "Corrupti veritatis maxime. Laboriosam dignissimos debitis aut sed. Ex occaecati necessitatibus facere.",
+      "room_max": "5",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "1",
+      "room_price": "212000",
+      "room_created_at": "2020-11-30 05:36:01",
+      "room_updated_at": "2024-01-02 05:18:08"
+    }
+  },
+  {
+    "pk": 128,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 이박김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "부산광역시 서구 선릉866거리",
+      "room_des": "Placeat fugiat perspiciatis ea non praesentium est illum. Illum amet quibusdam provident ratione quis. Eligendi fugit perspiciatis reiciendis laborum optio.",
+      "room_max": "5",
+      "room_type": "4",
+      "room_option": [2, 4],
+      "room_host_name": "3",
+      "room_price": "438000",
+      "room_created_at": "2021-03-22 03:59:47",
+      "room_updated_at": "2024-01-05 16:54:20"
+    }
+  },
+  {
+    "pk": 129,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "윤문박",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대전광역시 남구 압구정로",
+      "room_des": "Quasi doloremque recusandae similique. Dicta iure est iste odit. Distinctio facilis iste consequatur praesentium in quo.\nQuasi expedita quae cupiditate animi deleniti qui nostrum. Et odit expedita.",
+      "room_max": "3",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "2",
+      "room_price": "276000",
+      "room_created_at": "2021-08-30 21:51:33",
+      "room_updated_at": "2024-01-04 17:20:24"
+    }
+  },
+  {
+    "pk": 130,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 안",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "부산광역시 서구 오정구 개포84거리 (경자이황읍)",
+      "room_des": "Consequatur enim consequuntur vitae quo laborum. Nulla esse tempore rem.\nError enim dolorem. Eligendi tempora expedita maiores. Repudiandae quas molestias incidunt eos dicta ullam nostrum.",
+      "room_max": "4",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "19",
+      "room_price": "257000",
+      "room_created_at": "2021-04-17 20:50:49",
+      "room_updated_at": "2024-01-01 07:34:27"
+    }
+  },
+  {
+    "pk": 131,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 김이김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 서구 테헤란길",
+      "room_des": "Eos similique voluptatum quam architecto saepe. Deleniti explicabo hic iste harum officiis.\nSequi ut atque reiciendis. Molestias voluptatum ab est repellendus voluptate suscipit.",
+      "room_max": "2",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "17",
+      "room_price": "347000",
+      "room_created_at": "2020-10-24 07:33:44",
+      "room_updated_at": "2024-01-04 01:09:11"
+    }
+  },
+  {
+    "pk": 132,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 서한오",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "제주특별시 북구 영동대1가",
+      "room_des": "Quia autem accusamus corporis similique error maiores. Id fuga laudantium ut.\nDelectus saepe excepturi ducimus. Cupiditate id vero.",
+      "room_max": "10",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "12",
+      "room_price": "618000",
+      "room_created_at": "2023-01-20 12:48:15",
+      "room_updated_at": "2024-01-03 01:02:39"
+    }
+  },
+  {
+    "pk": 133,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박신김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 중구 언주길",
+      "room_des": "Adipisci nobis ducimus quam ratione distinctio numquam. Eaque eveniet occaecati tempora voluptatem earum.",
+      "room_max": "6",
+      "room_type": "3",
+      "room_option": [1, 3, 4],
+      "room_host_name": "12",
+      "room_price": "196000",
+      "room_created_at": "2023-10-31 05:48:34",
+      "room_updated_at": "2024-01-02 00:38:14"
+    }
+  },
+  {
+    "pk": 134,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김최서",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대전광역시 서구 삼성0거리 (옥자김김동)",
+      "room_des": "Possimus minima velit aliquid illo repellat. Dicta eum sapiente ex.",
+      "room_max": "8",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "14",
+      "room_price": "206000",
+      "room_created_at": "2021-07-07 03:34:27",
+      "room_updated_at": "2024-01-01 22:58:12"
+    }
+  },
+  {
+    "pk": 135,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 하권진",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "제주특별시 동구 강남대42거리",
+      "room_des": "Reprehenderit nisi officiis ad ipsam alias. Cum excepturi sint vel.\nVelit neque architecto. Suscipit quasi necessitatibus. Ipsam aperiam alias quos quia.",
+      "room_max": "4",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "1",
+      "room_price": "121000",
+      "room_created_at": "2023-05-21 00:38:35",
+      "room_updated_at": "2024-01-02 05:34:59"
+    }
+  },
+  {
+    "pk": 136,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 서구 잠실173가 (미영송이마을)",
+      "room_des": "Aperiam atque tempore aperiam. Officia sit in minus consectetur tempora.\nFacilis aliquam quam ipsam. Expedita eos itaque odit vitae. Labore neque dolore.",
+      "room_max": "8",
+      "room_type": "2",
+      "room_option": [1, 2, 4],
+      "room_host_name": "1",
+      "room_price": "391000",
+      "room_created_at": "2021-09-10 22:08:53",
+      "room_updated_at": "2024-01-01 03:05:43"
+    }
+  },
+  {
+    "pk": 137,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "제주특별시 남구 단원구 반포대로 (도윤홍김리)",
+      "room_des": "Aliquid aspernatur odio voluptatum omnis occaecati omnis.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [2],
+      "room_host_name": "4",
+      "room_price": "66000",
+      "room_created_at": "2022-03-17 19:02:33",
+      "room_updated_at": "2024-01-04 07:51:44"
+    }
+  },
+  {
+    "pk": 138,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "윤허",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대전광역시 남구 반포대5가 (정순김읍)",
+      "room_des": "Nam dolorem veniam quos nisi dolorum. Beatae officia laudantium.\nNon sapiente quasi temporibus est nam iusto consequatur.\nFuga explicabo mollitia perferendis.",
+      "room_max": "1",
+      "room_type": "2",
+      "room_option": [1],
+      "room_host_name": "13",
+      "room_price": "45000",
+      "room_created_at": "2023-06-28 17:43:07",
+      "room_updated_at": "2024-01-02 20:02:46"
+    }
+  },
+  {
+    "pk": 139,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김최박",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대전광역시 북구 역삼78로",
+      "room_des": "Culpa est suscipit. Atque non veniam suscipit debitis quia odio.\nSit similique inventore repellat nihil nulla voluptas. Molestias vitae facere hic.",
+      "room_max": "2",
+      "room_type": "1",
+      "room_option": [1],
+      "room_host_name": "10",
+      "room_price": "141000",
+      "room_created_at": "2023-01-15 03:53:05",
+      "room_updated_at": "2024-01-02 09:21:35"
+    }
+  },
+  {
+    "pk": 140,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김이",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대전광역시 중구 백제고분거리 (현우허마을)",
+      "room_des": "Dolor eius at quibusdam sed. Quo perspiciatis quam quasi.\nEaque quibusdam atque ut consequuntur quae aperiam. Accusantium minima provident iure corrupti. Veniam impedit tempora voluptas qui porro.",
+      "room_max": "5",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "2",
+      "room_price": "411000",
+      "room_created_at": "2020-06-16 22:28:12",
+      "room_updated_at": "2024-01-02 01:49:11"
+    }
+  },
+  {
+    "pk": 141,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최손",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 동구 논현2길 (보람박마을)",
+      "room_des": "Natus vitae cupiditate dignissimos dolorem ad. Ipsum assumenda rem.\nMinus quae reiciendis hic a. Esse ex corporis fugiat quisquam cum.",
+      "room_max": "6",
+      "room_type": "1",
+      "room_option": [1, 3, 4],
+      "room_host_name": "3",
+      "room_price": "50000",
+      "room_created_at": "2021-01-21 15:43:19",
+      "room_updated_at": "2024-01-02 20:12:06"
+    }
+  },
+  {
+    "pk": 142,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 주",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "제주특별시 동구 오금5길",
+      "room_des": "Accusantium placeat voluptate voluptatem ratione. Est corporis omnis suscipit sint culpa accusantium officiis.\nSuscipit laboriosam cum numquam repellendus. Inventore odio pariatur neque quos.",
+      "room_max": "3",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "5",
+      "room_price": "201000",
+      "room_created_at": "2020-07-26 22:17:28",
+      "room_updated_at": "2024-01-03 10:14:31"
+    }
+  },
+  {
+    "pk": 143,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최김장",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "부산광역시 북구 논현988가 (하은지면)",
+      "room_des": "Dignissimos facere est omnis voluptatem fugit. Necessitatibus quibusdam ducimus quos est dignissimos qui molestiae. Quos neque laborum sit veniam maxime doloribus quaerat.\nQuo cum esse ipsam.",
+      "room_max": "5",
+      "room_type": "2",
+      "room_option": [3],
+      "room_host_name": "6",
+      "room_price": "29000",
+      "room_created_at": "2023-12-12 04:32:32",
+      "room_updated_at": "2024-01-03 19:01:01"
+    }
+  },
+  {
+    "pk": 144,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 김엄이",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "부산광역시 동구 잠실거리",
+      "room_des": "Et similique blanditiis.\nRem maxime ab debitis placeat assumenda iste. Debitis impedit consectetur fugiat. Veritatis eum quae hic porro porro.",
+      "room_max": "10",
+      "room_type": "3",
+      "room_option": [1, 3],
+      "room_host_name": "1",
+      "room_price": "224000",
+      "room_created_at": "2020-10-24 09:48:34",
+      "room_updated_at": "2024-01-01 03:50:58"
+    }
+  },
+  {
+    "pk": 145,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 박이김",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "서울특별시 동구 강남대401가",
+      "room_des": "Quaerat repellat delectus quod aperiam ratione ea. Repellendus ullam esse adipisci atque ipsam. Enim aliquam eos atque officia dolorem.",
+      "room_max": "10",
+      "room_type": "4",
+      "room_option": [4],
+      "room_host_name": "16",
+      "room_price": "52000",
+      "room_created_at": "2021-11-26 23:52:08",
+      "room_updated_at": "2024-01-03 21:41:53"
+    }
+  },
+  {
+    "pk": 146,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 이",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "부산광역시 북구 서초중앙51길 (서영김한마을)",
+      "room_des": "Architecto itaque iste voluptatum totam. Vel asperiores sequi sed fugit fuga sunt.\nPerspiciatis aliquid quia voluptatibus suscipit. Sapiente qui minus.",
+      "room_max": "6",
+      "room_type": "2",
+      "room_option": [1, 2, 4],
+      "room_host_name": "5",
+      "room_price": "315000",
+      "room_created_at": "2021-01-18 23:02:28",
+      "room_updated_at": "2024-01-05 23:00:26"
+    }
+  },
+  {
+    "pk": 147,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 오",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "서울특별시 중구 영동대가 (건우오안리)",
+      "room_des": "Perspiciatis mollitia consectetur non mollitia iure itaque. Quam quis quo. Accusamus dolores itaque iure odit.",
+      "room_max": "4",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "7",
+      "room_price": "141000",
+      "room_created_at": "2022-10-06 09:00:07",
+      "room_updated_at": "2024-01-06 04:17:22"
+    }
+  },
+  {
+    "pk": 148,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 오",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "서울특별시 동구 석촌호수51가",
+      "room_des": "Omnis repudiandae itaque nemo ipsum quidem. Eaque eius delectus cumque deleniti. Ex accusamus ducimus enim.",
+      "room_max": "6",
+      "room_type": "1",
+      "room_option": [1],
+      "room_host_name": "18",
+      "room_price": "297000",
+      "room_created_at": "2022-07-25 09:48:50",
+      "room_updated_at": "2024-01-04 10:02:39"
+    }
+  },
+  {
+    "pk": 149,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "윤김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 북구 개포로 (건우박읍)",
+      "room_des": "Incidunt pariatur vero ipsa rerum repellendus. Cum sed exercitationem nobis quibusdam autem qui. Animi expedita quas deleniti saepe iure fugit. Dolor eveniet reiciendis iusto sapiente.",
+      "room_max": "9",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "5",
+      "room_price": "327000",
+      "room_created_at": "2021-05-18 16:21:33",
+      "room_updated_at": "2024-01-05 18:56:50"
+    }
+  },
+  {
+    "pk": 150,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김유김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "서울특별시 동구 학동483거리 (춘자문마을)",
+      "room_des": "Officia eaque ad doloribus iste deleniti. Sed quae nesciunt soluta. Laudantium vel facilis error.\nFugiat quasi nemo rerum recusandae culpa sed. Non pariatur dignissimos nesciunt rerum omnis.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "2",
+      "room_price": "45000",
+      "room_created_at": "2020-12-31 02:50:21",
+      "room_updated_at": "2024-01-05 18:40:47"
+    }
+  },
+  {
+    "pk": 151,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 서구 개포길",
+      "room_des": "Iure dolore dolores officiis. Facere ullam nobis iure praesentium non recusandae reiciendis.\nVel possimus reiciendis numquam molestiae quas possimus assumenda. Modi aliquid earum soluta nam vero id.",
+      "room_max": "2",
+      "room_type": "4",
+      "room_option": [2, 3, 4],
+      "room_host_name": "9",
+      "room_price": "35000",
+      "room_created_at": "2022-01-09 05:15:58",
+      "room_updated_at": "2024-01-06 11:06:07"
+    }
+  },
+  {
+    "pk": 152,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 김",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대전광역시 서구 오금1거리",
+      "room_des": "Facilis ex ullam similique.\nDoloremque eaque voluptas. Quo reprehenderit enim quaerat. Dicta tenetur placeat fugiat earum fuga magnam. Delectus provident necessitatibus excepturi.",
+      "room_max": "2",
+      "room_type": "3",
+      "room_option": [1, 2, 4],
+      "room_host_name": "14",
+      "room_price": "251000",
+      "room_created_at": "2023-09-19 15:34:44",
+      "room_updated_at": "2024-01-02 19:10:35"
+    }
+  },
+  {
+    "pk": 153,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 정박한",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 남구 삼성길 (은주심배읍)",
+      "room_des": "Rerum temporibus quaerat quis. Nostrum id repudiandae itaque magnam aut magni corporis.\nPlaceat nam quaerat repellat. Tempore magnam placeat voluptate eligendi aliquam.",
+      "room_max": "4",
+      "room_type": "2",
+      "room_option": [1, 2, 4],
+      "room_host_name": "4",
+      "room_price": "393000",
+      "room_created_at": "2022-02-06 01:16:41",
+      "room_updated_at": "2024-01-06 00:26:40"
+    }
+  },
+  {
+    "pk": 154,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박김윤",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 서구 흥덕구 압구정거리 (지혜오김면)",
+      "room_des": "Saepe veritatis sunt inventore. Aliquid sed saepe molestias voluptate veritatis. Quisquam voluptatem id eius.",
+      "room_max": "6",
+      "room_type": "3",
+      "room_option": [2],
+      "room_host_name": "20",
+      "room_price": "149000",
+      "room_created_at": "2020-04-21 19:53:02",
+      "room_updated_at": "2024-01-04 07:43:41"
+    }
+  },
+  {
+    "pk": 155,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 박최정",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 서구 서초중앙520거리 (현우서이면)",
+      "room_des": "Vero doloremque numquam odio repellendus. Ratione ea quaerat eos.",
+      "room_max": "3",
+      "room_type": "3",
+      "room_option": [1, 2, 3],
+      "room_host_name": "5",
+      "room_price": "257000",
+      "room_created_at": "2020-07-13 07:34:20",
+      "room_updated_at": "2024-01-04 10:15:53"
+    }
+  },
+  {
+    "pk": 156,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 이",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 남구 선릉거리",
+      "room_des": "Blanditiis est sequi suscipit culpa assumenda itaque dignissimos. Amet velit voluptatum tempore dolor molestias. Quasi cupiditate perspiciatis asperiores.",
+      "room_max": "4",
+      "room_type": "3",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "13",
+      "room_price": "123000",
+      "room_created_at": "2021-08-04 02:33:52",
+      "room_updated_at": "2024-01-01 22:36:53"
+    }
+  },
+  {
+    "pk": 157,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 황",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "부산광역시 중구 언주529가",
+      "room_des": "Dicta numquam quibusdam nostrum aspernatur. Libero minima quisquam. Ipsum perspiciatis alias architecto praesentium facere.",
+      "room_max": "9",
+      "room_type": "4",
+      "room_option": [1, 3, 4],
+      "room_host_name": "20",
+      "room_price": "150000",
+      "room_created_at": "2023-03-15 13:29:43",
+      "room_updated_at": "2024-01-04 09:42:50"
+    }
+  },
+  {
+    "pk": 158,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "장이",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대구광역시 중구 삼성6길",
+      "room_des": "Vero quae dolores magnam porro. Fuga voluptates architecto aliquid dolore hic error. Facilis sunt nisi debitis quas architecto.\nRerum nisi eum aliquid. Magni nam ut deserunt animi quibusdam iste.",
+      "room_max": "6",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "19",
+      "room_price": "30000",
+      "room_created_at": "2020-02-12 10:23:07",
+      "room_updated_at": "2024-01-01 17:10:45"
+    }
+  },
+  {
+    "pk": 159,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최김최",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "제주특별시 서구 선릉9로",
+      "room_des": "Sequi minus doloremque molestias. Illo voluptates odit quam. Ratione totam sunt harum cupiditate explicabo nesciunt fugit.",
+      "room_max": "10",
+      "room_type": "3",
+      "room_option": [2, 3],
+      "room_host_name": "9",
+      "room_price": "346000",
+      "room_created_at": "2020-08-12 06:27:25",
+      "room_updated_at": "2024-01-05 18:17:56"
+    }
+  },
+  {
+    "pk": 160,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김박",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "서울특별시 동구 역삼로 (시우김면)",
+      "room_des": "Rerum laudantium aliquam nam fugiat tempora officiis. Ea delectus exercitationem placeat.",
+      "room_max": "8",
+      "room_type": "4",
+      "room_option": [2],
+      "room_host_name": "13",
+      "room_price": "181000",
+      "room_created_at": "2022-05-30 13:20:03",
+      "room_updated_at": "2024-01-02 00:35:14"
+    }
+  },
+  {
+    "pk": 161,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김이조",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "대구광역시 동구 백제고분거리",
+      "room_des": "Tenetur repellendus delectus.\nDoloribus amet nemo cum atque. Asperiores ipsum natus voluptas. Deserunt ullam ad.\nCorrupti eaque sit magnam aliquid voluptatibus consequuntur. Voluptate est quod enim.",
+      "room_max": "3",
+      "room_type": "3",
+      "room_option": [1, 2, 3],
+      "room_host_name": "18",
+      "room_price": "213000",
+      "room_created_at": "2023-05-01 14:34:03",
+      "room_updated_at": "2024-01-06 15:10:09"
+    }
+  },
+  {
+    "pk": 162,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "노김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 북구 잠실954가",
+      "room_des": "Accusamus quos facere labore. Voluptas sequi quod illum.",
+      "room_max": "2",
+      "room_type": "1",
+      "room_option": [1, 4],
+      "room_host_name": "16",
+      "room_price": "387000",
+      "room_created_at": "2021-02-13 16:50:52",
+      "room_updated_at": "2024-01-03 06:11:14"
+    }
+  },
+  {
+    "pk": 163,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 권박김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "제주특별시 북구 개포거리",
+      "room_des": "Deserunt sed quidem recusandae eum neque minima. Maiores molestiae saepe iusto repellendus illo ab pariatur. Perferendis fuga sequi fugit.",
+      "room_max": "8",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "6",
+      "room_price": "379000",
+      "room_created_at": "2021-11-18 06:36:32",
+      "room_updated_at": "2024-01-05 02:33:35"
+    }
+  },
+  {
+    "pk": 164,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이배김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 서구 선릉3가",
+      "room_des": "Quibusdam maiores eius pariatur exercitationem. Autem vitae reprehenderit fuga maxime quam.",
+      "room_max": "10",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "20",
+      "room_price": "109000",
+      "room_created_at": "2020-09-09 17:24:50",
+      "room_updated_at": "2024-01-04 18:22:01"
+    }
+  },
+  {
+    "pk": 165,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김문최",
+      "room_lat": "37.65639",
+      "room_long": "126.835",
+      "room_address": "부산광역시 서구 선릉거리",
+      "room_des": "Voluptates id quisquam at sapiente reiciendis. Ex cum ullam impedit. Ipsum quod esse veritatis impedit praesentium.",
+      "room_max": "8",
+      "room_type": "4",
+      "room_option": [1, 2, 3],
+      "room_host_name": "10",
+      "room_price": "436000",
+      "room_created_at": "2020-04-12 01:11:10",
+      "room_updated_at": "2024-01-02 10:45:07"
+    }
+  },
+  {
+    "pk": 166,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김최",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "서울특별시 중구 백제고분54길",
+      "room_des": "Earum asperiores impedit corrupti aliquid dolore. Dolorem fugit velit natus eius. Veritatis porro molestiae culpa porro nostrum aliquid minus.\nInventore officiis ea. Aliquid sapiente provident aut.",
+      "room_max": "9",
+      "room_type": "4",
+      "room_option": [],
+      "room_host_name": "8",
+      "room_price": "296000",
+      "room_created_at": "2020-06-20 03:42:02",
+      "room_updated_at": "2024-01-05 02:54:52"
+    }
+  },
+  {
+    "pk": 167,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "박권이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "서울특별시 중구 서초대2로",
+      "room_des": "Explicabo recusandae blanditiis dignissimos facere. Natus id aut delectus magni odit laboriosam tempora.\nVoluptates corporis cum libero nostrum veniam. Voluptas assumenda ea harum vel.",
+      "room_max": "6",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "9",
+      "room_price": "468000",
+      "room_created_at": "2023-12-08 06:36:46",
+      "room_updated_at": "2024-01-03 04:43:27"
+    }
+  },
+  {
+    "pk": 168,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 박",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "제주특별시 북구 도산대길 (수빈김면)",
+      "room_des": "Suscipit recusandae quaerat sunt commodi. Non unde velit illo vero. Tempore nesciunt quisquam soluta assumenda voluptatibus rerum.",
+      "room_max": "5",
+      "room_type": "3",
+      "room_option": [1],
+      "room_host_name": "1",
+      "room_price": "87000",
+      "room_created_at": "2022-09-25 10:09:15",
+      "room_updated_at": "2024-01-06 02:34:06"
+    }
+  },
+  {
+    "pk": 169,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 박",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "서울특별시 남구 오금3길 (은주엄이리)",
+      "room_des": "Cumque totam facilis optio pariatur quos. Enim temporibus autem eius. Similique nostrum dolores qui dolorem ad iste.\nRatione rerum perferendis repudiandae. Rem officia dolore perspiciatis a.",
+      "room_max": "8",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "1",
+      "room_price": "36000",
+      "room_created_at": "2021-04-08 19:31:57",
+      "room_updated_at": "2024-01-06 10:51:38"
+    }
+  },
+  {
+    "pk": 170,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "서강",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 남구 반포대6길",
+      "room_des": "Sapiente minima nobis sed. Quia vitae dignissimos occaecati veritatis blanditiis. Doloremque labore alias suscipit porro autem.",
+      "room_max": "6",
+      "room_type": "1",
+      "room_option": [1],
+      "room_host_name": "8",
+      "room_price": "68000",
+      "room_created_at": "2022-06-18 06:31:46",
+      "room_updated_at": "2024-01-02 22:38:10"
+    }
+  },
+  {
+    "pk": 171,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "문류",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "부산광역시 남구 처인구 영동대거리 (준영안박리)",
+      "room_des": "Esse harum voluptates provident ducimus commodi. Doloribus ipsum at ipsam possimus. At possimus dolorum cupiditate.\nAsperiores illo veritatis incidunt. Deserunt voluptas neque neque dignissimos.",
+      "room_max": "4",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "9",
+      "room_price": "102000",
+      "room_created_at": "2022-01-14 23:11:04",
+      "room_updated_at": "2024-01-06 15:15:14"
+    }
+  },
+  {
+    "pk": 172,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 강",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "부산광역시 동구 개포600길",
+      "room_des": "Natus eum ea. Illo unde fuga rerum quam dicta molestiae dolore.\nVeniam vero veritatis quasi. Sint nesciunt qui repellendus architecto.",
+      "room_max": "5",
+      "room_type": "2",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "7",
+      "room_price": "276000",
+      "room_created_at": "2021-04-11 23:10:00",
+      "room_updated_at": "2024-01-04 11:53:29"
+    }
+  },
+  {
+    "pk": 173,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김허구",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대전광역시 북구 압구정길 (영철김리)",
+      "room_des": "Expedita aliquam ducimus quaerat earum aliquam nisi. Eveniet accusantium aliquam eaque rem.",
+      "room_max": "1",
+      "room_type": "2",
+      "room_option": [4],
+      "room_host_name": "17",
+      "room_price": "80000",
+      "room_created_at": "2022-01-03 14:21:07",
+      "room_updated_at": "2024-01-05 04:29:17"
+    }
+  },
+  {
+    "pk": 174,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "최김김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "서울특별시 동구 개포가",
+      "room_des": "Ipsam accusamus dolorum ea quod. Velit debitis deleniti. Veniam distinctio unde quae.",
+      "room_max": "4",
+      "room_type": "1",
+      "room_option": [2, 3, 4],
+      "room_host_name": "17",
+      "room_price": "361000",
+      "room_created_at": "2021-10-19 14:25:47",
+      "room_updated_at": "2024-01-02 04:39:57"
+    }
+  },
+  {
+    "pk": 175,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 남구 반포대38길 (정훈이오면)",
+      "room_des": "Amet nam voluptate nobis illo. Unde at fuga delectus consectetur illo.\nNatus esse dolores alias sapiente at. At harum vel ex a vel.\nCupiditate quam id quae explicabo. Excepturi maiores autem sequi.",
+      "room_max": "6",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "20",
+      "room_price": "68000",
+      "room_created_at": "2023-03-19 20:25:46",
+      "room_updated_at": "2024-01-06 19:08:12"
+    }
+  },
+  {
+    "pk": 176,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 김장오",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "부산광역시 동구 서초중앙776가 (지민문박읍)",
+      "room_des": "Similique laboriosam non omnis aliquid. Natus hic ut qui accusamus incidunt maiores aperiam.",
+      "room_max": "6",
+      "room_type": "2",
+      "room_option": [1, 3],
+      "room_host_name": "20",
+      "room_price": "205000",
+      "room_created_at": "2021-07-20 12:42:43",
+      "room_updated_at": "2024-01-02 19:30:36"
+    }
+  },
+  {
+    "pk": 177,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "성김신",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "대구광역시 남구 청원구 삼성거리 (성진하이리)",
+      "room_des": "Architecto neque voluptatem reiciendis. Sint alias facere minus repellendus. Dolor labore laborum dolor.",
+      "room_max": "7",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "5",
+      "room_price": "153000",
+      "room_created_at": "2023-10-05 13:10:21",
+      "room_updated_at": "2024-01-04 13:11:29"
+    }
+  },
+  {
+    "pk": 178,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이권",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "제주특별시 남구 반포대로",
+      "room_des": "Distinctio dicta illum sint. Eligendi voluptas ullam hic porro. Aperiam quidem iure dicta.",
+      "room_max": "1",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "12",
+      "room_price": "43000",
+      "room_created_at": "2020-06-29 01:26:33",
+      "room_updated_at": "2024-01-06 15:06:47"
+    }
+  },
+  {
+    "pk": 179,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 허권김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "부산광역시 북구 학동40거리",
+      "room_des": "Mollitia similique deserunt omnis dolorem quidem ullam. Sapiente excepturi possimus harum. Porro alias eligendi ullam.\nAlias dolorum saepe.",
+      "room_max": "10",
+      "room_type": "3",
+      "room_option": [3, 4],
+      "room_host_name": "14",
+      "room_price": "297000",
+      "room_created_at": "2021-08-04 06:30:02",
+      "room_updated_at": "2024-01-01 14:35:30"
+    }
+  },
+  {
+    "pk": 180,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(주) 이",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 서구 압구정48거리",
+      "room_des": "Suscipit molestiae ea deserunt harum nisi hic. Maxime ab autem libero est ratione exercitationem. Dolores harum quis velit explicabo iusto amet.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [3],
+      "room_host_name": "15",
+      "room_price": "216000",
+      "room_created_at": "2021-05-08 11:11:25",
+      "room_updated_at": "2024-01-03 13:21:07"
+    }
+  },
+  {
+    "pk": 181,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이이",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대전광역시 서구 양재천길",
+      "room_des": "Dolores necessitatibus id delectus ipsa cum. Aut rerum expedita eveniet cumque ducimus. Enim esse et enim nesciunt recusandae vero. Rem debitis quisquam excepturi odio.",
+      "room_max": "2",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "17",
+      "room_price": "233000",
+      "room_created_at": "2022-12-17 15:26:16",
+      "room_updated_at": "2024-01-02 13:40:44"
+    }
+  },
+  {
+    "pk": 182,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유한회사 김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대전광역시 남구 언주349로 (준서이마을)",
+      "room_des": "Placeat asperiores maxime nesciunt voluptatibus modi molestias expedita.\nConsequatur similique unde. Harum impedit enim alias. Labore cumque doloribus pariatur placeat tempore veritatis.",
+      "room_max": "8",
+      "room_type": "2",
+      "room_option": [1, 2, 3],
+      "room_host_name": "11",
+      "room_price": "310000",
+      "room_created_at": "2020-06-06 16:13:03",
+      "room_updated_at": "2024-01-04 01:27:03"
+    }
+  },
+  {
+    "pk": 183,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 오",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "제주특별시 동구 삼성길 (민서김읍)",
+      "room_des": "Accusamus nemo assumenda velit. Beatae totam laborum nisi voluptatibus. Sunt voluptas sunt ipsa doloribus incidunt.",
+      "room_max": "1",
+      "room_type": "2",
+      "room_option": [3, 4],
+      "room_host_name": "15",
+      "room_price": "401000",
+      "room_created_at": "2021-04-04 07:13:44",
+      "room_updated_at": "2024-01-04 19:37:45"
+    }
+  },
+  {
+    "pk": 184,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "유이송",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대전광역시 동구 선릉1로 (수빈이김면)",
+      "room_des": "Adipisci hic repellat. Laudantium officia corrupti atque quis praesentium quasi.\nPlaceat ea ipsum optio aperiam maxime id distinctio. Asperiores aut quae. Quas ducimus quam ipsum atque architecto at.",
+      "room_max": "5",
+      "room_type": "2",
+      "room_option": [1, 2],
+      "room_host_name": "19",
+      "room_price": "113000",
+      "room_created_at": "2021-08-28 16:48:42",
+      "room_updated_at": "2024-01-02 01:57:52"
+    }
+  },
+  {
+    "pk": 185,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김구이",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "부산광역시 북구 역삼47로 (예진박리)",
+      "room_des": "Eius dolores maiores nemo sequi odio odit. Ipsum ex molestias deleniti neque expedita illum facere. Iusto fugit eaque aliquam.",
+      "room_max": "7",
+      "room_type": "3",
+      "room_option": [],
+      "room_host_name": "20",
+      "room_price": "132000",
+      "room_created_at": "2021-10-16 02:52:48",
+      "room_updated_at": "2024-01-01 18:04:10"
+    }
+  },
+  {
+    "pk": 186,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김김김",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "제주특별시 중구 가락가",
+      "room_des": "Porro voluptatem esse dolor. Repellendus officiis aliquam sed fugit.\nQuod aliquid non sit aperiam aliquid explicabo. Assumenda voluptas commodi impedit quidem esse minus.",
+      "room_max": "9",
+      "room_type": "3",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "7",
+      "room_price": "211000",
+      "room_created_at": "2021-03-05 19:38:28",
+      "room_updated_at": "2024-01-04 20:44:03"
+    }
+  },
+  {
+    "pk": 187,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 이장김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "제주특별시 중구 언주거리 (지은김오마을)",
+      "room_des": "Exercitationem voluptatibus vel ea eum. Vitae quod omnis alias minus quod nemo tempore. Autem recusandae impedit eius officiis.",
+      "room_max": "8",
+      "room_type": "1",
+      "room_option": [1, 3, 4],
+      "room_host_name": "4",
+      "room_price": "586000",
+      "room_created_at": "2022-04-03 02:00:17",
+      "room_updated_at": "2024-01-04 15:26:23"
+    }
+  },
+  {
+    "pk": 188,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이오손",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "제주특별시 동구 잠실로 (서현이윤마을)",
+      "room_des": "Quaerat fugiat provident optio est magni. Facere aliquid a doloribus deleniti beatae.",
+      "room_max": "8",
+      "room_type": "3",
+      "room_option": [3, 4],
+      "room_host_name": "18",
+      "room_price": "221000",
+      "room_created_at": "2022-09-25 14:38:08",
+      "room_updated_at": "2024-01-05 04:39:19"
+    }
+  },
+  {
+    "pk": 189,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 이",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대전광역시 남구 개포거리 (도윤오김읍)",
+      "room_des": "Earum soluta maxime vitae quod. Aspernatur dignissimos vero hic. Iure nihil sequi iusto facere.",
+      "room_max": "2",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "12",
+      "room_price": "146000",
+      "room_created_at": "2020-08-18 11:59:10",
+      "room_updated_at": "2024-01-02 16:34:28"
+    }
+  },
+  {
+    "pk": 190,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "한오김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "대구광역시 북구 학동546가",
+      "room_des": "Illum temporibus iusto suscipit perspiciatis similique asperiores. Eius placeat ipsam inventore porro quidem perspiciatis perferendis. Doloremque id excepturi ipsa itaque recusandae delectus.",
+      "room_max": "5",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "8",
+      "room_price": "546000",
+      "room_created_at": "2023-08-28 19:18:48",
+      "room_updated_at": "2024-01-06 01:55:31"
+    }
+  },
+  {
+    "pk": 191,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 김",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "제주특별시 서구 양재천거리 (옥순최윤읍)",
+      "room_des": "Sit voluptatem consequatur quisquam.\nOfficia pariatur deserunt aliquam voluptatum sapiente distinctio. Qui repellendus non velit vero. Ea maiores deleniti esse exercitationem sunt repellendus.",
+      "room_max": "6",
+      "room_type": "4",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "10",
+      "room_price": "558000",
+      "room_created_at": "2020-08-14 01:37:24",
+      "room_updated_at": "2024-01-01 08:58:15"
+    }
+  },
+  {
+    "pk": 192,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "배최권",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "서울특별시 중구 양재천거리 (상호안박읍)",
+      "room_des": "Ipsa quam soluta itaque dolorem quod totam repudiandae. Ab quaerat veniam consequuntur sequi repellat reiciendis.",
+      "room_max": "7",
+      "room_type": "4",
+      "room_option": [3, 4],
+      "room_host_name": "16",
+      "room_price": "326000",
+      "room_created_at": "2022-04-07 14:19:06",
+      "room_updated_at": "2024-01-04 07:08:36"
+    }
+  },
+  {
+    "pk": 193,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "황김",
+      "room_lat": "36.20389",
+      "room_long": "127.08472",
+      "room_address": "서울특별시 서구 반포대223로",
+      "room_des": "Quidem quam ullam itaque aspernatur repellat. Minus impedit ad hic recusandae. Eveniet temporibus esse incidunt quis distinctio.\nFugit eius sint perspiciatis eos fugit non.",
+      "room_max": "9",
+      "room_type": "1",
+      "room_option": [1, 2, 3, 4],
+      "room_host_name": "17",
+      "room_price": "223000",
+      "room_created_at": "2023-11-20 13:38:47",
+      "room_updated_at": "2024-01-05 11:35:19"
+    }
+  },
+  {
+    "pk": 194,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "김박",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대구광역시 동구 석촌호수거리",
+      "room_des": "Qui consequatur ad nihil dolorem error. Alias eligendi illum beatae culpa. Optio error inventore delectus eius reprehenderit explicabo.",
+      "room_max": "4",
+      "room_type": "2",
+      "room_option": [2],
+      "room_host_name": "18",
+      "room_price": "290000",
+      "room_created_at": "2021-10-27 11:05:06",
+      "room_updated_at": "2024-01-04 19:09:11"
+    }
+  },
+  {
+    "pk": 195,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "나장이",
+      "room_lat": "36.6009",
+      "room_long": "126.665",
+      "room_address": "대구광역시 동구 서초중앙431길 (민수김면)",
+      "room_des": "Perspiciatis repudiandae ipsa ullam. Voluptatem minus id ullam id dicta.\nQuam blanditiis temporibus hic consequuntur numquam. Laboriosam necessitatibus quod eum illum id.",
+      "room_max": "7",
+      "room_type": "1",
+      "room_option": [],
+      "room_host_name": "13",
+      "room_price": "672000",
+      "room_created_at": "2022-09-16 20:52:59",
+      "room_updated_at": "2024-01-03 06:56:48"
+    }
+  },
+  {
+    "pk": 196,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "신박",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "서울특별시 북구 강남대23길 (은지민정면)",
+      "room_des": "Ea at sapiente magnam. Omnis eaque voluptatum eaque rem ex. Et impedit veniam dolores adipisci saepe veritatis libero.",
+      "room_max": "1",
+      "room_type": "4",
+      "room_option": [1],
+      "room_host_name": "1",
+      "room_price": "30000",
+      "room_created_at": "2022-12-20 05:46:33",
+      "room_updated_at": "2024-01-02 05:50:37"
+    }
+  },
+  {
+    "pk": 197,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 민",
+      "room_lat": "34.8825",
+      "room_long": "128.62667",
+      "room_address": "대전광역시 중구 삼성4로",
+      "room_des": "Repellat ea ut quos molestias. Consectetur ut animi harum aut.\nVeritatis debitis ea deserunt similique harum deserunt. Est ipsa sed soluta minima non. Mollitia blanditiis eum.",
+      "room_max": "6",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "1",
+      "room_price": "16000",
+      "room_created_at": "2020-06-17 20:25:31",
+      "room_updated_at": "2024-01-06 10:01:55"
+    }
+  },
+  {
+    "pk": 198,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "주식회사 장",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "제주특별시 동구 백제고분86가 (도현권읍)",
+      "room_des": "Ad id a voluptates. Minus excepturi optio doloremque nemo magni.\nAdipisci ad eveniet officiis cum. Optio fugiat sequi optio laborum aspernatur.",
+      "room_max": "4",
+      "room_type": "1",
+      "room_option": [1, 2, 3],
+      "room_host_name": "5",
+      "room_price": "161000",
+      "room_created_at": "2021-01-23 20:13:34",
+      "room_updated_at": "2024-01-03 10:58:16"
+    }
+  },
+  {
+    "pk": 199,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "(유) 최",
+      "room_lat": "36.82167",
+      "room_long": "128.63083",
+      "room_address": "대구광역시 중구 서초대거리 (예은이리)",
+      "room_des": "Labore quia ad nesciunt eius ducimus quis alias. Libero quidem voluptatum natus tempora.\nVel dolore delectus aut quos consectetur at quas.",
+      "room_max": "7",
+      "room_type": "3",
+      "room_option": [1, 3],
+      "room_host_name": "5",
+      "room_price": "465000",
+      "room_created_at": "2023-01-10 07:24:23",
+      "room_updated_at": "2024-01-05 08:31:30"
+    }
+  },
+  {
+    "pk": 200,
+    "model": "rooms.Room",
+    "fields": {
+      "room_name": "이김",
+      "room_lat": "37.1759",
+      "room_long": "128.9889",
+      "room_address": "제주특별시 서구 선릉437길",
+      "room_des": "Ducimus ab atque suscipit delectus. Tempore facilis doloremque consequuntur ad similique iure. Deleniti ratione iste facere quam doloremque laborum et.",
+      "room_max": "3",
+      "room_type": "2",
+      "room_option": [],
+      "room_host_name": "15",
+      "room_price": "58000",
+      "room_created_at": "2020-12-01 11:37:00",
+      "room_updated_at": "2024-01-03 15:24:29"
     }
   }
 ]

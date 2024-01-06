@@ -1,33 +1,308 @@
 room_name,room_lat,room_long,room_address,room_des,room_max,room_type,room_option,room_host_name,room_price,room_created_at,room_updated_at
-유한회사 이,36.20389,127.08472,대전광역시 관악구 개포거리 (미경유면),"Quo deserunt neque placeat. Nostrum provident temporibus eligendi.
-Dolorem eius nostrum fuga officia quia. Mollitia dignissimos repudiandae sit ea at harum tenetur. Soluta qui nemo id quam quidem.",7,3,"[3, 4]",1,171000,2023-11-04 19:18:31,2023-05-11 09:06:24
-류허,34.8825,128.62667,인천광역시 강남구 서초중앙7가 (지혜박김면),"Ullam at necessitatibus soluta. Ullam in impedit provident minima.
-Consequatur temporibus repudiandae quaerat fuga. Animi voluptates fuga aperiam dicta voluptatibus.",7,3,"[1, 3, 4]",2,37000,2021-03-28 02:56:36,2023-07-20 01:17:34
-유한회사 노,36.6009,126.665,인천광역시 동구 서초대로,Porro voluptatem earum recusandae. Incidunt occaecati hic numquam dolore delectus. Totam architecto distinctio nisi.,1,3,[],3,352000,2023-06-27 20:43:41,2023-01-07 23:16:49
-한장강,34.8825,128.62667,제주특별자치도 단양군 서초중앙가 (예원민마을),"Aliquid animi minus quae optio debitis. Sed consectetur cum reprehenderit ducimus. Omnis veniam excepturi nam ducimus molestias.
-Repellendus veniam debitis voluptatibus doloribus.",9,3,"[1, 2, 3, 4]",4,565000,2021-03-31 14:38:47,2023-09-25 05:17:30
-김박이,36.20389,127.08472,대구광역시 금천구 압구정가,"Vitae qui aut officiis voluptate perspiciatis quisquam. Iure ea deleniti fugiat.
-Deleniti officia in error et dolore temporibus consectetur. Ea quis quasi quidem in nemo.",2,4,"[1, 2, 3, 4]",5,78000,2023-02-25 14:39:25,2023-06-08 11:58:11
-박장,36.82167,128.63083,충청남도 단양군 봉은사가 (서영하조동),"Assumenda saepe praesentium voluptates blanditiis facilis. Error eligendi occaecati mollitia vitae.
-Magnam architecto labore aut earum. Nulla eius perspiciatis error labore.",3,2,"[1, 2, 3, 4]",6,136000,2021-03-22 20:22:30,2023-03-05 19:08:36
-서김,34.8825,128.62667,전라북도 충주시 언주거리 (서현서노동),Cumque blanditiis non magni enim accusamus laudantium velit. Minus qui veniam ipsa eius perspiciatis. Repudiandae iure ad sunt qui rem quos aperiam. Magni maxime tempora maiores error nesciunt.,8,3,"[2, 3, 4]",7,246000,2023-01-14 10:11:53,2023-01-06 09:40:26
-이김,37.65639,126.835,대구광역시 양천구 학동489길,Minima distinctio dolor vitae quasi reiciendis. Hic dolorum perspiciatis delectus. Rem distinctio dolores voluptas laborum rerum ut. Delectus iste neque explicabo nesciunt pariatur sapiente.,3,2,"[1, 2]",8,126000,2023-10-31 22:51:01,2023-04-28 21:45:42
-(유) 문,34.8825,128.62667,대전광역시 성동구 봉은사08로,"Blanditiis quo enim consequuntur numquam nesciunt repellendus.
-Doloremque modi tempore modi asperiores sint. Repellat aspernatur sequi culpa. Dolore quod aliquam incidunt dicta ipsam ipsum fugit.",10,1,[1],9,361000,2021-10-28 11:10:17,2023-09-16 00:35:24
-한이,37.1759,128.9889,세종특별자치시 성북구 서초중앙57가,"Facere deserunt impedit esse error nobis. Magni labore in fugiat maxime aut exercitationem a. Consequatur cupiditate ex suscipit.
-Velit quidem animi perspiciatis. Culpa veniam eligendi.",6,1,"[2, 4]",10,482000,2023-03-05 12:02:21,2023-06-17 22:24:01
-차이김,36.6009,126.665,제주특별자치도 원주시 서초대거리 (서준곽류면),"Aperiam autem fuga quia. Consectetur eos reiciendis cupiditate iste eligendi. A voluptatum nihil earum.
-Ut nihil voluptate ipsum dolorum. Pariatur cumque molestias debitis. Sunt officia earum sit.",10,4,"[1, 2, 3]",11,211000,2022-10-23 09:23:59,2023-03-14 19:13:29
-(주) 이,36.20389,127.08472,제주특별자치도 원주시 서초중앙367길,Velit voluptate occaecati error laborum quas. Modi cum aperiam ea deleniti consectetur recusandae quidem.,6,2,"[1, 3]",12,80000,2021-12-24 17:26:09,2023-04-19 06:59:27
-김김김,36.6009,126.665,충청북도 수원시 영통구 양재천가,"Commodi tenetur cupiditate deserunt mollitia laudantium.
-Reprehenderit ratione aliquam possimus. Neque repudiandae odio sit totam ad blanditiis.",7,4,"[1, 2, 3]",13,138000,2021-01-21 00:23:56,2023-07-27 17:49:09
-유한회사 김권김,36.82167,128.63083,대구광역시 금천구 테헤란430가,Amet corporis quaerat quia dignissimos dolorem explicabo. Fugiat commodi molestias.,8,2,"[1, 2, 3, 4]",14,475000,2022-04-16 20:25:06,2023-01-26 23:04:11
-김조,37.1759,128.9889,서울특별시 관악구 역삼695로 (영숙권박마을),"Quam quos accusamus facere minima. Dolore modi voluptates nesciunt.
-Deserunt rerum ad quaerat facere magnam libero nihil. Doloribus error eum dolores.
-Temporibus earum saepe iusto.",2,3,"[2, 4]",15,290000,2022-05-09 07:24:10,2023-09-30 08:21:29
-이임김,36.6009,126.665,강원도 계룡시 영동대가,Maxime officia asperiores veniam. Blanditiis aliquam modi quis dicta. Vero voluptates dolorum earum quos ipsa.,2,3,[4],16,250000,2023-06-03 17:30:30,2023-04-25 08:13:11
-(주) 김,37.65639,126.835,경기도 화천군 서초중앙43거리 (서영허오리),Cumque animi molestiae. Consectetur aperiam ad accusamus itaque ducimus. Quisquam repellendus veritatis nemo ducimus veritatis magnam.,1,4,"[1, 2, 3, 4]",17,279000,2022-10-08 06:21:07,2023-10-23 13:31:14
-(유) 김최이,37.65639,126.835,울산광역시 용산구 영동대길,Similique quibusdam occaecati debitis ad nisi. Facilis at in voluptatibus voluptates dolore suscipit. Similique dolores rem commodi voluptate nostrum eligendi.,6,4,[],18,753000,2022-05-19 07:26:53,2023-03-10 00:17:07
-박이박,34.8825,128.62667,전라남도 수원시 장안구 서초대13로,Nam cupiditate pariatur. Earum distinctio saepe at quam dolorem deleniti.,6,3,[4],19,166000,2022-04-08 03:47:11,2023-05-20 16:09:15
-주식회사 서,36.6009,126.665,광주광역시 동대문구 도산대446길,"Ea reprehenderit at eum maxime illum consequatur. Pariatur placeat animi odio occaecati iusto fuga dignissimos.
-Corrupti iste in eaque consectetur.",9,2,"[2, 3, 4]",20,133000,2022-02-06 14:48:51,2023-05-04 20:40:53
+최김오,37.1759,128.9889,부산광역시 북구 석촌호수083가 (서현김리),"Laudantium repudiandae veritatis officia harum repudiandae illo.
+Reiciendis qui repellat provident molestias. Officia sed nostrum totam dicta minus.",8,3,"[1, 2, 3]",14,233000,2022-09-15 06:47:32,2024-01-06 03:01:16
+남정오,34.8825,128.62667,부산광역시 북구 압구정61가 (현숙노최동),Similique ipsam esse eaque rem odit. Perspiciatis eligendi perferendis reiciendis dolor.,9,2,"[1, 2, 3, 4]",11,176000,2022-08-05 13:10:54,2024-01-03 18:59:26
+이권송,34.8825,128.62667,대전광역시 북구 수지구 역삼길,Cumque maiores aut exercitationem esse eos. Voluptas consequuntur voluptatem qui. Consequatur praesentium suscipit. Voluptatibus pariatur corporis consequatur eaque sequi incidunt.,6,4,"[1, 2, 3, 4]",13,354000,2021-04-09 08:29:15,2024-01-04 09:51:51
+한김,37.65639,126.835,부산광역시 동구 강남대7거리 (준서남면),"Laudantium minima porro ducimus voluptatem tenetur doloremque. Ratione assumenda occaecati dolore autem corrupti deleniti.
+Minima qui doloremque quae.",6,1,"[1, 3]",20,73000,2022-08-18 00:30:08,2024-01-01 10:51:43
+주식회사 오,34.8825,128.62667,대구광역시 북구 삼성로 (우진윤리),Dolore culpa ut distinctio quia ex. Sapiente ducimus impedit debitis fugit incidunt.,7,1,"[1, 2, 3, 4]",16,224000,2022-06-13 15:21:49,2024-01-03 16:36:27
+유한회사 김,36.6009,126.665,대전광역시 서구 선릉로,Ex pariatur aspernatur. Sint veritatis placeat distinctio.,6,4,"[1, 2, 3, 4]",13,308000,2023-09-02 05:17:42,2024-01-05 14:18:24
+유한회사 이,36.6009,126.665,부산광역시 서구 잠실891로,"Aspernatur nesciunt sequi doloribus laborum.
+Doloribus doloremque culpa voluptate necessitatibus quam commodi. Ducimus nam placeat vitae qui. Aliquam qui magni illum. Dolorem ipsa inventore esse.",2,4,"[1, 2, 3, 4]",4,497000,2022-12-23 12:01:41,2024-01-02 03:16:28
+오김,36.6009,126.665,부산광역시 중구 반포대거리 (성호박동),"At itaque quibusdam pariatur voluptates. Nesciunt ut sunt distinctio.
+Natus a natus facere deserunt odio. Ratione sapiente minus veniam possimus.",5,1,[4],4,151000,2022-03-23 04:59:57,2024-01-06 06:37:36
+(유) 성장김,36.82167,128.63083,부산광역시 중구 개포59가,"Odio corrupti illo non magni. Numquam laboriosam sunt totam.
+Aliquam provident consequuntur quasi. Autem laudantium rerum corporis.",4,4,"[1, 3, 4]",14,114000,2022-12-14 06:14:01,2024-01-04 16:06:01
+(주) 이,37.65639,126.835,대구광역시 서구 반포대85가 (경수신마을),"Molestias beatae numquam iste impedit a. Similique maiores quibusdam ut architecto.
+Libero consequuntur id culpa officia molestiae nisi. Quam minima maxime accusamus consectetur iusto quisquam.",6,1,"[1, 2, 4]",20,31000,2023-03-13 13:08:08,2024-01-03 05:00:14
+장김,36.20389,127.08472,부산광역시 북구 영동대57거리,"Fugiat recusandae sint.
+Deserunt tempore harum incidunt in esse enim. Repellendus ut fugiat occaecati iusto. Dignissimos minima numquam dolore veritatis.",10,3,[],10,638000,2020-07-04 14:19:44,2024-01-06 07:29:08
+박이김,37.1759,128.9889,제주특별시 남구 양재천4가 (아름오김동),Facere sed voluptatum soluta. Nihil consectetur eaque quae impedit.,1,4,"[1, 2, 3, 4]",9,312000,2020-10-21 01:16:57,2024-01-04 23:32:47
+류김,36.6009,126.665,부산광역시 남구 강남대로,In distinctio placeat voluptas quae. Expedita distinctio vitae recusandae cupiditate.,7,1,"[1, 2]",2,39000,2022-04-11 16:40:18,2024-01-03 22:54:51
+주식회사 이,37.1759,128.9889,대전광역시 서구 봉은사로,"Voluptatum vero quos nulla dicta. Quo laborum delectus eius consectetur.
+Ducimus beatae expedita unde officia unde esse.
+Nulla et fugiat cum.",5,4,"[1, 3]",16,57000,2020-06-05 23:14:16,2024-01-05 13:48:02
+장이배,36.82167,128.63083,제주특별시 동구 테헤란로,"Veniam explicabo facere vel. Nostrum sapiente placeat suscipit voluptas non.
+Laboriosam eum facere enim laborum praesentium.",2,1,"[1, 3]",4,348000,2020-05-04 08:44:00,2024-01-03 18:04:37
+장류김,34.8825,128.62667,대전광역시 서구 선릉가 (혜진김박면),"Vel fugit nesciunt id dolor possimus. Ab distinctio provident nostrum nostrum neque.
+Accusantium dolore temporibus. Iure fuga quidem placeat reprehenderit distinctio. Ipsam impedit odio.",10,4,"[1, 2]",1,107000,2022-01-29 01:01:24,2024-01-02 09:48:21
+황성주,37.1759,128.9889,대전광역시 중구 도산대043가,Repudiandae repellat beatae impedit quis fugit. Officiis quasi facilis molestiae delectus. Reprehenderit totam cupiditate fugiat sapiente eos.,9,1,"[1, 2, 3, 4]",10,171000,2020-06-12 10:41:20,2024-01-01 00:09:16
+유한회사 이,36.82167,128.63083,대구광역시 북구 백제고분길,In similique beatae occaecati enim et asperiores. Minima culpa fugiat quae praesentium quibusdam aperiam.,10,1,"[3, 4]",5,10000,2023-01-16 17:47:47,2024-01-03 07:45:07
+(주) 송박김,36.82167,128.63083,대전광역시 동구 서초중앙로 (성훈민하읍),Doloribus omnis doloribus dolore. Magni mollitia possimus ullam explicabo dicta ducimus fugit. Rem placeat a doloribus blanditiis.,1,2,[],14,42000,2020-12-17 20:30:27,2024-01-03 07:30:11
+이이,37.65639,126.835,부산광역시 동구 청원구 도산대로,Ea mollitia culpa nemo provident doloribus. Modi ea mollitia fugit officiis. Eveniet nihil excepturi enim accusantium pariatur neque.,10,1,[],5,164000,2023-05-05 01:11:59,2024-01-02 02:33:59
+(유) 김안김,36.20389,127.08472,대전광역시 북구 삼성로,"Totam provident minima.
+Sint consequuntur labore odit iste deserunt. Labore officia officia veritatis.
+Vero delectus expedita vitae. Qui cupiditate voluptatem quam.",10,4,[],10,48000,2022-05-10 21:33:23,2024-01-05 13:10:48
+배송,36.20389,127.08472,대전광역시 중구 학동354로 (영일김박동),"Ab minus quasi ratione repellendus ex. At fugiat earum minima amet vitae expedita.
+Ea similique commodi officia.",4,1,[],19,263000,2020-08-11 03:01:17,2024-01-05 03:06:56
+(주) 정윤윤,36.20389,127.08472,대구광역시 서구 양재천135로 (병철김면),Modi molestias facilis fugit consequuntur. Alias minima excepturi perspiciatis. Earum praesentium vero.,5,2,[1],7,229000,2021-08-06 05:59:20,2024-01-02 21:30:33
+김이이,36.20389,127.08472,제주특별시 중구 반포대거리,Doloribus reiciendis iste error. Commodi aperiam praesentium commodi libero. Officia odit quia minus officia perferendis laboriosam.,4,1,"[1, 4]",20,515000,2023-11-30 19:09:04,2024-01-04 03:52:47
+주식회사 양송김,36.82167,128.63083,서울특별시 중구 논현로 (지원최이면),"Quaerat enim officia facilis labore non tenetur. Iste recusandae hic ad.
+Consectetur porro dolorum ad sequi rem.",3,4,"[1, 2, 3]",13,263000,2021-08-17 05:11:06,2024-01-04 02:23:54
+윤윤,36.20389,127.08472,대구광역시 북구 백제고분길,"Architecto hic nisi animi aperiam repellendus.
+Dolore ullam consequuntur sed. Consequatur adipisci unde corporis occaecati.",10,1,[],20,240000,2020-06-30 05:50:03,2024-01-05 03:32:28
+노박김,36.82167,128.63083,서울특별시 북구 동안구 양재천023가,"Assumenda modi quam a mollitia. Quaerat quam iusto dolorum praesentium nobis ut quis.
+Eaque cum in nulla molestiae. Amet corporis earum. Qui asperiores vel veniam voluptate maiores deserunt.",8,3,"[1, 2, 3, 4]",10,132000,2023-04-13 01:05:05,2024-01-02 13:35:10
+안김,37.65639,126.835,대전광역시 북구 양재천길,Cumque id voluptates eum consectetur doloremque. Explicabo laborum neque quas est expedita a. Aliquam debitis a.,3,2,"[1, 2, 3, 4]",20,41000,2020-11-20 06:35:02,2024-01-04 13:49:23
+(주) 박,36.82167,128.63083,대구광역시 북구 역삼52길 (광수김면),Ducimus dicta repellendus quam facilis dolore. Possimus eaque nam eius cumque necessitatibus.,6,4,"[1, 2, 3]",8,165000,2021-03-14 10:43:36,2024-01-06 19:59:20
+최허,36.6009,126.665,서울특별시 동구 반포대43길 (민수김마을),Nisi molestias cum soluta dolore. Culpa error temporibus modi provident earum provident. Itaque quos corrupti ratione voluptatem itaque.,8,3,"[1, 3, 4]",3,277000,2023-05-18 08:36:56,2024-01-02 06:05:08
+(유) 김김이,37.1759,128.9889,서울특별시 동구 언주920거리 (성수노박동),Exercitationem repellat ullam totam incidunt vel cupiditate. Beatae quia quidem nesciunt sit facere. Maxime ratione eos tempora facilis.,2,4,[1],3,269000,2022-06-10 07:59:01,2024-01-03 23:02:44
+유한회사 김,36.82167,128.63083,제주특별시 동구 개포로,Corrupti et explicabo eveniet aperiam tenetur. Autem natus consequatur ut quidem consequatur ipsum. Ullam alias doloremque recusandae et minima.,6,1,[],15,290000,2020-03-31 09:32:33,2024-01-06 07:20:56
+(주) 박이이,36.82167,128.63083,대전광역시 중구 봉은사로 (민서하면),"Et exercitationem numquam aspernatur voluptatibus non. Molestias facilis illo.
+Quasi beatae sed modi. Beatae eaque eaque est animi aliquam.",5,4,"[1, 2, 4]",20,197000,2021-08-02 16:40:15,2024-01-03 02:12:56
+이김,34.8825,128.62667,대전광역시 동구 봉은사로 (정자문읍),Dolorem exercitationem omnis ducimus eveniet quae. Aliquid aperiam deserunt dicta nemo.,7,2,[2],3,389000,2020-10-18 01:28:34,2024-01-05 22:14:07
+(유) 조,34.8825,128.62667,제주특별시 중구 서초대738거리,Id voluptate officia illum fugit illo. Illo nobis eum quas illum animi.,7,2,"[1, 2, 3, 4]",2,39000,2020-10-11 03:21:47,2024-01-06 03:06:42
+박김,36.6009,126.665,부산광역시 서구 삼성334거리 (영호김동),Quasi exercitationem maxime rem repudiandae tempora veritatis. Natus nisi est quibusdam at ut officiis.,4,2,[3],4,570000,2023-02-27 10:31:44,2024-01-02 14:30:25
+(주) 양윤유,37.65639,126.835,대전광역시 남구 서초대가 (준영심이리),Veniam beatae quaerat ea quibusdam doloribus dolore. Sunt provident ullam voluptates odit quod.,9,2,"[1, 2, 3, 4]",5,23000,2021-08-23 21:23:04,2024-01-01 16:36:53
+이조,36.6009,126.665,대구광역시 북구 강남대가 (예진박박리),"Voluptatem minus aliquam. Odio error reiciendis quia vitae corrupti culpa nam. Fuga odit rem delectus numquam modi.
+Iure qui reiciendis. Iure nihil delectus laboriosam consectetur ad quasi omnis.",6,2,"[2, 3]",10,257000,2023-08-02 17:07:49,2024-01-06 02:44:18
+주식회사 김김문,36.6009,126.665,제주특별시 서구 개포가 (예준박이리),"Sequi vitae quam. Earum nisi temporibus assumenda accusamus. Nihil itaque repellendus officiis.
+Molestias odit illum. Odit quia maiores nesciunt fugit.
+Sunt commodi quia fugit dicta voluptatibus.",10,3,"[1, 2, 3, 4]",7,157000,2020-11-27 01:24:57,2024-01-05 18:28:48
+진황,34.8825,128.62667,대구광역시 서구 영동대82거리,Nihil reiciendis ratione similique sequi iste. Saepe inventore amet ipsa quisquam soluta tenetur quibusdam. Ab natus praesentium fugit. Aliquid explicabo vitae aut nostrum est amet.,8,2,"[1, 2, 3, 4]",1,75000,2021-12-13 13:04:57,2024-01-05 22:22:40
+홍윤,36.6009,126.665,부산광역시 동구 기흥구 역삼길,Velit ut ab voluptas debitis dolorum. Tempora accusantium officia inventore impedit. Nobis natus est eaque nulla quidem.,4,3,"[1, 2, 3]",5,245000,2023-01-25 18:56:24,2024-01-05 12:43:17
+(주) 김,37.1759,128.9889,부산광역시 동구 선릉가 (은영오마을),"Voluptates sapiente facere illo corporis.
+Earum veritatis eveniet eveniet unde mollitia cum nostrum. Hic porro laborum ex tempora.",8,1,[4],3,261000,2020-04-20 09:54:47,2024-01-04 04:46:41
+주식회사 임,37.65639,126.835,대전광역시 중구 서초중앙720길 (민재이면),"Magni atque vero eos voluptatibus rem. Eos aspernatur amet blanditiis perspiciatis aspernatur.
+Autem sint omnis quas. Iure facilis illo quaerat velit.",1,3,[4],17,307000,2022-02-22 17:21:11,2024-01-02 10:17:46
+주식회사 손,36.6009,126.665,대구광역시 동구 오금240로 (수민박리),Voluptatem voluptatum quam repellat dolorum repellat eos. Quaerat voluptatum molestias reprehenderit velit. Modi voluptatem eos laborum nesciunt ad.,7,1,[],2,329000,2021-01-01 01:43:03,2024-01-03 06:47:43
+이박김,34.8825,128.62667,서울특별시 북구 언주길 (선영윤강마을),Nihil voluptatibus alias consequatur occaecati. Dolore fugit a tempora aliquam veritatis. Ullam aut eaque sint.,7,2,[3],9,406000,2023-08-19 10:01:25,2024-01-06 00:10:39
+최최고,37.65639,126.835,서울특별시 북구 가락0길 (예은이리),A recusandae voluptate ad doloribus expedita. Quod quia sapiente necessitatibus. Labore rerum impedit quasi nulla. Laudantium reprehenderit voluptates earum doloribus soluta optio.,7,4,"[1, 2, 3, 4]",8,470000,2021-05-15 00:40:18,2024-01-03 12:45:58
+박박,34.8825,128.62667,제주특별시 북구 서초대로,"Animi delectus ratione deleniti facilis.
+Quos modi reprehenderit velit. Architecto soluta iusto aliquam error magni.
+Delectus cupiditate libero molestias. Quam exercitationem rem hic ut architecto.",4,2,[],15,92000,2021-10-01 14:48:53,2024-01-01 17:57:32
+(유) 박김김,37.1759,128.9889,대전광역시 남구 잠실길,Beatae ipsa et recusandae repudiandae. Ipsum aperiam dolorem reprehenderit. Quis earum eveniet.,9,1,"[1, 2, 4]",10,441000,2023-11-24 23:34:28,2024-01-06 06:12:45
+양김황,36.82167,128.63083,대전광역시 동구 영동대길 (수진박장면),Nihil aliquam hic asperiores ipsum praesentium. Voluptate dolor unde illo. Iure quisquam molestiae quos nobis dolorem facilis. Laboriosam tenetur sunt repellendus.,3,3,[2],9,446000,2022-06-02 16:11:32,2024-01-04 12:13:08
+박박박,37.65639,126.835,대구광역시 서구 서북구 삼성5길 (민지이하마을),"A voluptas quos possimus rem. Voluptatem quae odit quam quidem dicta. Odio animi laborum expedita.
+Accusamus tenetur possimus assumenda et quaerat. Ducimus officiis magnam doloremque.",9,1,"[2, 3]",2,367000,2021-04-07 19:25:56,2024-01-02 18:08:10
+(유) 최,36.20389,127.08472,부산광역시 남구 서초대4길 (정남강김리),Laborum ducimus cumque facilis. Alias doloribus quis hic quaerat consectetur. Aliquid iure temporibus ratione non error.,2,1,[3],8,232000,2021-04-09 03:35:32,2024-01-04 04:45:13
+최신,37.65639,126.835,대구광역시 중구 테헤란15길,Quidem quibusdam praesentium quibusdam officiis eum tempora. Nam consequatur ullam facere doloremque facilis alias.,8,3,[2],15,70000,2020-11-28 09:56:44,2024-01-02 06:09:54
+주식회사 하이이,37.65639,126.835,대전광역시 남구 역삼0거리 (진호김마을),"Dignissimos magnam asperiores molestiae reprehenderit officiis aut. Quis eos atque ut. Possimus explicabo quos reiciendis quos.
+Natus sequi corrupti labore hic deserunt cum.",6,1,"[1, 2, 3, 4]",6,195000,2020-11-18 13:05:34,2024-01-06 10:24:19
+주식회사 박박최,34.8825,128.62667,대구광역시 북구 테헤란길,Dolore voluptatibus quasi ullam facere facilis. Libero beatae iusto alias culpa eum excepturi. Deserunt fugit quod voluptate omnis libero numquam.,7,1,[1],10,47000,2022-12-26 22:03:00,2024-01-04 14:33:32
+(유) 김김이,37.65639,126.835,대구광역시 북구 봉은사522거리 (선영이읍),Veritatis iste earum omnis officia iure. Quos sequi nam commodi quasi corporis numquam ducimus.,4,3,"[1, 2, 3]",8,432000,2021-08-14 08:35:47,2024-01-02 20:17:10
+(유) 허,34.8825,128.62667,제주특별시 남구 백제고분로 (채원김리),"Exercitationem aspernatur vitae iste autem. Saepe asperiores occaecati.
+Suscipit minima non eveniet neque quos deserunt minima.",7,1,"[1, 2, 3, 4]",17,747000,2022-02-01 15:28:34,2024-01-04 21:29:01
+최손장,36.82167,128.63083,제주특별시 북구 강남대가 (서준이리),"Porro tempore numquam nobis rem atque.
+Fuga occaecati nam in. Enim saepe ducimus.
+Quidem ipsum veniam ea nemo maiores. Eligendi exercitationem accusamus.",2,3,[2],10,214000,2023-05-03 20:14:58,2024-01-02 05:03:08
+(유) 박,37.65639,126.835,부산광역시 서구 도산대662가,"Similique aliquam aliquam vitae voluptatum laborum fugiat. Eum atque vel praesentium repudiandae officia porro ipsa.
+Quae consectetur ullam nemo doloribus quasi. Sit quos voluptatum fugit.",7,2,[3],8,214000,2022-05-03 04:21:33,2024-01-02 06:39:36
+최고김,36.20389,127.08472,대구광역시 서구 학동37길 (준혁이리),Repellendus saepe blanditiis assumenda accusantium reprehenderit. Autem nam aliquid odio explicabo. Ullam consequatur tempore quas optio.,1,3,[],20,25000,2022-04-20 15:44:52,2024-01-06 01:54:01
+이임,36.20389,127.08472,대구광역시 동구 학동길 (예준김김읍),"Nemo tenetur optio cumque quod dolore numquam.
+Impedit nam repellendus cupiditate aliquid. Inventore magni perspiciatis id.
+Ipsa eos optio exercitationem corporis. Vel sit dolor fugit vitae.",7,3,"[1, 2, 3, 4]",1,262000,2023-06-24 12:49:25,2024-01-06 09:01:26
+손김류,36.20389,127.08472,부산광역시 동구 압구정373길,"Perspiciatis ad mollitia. Nulla distinctio excepturi quidem aliquam a natus. Itaque ipsa ut ab.
+Tempora eius dolores porro minima. Rerum laudantium illo dolorem.",9,2,"[3, 4]",3,219000,2020-09-05 07:15:21,2024-01-01 23:43:52
+(유) 김,37.1759,128.9889,부산광역시 동구 만안구 선릉4로,"Voluptates ipsa quam nisi ratione. Natus aperiam est dolor reprehenderit.
+Tempore eum saepe incidunt laboriosam.
+Reiciendis reprehenderit porro rem. Quisquam quisquam id facere.",9,3,[2],18,365000,2021-04-20 12:26:51,2024-01-05 21:06:46
+안김,36.6009,126.665,서울특별시 남구 가락58거리,"Consectetur praesentium ipsam quae explicabo dolore. Nemo nobis vel eum ullam suscipit.
+Molestiae a iusto aut minus odio tempore. Autem minus reiciendis pariatur sunt voluptatum libero.",7,4,"[1, 2]",14,144000,2023-02-17 05:51:33,2024-01-06 17:09:14
+문정,36.20389,127.08472,부산광역시 서구 단원구 양재천18거리,"Voluptates vitae labore. Sapiente quidem numquam officiis a dolorem. Perspiciatis earum sequi quis voluptas soluta.
+In deleniti tenetur culpa rem dolor enim. Quos error numquam.",4,1,"[1, 2, 3, 4]",19,268000,2021-10-05 16:34:12,2024-01-03 16:51:59
+강장김,34.8825,128.62667,제주특별시 북구 역삼2가 (수민장리),Dolore alias voluptatum corrupti deleniti ipsa quis enim. Nisi optio blanditiis doloremque. Neque quidem explicabo mollitia dolores porro sit.,3,1,"[1, 2, 3, 4]",11,563000,2020-07-13 07:33:05,2024-01-01 14:36:16
+이이,37.65639,126.835,대구광역시 북구 테헤란3거리 (하은손김리),"Nisi voluptatem nobis reprehenderit. Saepe a voluptates enim quo.
+Perspiciatis vel a harum maiores. Consequuntur aperiam quos ipsum corporis.",2,4,"[1, 2, 3, 4]",7,50000,2022-12-14 05:44:30,2024-01-05 11:39:31
+주식회사 정,36.82167,128.63083,부산광역시 중구 도산대84로,"Perspiciatis dicta dolor. Quidem itaque natus maiores.
+Ab mollitia corrupti temporibus necessitatibus nisi. Culpa quod quod eos. Occaecati rem explicabo consequatur.",2,3,"[1, 2, 4]",9,329000,2022-04-07 10:26:18,2024-01-05 03:05:03
+주식회사 김,37.65639,126.835,제주특별시 동구 테헤란493길,"Architecto totam qui distinctio quas odio.
+Praesentium culpa aliquam magnam.",8,1,[],9,203000,2021-11-04 04:47:40,2024-01-04 20:17:03
+주식회사 심오김,34.8825,128.62667,대전광역시 서구 강남대로,Dolor corrupti nihil eaque quibusdam. Earum similique beatae nemo similique voluptate. Labore provident nulla fugiat animi velit.,3,2,"[1, 2, 3, 4]",19,163000,2023-12-12 04:25:58,2024-01-05 19:51:50
+한최,37.1759,128.9889,대전광역시 동구 양재천70거리 (승현최면),Voluptates ipsam repudiandae alias perferendis modi. Unde magnam itaque. Veniam natus distinctio.,10,3,"[2, 3, 4]",20,463000,2023-11-15 21:02:47,2024-01-01 19:15:51
+(주) 장이최,36.82167,128.63083,부산광역시 중구 가락길,Reprehenderit velit dicta voluptas sed fugit. Adipisci perferendis quod esse nesciunt necessitatibus inventore.,10,1,"[2, 3, 4]",8,49000,2021-11-01 12:33:09,2024-01-06 00:25:54
+유한회사 김류박,36.82167,128.63083,서울특별시 남구 학동가,Aliquam possimus exercitationem atque adipisci sunt. Aliquid quaerat accusamus harum. Dicta molestias labore recusandae minus eveniet sequi.,10,3,[],20,362000,2023-05-29 19:31:55,2024-01-04 10:00:14
+이장김,37.65639,126.835,서울특별시 중구 서초중앙493길 (채원이홍읍),Doloribus fuga quaerat aspernatur voluptatum necessitatibus alias. Repellat odio doloremque reiciendis. Molestias at quasi labore asperiores eaque recusandae.,2,4,"[1, 2, 3, 4]",3,675000,2022-12-18 21:15:58,2024-01-06 16:31:42
+이박,36.6009,126.665,제주특별시 중구 수지구 언주857거리,"Libero est nihil velit optio. Fugit rem ab.
+Quibusdam tenetur error. Veritatis quo a possimus iure provident veniam sequi. Temporibus quas nobis enim.",7,4,"[2, 3, 4]",16,73000,2021-11-24 19:38:51,2024-01-03 15:52:08
+(주) 김,36.6009,126.665,대구광역시 북구 압구정길 (성훈강김동),"Fuga saepe animi perferendis. Voluptate architecto dicta inventore eligendi voluptatum facere.
+At ea consectetur minus dolorum eius ullam. Dolores maxime voluptate voluptatem natus.",9,3,[],2,514000,2023-12-04 09:18:13,2024-01-03 05:45:20
+(유) 이류하,36.6009,126.665,제주특별시 중구 오금91길,Labore eos exercitationem maxime libero doloribus laboriosam. Dolor aspernatur itaque facilis autem dolorum esse. Animi quas iste quo animi.,3,4,[],9,279000,2020-03-15 10:19:53,2024-01-04 00:04:01
+이김이,36.6009,126.665,제주특별시 동구 테헤란가,Saepe necessitatibus quibusdam aut. Cupiditate doloremque cupiditate deleniti omnis vitae. Pariatur officiis mollitia saepe voluptates necessitatibus.,2,3,"[1, 2, 3, 4]",13,12000,2022-04-10 05:50:08,2024-01-04 01:48:44
+최한최,36.20389,127.08472,대전광역시 동구 학동가,"Itaque suscipit saepe id eius provident sequi.
+Rerum dolore ipsa adipisci quisquam porro. Qui adipisci ullam quas at unde.",4,3,"[1, 2, 3]",5,112000,2021-02-01 19:08:56,2024-01-05 05:15:27
+유한회사 문,34.8825,128.62667,대전광역시 남구 역삼길,"Repellat aliquam dolor provident.
+Cum maiores quos saepe occaecati. Tempore necessitatibus dolorum amet aperiam laborum repudiandae ab. Rem voluptas saepe blanditiis nemo laboriosam at.",3,2,[],19,46000,2021-04-12 18:08:47,2024-01-05 11:35:41
+김이박,37.65639,126.835,서울특별시 중구 개포4가 (준영오동),Cum quisquam exercitationem debitis magni repellendus praesentium. Repellat voluptate explicabo odit. Repellendus praesentium rerum adipisci harum.,5,1,[2],20,169000,2021-11-28 09:37:22,2024-01-01 03:30:15
+박최김,37.65639,126.835,대전광역시 동구 반포대1거리 (민재김이읍),Quas amet doloremque hic eum omnis nihil. Exercitationem sequi magnam laudantium. Animi architecto iure cum. Aliquam dolorum eum.,1,3,[2],3,367000,2020-06-02 23:25:54,2024-01-05 14:23:03
+주식회사 김,36.20389,127.08472,대전광역시 중구 백제고분7거리,Esse natus aut ut. Iure eos reprehenderit error minima cumque. Optio quam minima consequuntur vel neque dolorum.,3,3,"[1, 2, 4]",10,417000,2023-05-19 03:12:04,2024-01-02 11:44:10
+김최우,36.6009,126.665,대구광역시 북구 봉은사거리,"Voluptate ex cupiditate eum ab nisi odio. Fugiat minus pariatur ducimus deleniti ad ipsam.
+Vero enim pariatur dolore id. Vero cum fugit deserunt.",2,2,"[1, 2, 3, 4]",16,6000,2021-12-16 07:09:56,2024-01-02 22:39:25
+김황,36.20389,127.08472,서울특별시 서구 테헤란로 (영식김김마을),"Veritatis pariatur eligendi illo dolores earum.
+Nesciunt magni veniam officia dicta. Architecto veritatis error sit numquam nihil fuga. Molestiae officiis nostrum nihil nemo error.",5,1,[4],4,21000,2021-11-08 13:57:14,2024-01-05 11:46:46
+나이,37.1759,128.9889,대구광역시 동구 논현길,"In totam quibusdam harum omnis.
+Veritatis laboriosam magni in natus. Possimus explicabo commodi praesentium.",9,4,[],20,522000,2022-08-20 08:39:51,2024-01-04 22:33:58
+박이,36.82167,128.63083,부산광역시 남구 서초대487길,Tenetur non inventore laborum minima. Consectetur numquam maxime suscipit harum. Quod distinctio quod vitae qui fuga.,5,2,"[1, 2, 3]",19,799000,2021-12-22 11:54:35,2024-01-04 07:29:31
+이윤허,36.82167,128.63083,대전광역시 북구 역삼96거리 (재현송안면),"Neque sequi nisi accusamus eos. Officiis hic asperiores veniam. Unde tenetur ut iste laudantium totam at ratione.
+Accusamus commodi facere veniam adipisci. Illum quaerat officiis dignissimos.",6,4,"[1, 2, 3]",15,373000,2023-04-09 10:55:03,2024-01-04 16:08:41
+김김김,36.20389,127.08472,대전광역시 남구 선릉가,Sint enim distinctio quis sapiente voluptates nostrum. Ipsam sapiente molestias explicabo natus.,10,2,[1],6,413000,2022-04-10 16:52:46,2024-01-05 04:31:33
+김박,37.1759,128.9889,대구광역시 남구 서북구 역삼5거리,"Illum commodi magni eius.
+Officiis quasi ab voluptates.
+Perferendis unde occaecati dolor quaerat nulla ea. Dicta porro laborum.",2,2,"[1, 2, 3]",17,367000,2023-10-24 09:59:51,2024-01-02 17:30:31
+(주) 김,37.1759,128.9889,대구광역시 중구 반포대거리,"Similique eius voluptatem repudiandae. Natus natus at quaerat odio.
+Dicta debitis earum deserunt odio consequatur.
+Aperiam eligendi similique nemo. Quae tempora quidem nesciunt.",8,3,[4],6,229000,2022-08-08 01:26:18,2024-01-03 16:07:31
+남민,36.6009,126.665,부산광역시 서구 가락1거리 (영숙장안읍),Ipsum eligendi deleniti voluptates. Quis modi ipsum maiores error optio odio. Quisquam tempora quos eos modi soluta debitis.,5,2,[],12,602000,2023-09-26 12:51:08,2024-01-04 08:06:35
+(주) 고이구,36.6009,126.665,대구광역시 중구 역삼거리 (영수김김읍),Aliquid et fugiat harum. Reprehenderit accusantium eos recusandae temporibus. Doloremque corporis incidunt quia dignissimos.,5,4,[1],2,63000,2023-01-07 14:33:53,2024-01-02 18:38:54
+(유) 이서이,34.8825,128.62667,부산광역시 동구 강남대거리 (지후한마을),Consectetur aspernatur exercitationem. Impedit doloribus voluptates sed esse est accusamus.,10,3,"[2, 3]",18,479000,2023-10-18 03:06:39,2024-01-06 02:00:34
+윤안,34.8825,128.62667,부산광역시 북구 학동로,Ratione aut fuga vero eveniet rerum ipsa. Ea fugiat porro reiciendis reiciendis in. Nesciunt labore magnam sapiente quia.,8,3,"[2, 3]",9,71000,2021-10-17 06:31:03,2024-01-01 13:14:49
+(주) 김김김,36.82167,128.63083,부산광역시 남구 언주거리,Recusandae molestiae officiis voluptatum porro mollitia temporibus modi. Accusamus vitae soluta. Nemo sunt sapiente distinctio minima dolorum non.,7,1,"[1, 3, 4]",5,68000,2022-08-17 12:44:07,2024-01-02 14:52:02
+김권이,36.6009,126.665,서울특별시 북구 영통구 가락로 (지아이김리),Velit quas sit porro consequuntur repellat aliquam commodi. Maxime minus reiciendis enim voluptatibus hic nesciunt. Recusandae magni provident similique vel animi.,2,1,"[1, 2, 3, 4]",16,68000,2021-10-24 16:57:15,2024-01-03 01:35:12
+유한회사 박김고,37.1759,128.9889,대전광역시 중구 가락31거리 (유진이마을),Nemo eaque delectus ducimus blanditiis. Recusandae amet atque quisquam eos unde dolor. Nemo illo deleniti quis dicta magnam.,7,4,"[1, 2, 3, 4]",5,368000,2021-10-09 18:14:10,2024-01-05 20:29:42
+이이,36.82167,128.63083,부산광역시 중구 학동8로 (예은김마을),"Alias doloremque itaque possimus expedita nihil.
+Enim fugit veniam incidunt hic possimus. Vitae eveniet labore fugit. Voluptatem dolorum molestiae mollitia sed aut.",10,1,"[1, 3, 4]",13,36000,2020-01-05 08:22:13,2024-01-05 23:03:26
+(주) 장홍전,34.8825,128.62667,대구광역시 남구 논현로,Veritatis odio blanditiis cum dignissimos dolorum. Maxime odit veniam expedita sequi possimus. Libero facere quos perspiciatis quidem corrupti.,8,1,[4],8,338000,2020-06-18 17:10:52,2024-01-06 12:29:00
+김김김,34.8825,128.62667,대전광역시 동구 논현2가,Quo similique facilis nisi. Fugiat laudantium ullam magni vero maiores nemo.,8,1,"[2, 3]",18,197000,2023-01-09 09:22:34,2024-01-03 21:33:06
+고권,36.82167,128.63083,대구광역시 남구 단원구 도산대로 (정수이박리),Quia veniam laboriosam voluptate. Maxime consectetur odio. Vel rerum maiores repellat vero commodi eius.,10,2,[3],19,32000,2021-08-31 00:55:18,2024-01-01 23:02:31
+김이,34.8825,128.62667,대구광역시 북구 양재천44가,Dolor iusto consectetur quis velit. Tenetur numquam maiores atque animi consequuntur labore eius. Minima enim repellat recusandae odit accusamus eos. Ex labore beatae voluptate.,3,4,"[1, 2, 3, 4]",20,213000,2023-03-29 09:59:14,2024-01-02 07:35:34
+안황,36.82167,128.63083,제주특별시 북구 언주로 (정호황마을),Recusandae cum voluptate magni atque. Aliquam fuga architecto impedit. Non enim quam quaerat.,2,1,[],6,55000,2022-04-18 15:17:26,2024-01-05 15:55:54
+(유) 황,37.65639,126.835,대전광역시 서구 가락944로 (중수김마을),"Doloribus natus quod soluta et quas. Atque maiores numquam sed.
+Deleniti molestiae consectetur tempore incidunt illum quidem. Aliquid error distinctio. Vel repellendus molestias.",4,4,"[3, 4]",11,142000,2022-02-10 20:44:03,2024-01-03 19:10:31
+지신이,36.82167,128.63083,대구광역시 동구 오금447가 (영숙김윤마을),"Incidunt consectetur aliquam.
+Neque eaque distinctio perferendis ipsa esse iusto. Quod esse consequuntur facilis. Distinctio provident ab sapiente dolore atque et. Natus dolores voluptate.",5,4,"[1, 2, 3, 4]",15,322000,2021-01-06 23:17:49,2024-01-02 22:38:11
+강전,36.82167,128.63083,대전광역시 북구 양재천41길,Alias commodi rerum consectetur repudiandae. Iste repellendus libero beatae qui explicabo rem. Vero libero totam atque deleniti.,5,3,[4],1,117000,2022-07-15 07:23:43,2024-01-01 23:11:11
+박이이,36.82167,128.63083,대구광역시 북구 삼성00로 (상현김고읍),Labore harum perspiciatis occaecati adipisci tempora. Voluptatibus nobis fuga libero illum culpa unde fugiat. Quod esse necessitatibus voluptatibus voluptatum fugiat.,8,1,"[1, 2, 4]",9,299000,2020-12-27 09:23:50,2024-01-05 08:58:10
+(주) 김,36.6009,126.665,서울특별시 중구 오금가 (지원김배면),Repudiandae quaerat quia eligendi occaecati error. Eos est quam consequuntur beatae ea. Magnam cum suscipit consectetur aliquam molestias.,7,4,[],16,410000,2020-02-26 12:20:34,2024-01-03 00:51:25
+박이,37.65639,126.835,부산광역시 서구 오금거리 (순자박곽리),Repellat labore neque laboriosam voluptatibus vitae vitae. Earum quis occaecati non.,4,2,"[1, 2, 3, 4]",2,408000,2022-12-07 04:24:41,2024-01-02 07:32:00
+김김,37.65639,126.835,대전광역시 북구 상당구 서초중앙473로 (병철박마을),"Enim quo saepe ducimus. Aspernatur delectus atque hic voluptatem. Nam magnam atque ipsum deleniti.
+Illo possimus odio culpa exercitationem.",6,1,"[1, 2, 3, 4]",7,363000,2021-01-31 15:44:35,2024-01-03 14:15:13
+안박,36.82167,128.63083,대구광역시 북구 논현837로 (경자김이리),"Id repellendus esse optio ipsum neque. Ab modi at.
+Iure inventore ullam adipisci repellendus repellat enim. Sint ex quibusdam eos.",3,4,[],3,9000,2020-07-15 13:49:21,2024-01-05 04:49:54
+유한회사 최,36.20389,127.08472,대구광역시 동구 서초대거리 (준영남면),Ut consequuntur ipsa illo at alias totam eum. Pariatur eius qui nam consequuntur aliquid corrupti sint. Ea delectus nobis autem.,8,2,"[1, 3, 4]",17,251000,2020-09-17 19:59:14,2024-01-04 20:24:13
+안황김,37.1759,128.9889,대전광역시 중구 압구정702가,"Velit nisi ex. Odit eaque nobis itaque labore. Optio reiciendis maiores fugiat sit consequuntur.
+Incidunt eum illum repudiandae soluta sit nobis. Explicabo modi ex cum quidem porro.",3,1,"[1, 2, 3]",17,391000,2020-01-17 22:41:52,2024-01-04 03:16:58
+김송안,36.6009,126.665,서울특별시 서구 잠실1가 (준호김면),Dolorum excepturi nobis rerum modi. Hic provident nihil voluptas officia. Autem possimus magni.,10,3,[1],8,370000,2020-03-17 07:34:08,2024-01-04 08:45:36
+유한회사 송배김,36.20389,127.08472,서울특별시 서구 일산동구 논현74거리 (중수전김리),"Possimus vitae vero voluptate expedita ratione. Quisquam repudiandae praesentium dolorum dolore. Repellat molestiae laudantium facilis eaque delectus.
+Quia fugit tempore praesentium sint qui enim.",8,4,"[3, 4]",10,213000,2020-12-15 04:19:44,2024-01-01 06:37:26
+(주) 장양윤,37.65639,126.835,대구광역시 남구 학동8거리,"Beatae voluptatibus facilis molestiae temporibus. Dolor a nobis recusandae eum.
+Repellendus dolores quasi vitae beatae.
+Animi enim earum architecto.",3,2,"[2, 3, 4]",16,532000,2021-10-21 03:05:23,2024-01-01 20:12:38
+김권박,34.8825,128.62667,부산광역시 남구 학동로 (승현김리),Atque repudiandae veritatis mollitia ab maxime quos magni. Repellendus animi deleniti praesentium quam. Iusto fugit sapiente adipisci.,6,1,[1],16,5000,2021-01-26 08:55:24,2024-01-06 04:01:53
+이민,34.8825,128.62667,서울특별시 서구 선릉885길 (은지김김동),"Quas qui in quas voluptatum. Iusto modi ipsam fugiat error eos perspiciatis minus.
+Fugit alias provident ipsa excepturi. Unde cum aut debitis.",8,2,"[1, 2, 3]",15,149000,2020-12-28 13:01:48,2024-01-04 09:17:22
+(주) 이,37.65639,126.835,대전광역시 서구 영동대로 (혜진김박마을),Itaque cumque laudantium aliquid. Fugit iure laborum non. Consequatur laborum quod amet modi.,7,1,"[1, 2, 4]",15,5000,2023-07-23 22:51:34,2024-01-02 17:19:49
+박권주,36.82167,128.63083,서울특별시 동구 서초중앙3길,"Corporis magnam est eos ipsum. Ipsam quae totam voluptatibus. Eum quas consequuntur illo maiores nam officia suscipit.
+Quis non quas qui quae. Hic recusandae accusamus.",4,3,[],20,380000,2023-12-08 22:56:30,2024-01-01 01:49:31
+김백,36.82167,128.63083,제주특별시 중구 수정구 백제고분13거리 (성호이황면),"Rem quidem fugiat alias tempore aliquid.
+Repellat iste cumque atque unde iure. Repudiandae nesciunt repellendus maiores ipsam error ea.",10,1,"[2, 4]",6,42000,2023-06-30 01:54:16,2024-01-04 23:52:12
+박김문,36.20389,127.08472,대전광역시 남구 석촌호수거리,Laborum numquam totam officia recusandae veritatis. Excepturi soluta explicabo voluptatibus maiores doloremque. Tenetur distinctio eum tempore.,6,4,[3],12,18000,2021-11-29 16:30:46,2024-01-04 23:34:59
+김이권,37.1759,128.9889,부산광역시 북구 봉은사길 (춘자김송동),"Ab illum expedita blanditiis ex quae. Voluptatibus cumque laborum nihil pariatur.
+Quisquam molestias natus inventore assumenda quaerat rerum. Magni vitae dolorum.",1,4,"[1, 2, 3, 4]",9,87000,2022-10-16 15:37:51,2024-01-04 05:30:22
+(주) 김,37.1759,128.9889,서울특별시 서구 서초중앙05길,Et beatae recusandae sed dolorum. Quis nemo eius officia illo enim perferendis.,8,3,"[2, 3, 4]",6,163000,2021-09-07 18:33:15,2024-01-03 01:18:30
+김김양,37.65639,126.835,서울특별시 서구 영동대로 (민재한면),Tempora neque adipisci numquam iure facere facilis. Blanditiis necessitatibus occaecati. Eligendi tenetur molestias cum nam magnam quod.,3,3,"[3, 4]",6,556000,2022-03-11 01:38:36,2024-01-03 21:52:34
+오이,37.65639,126.835,대구광역시 중구 상당구 개포거리,"Delectus quo possimus possimus placeat. Iusto voluptatum reiciendis odio.
+Saepe iste facilis cupiditate vero.
+Ipsum culpa ducimus. Labore minima ex ea alias. Temporibus sapiente temporibus.",6,4,"[1, 2, 3]",9,39000,2023-03-09 18:57:16,2024-01-06 21:28:49
+유한회사 송,36.82167,128.63083,제주특별시 중구 개포830거리,Corrupti veritatis maxime. Laboriosam dignissimos debitis aut sed. Ex occaecati necessitatibus facere.,5,2,"[1, 2, 3, 4]",1,212000,2020-11-30 05:36:01,2024-01-02 05:18:08
+주식회사 이박김,36.82167,128.63083,부산광역시 서구 선릉866거리,Placeat fugiat perspiciatis ea non praesentium est illum. Illum amet quibusdam provident ratione quis. Eligendi fugit perspiciatis reiciendis laborum optio.,5,4,"[2, 4]",3,438000,2021-03-22 03:59:47,2024-01-05 16:54:20
+윤문박,36.82167,128.63083,대전광역시 남구 압구정로,"Quasi doloremque recusandae similique. Dicta iure est iste odit. Distinctio facilis iste consequatur praesentium in quo.
+Quasi expedita quae cupiditate animi deleniti qui nostrum. Et odit expedita.",3,2,"[1, 2, 3, 4]",2,276000,2021-08-30 21:51:33,2024-01-04 17:20:24
+(주) 안,37.65639,126.835,부산광역시 서구 오정구 개포84거리 (경자이황읍),"Consequatur enim consequuntur vitae quo laborum. Nulla esse tempore rem.
+Error enim dolorem. Eligendi tempora expedita maiores. Repudiandae quas molestias incidunt eos dicta ullam nostrum.",4,1,[],19,257000,2021-04-17 20:50:49,2024-01-01 07:34:27
+유한회사 김이김,34.8825,128.62667,대전광역시 서구 테헤란길,"Eos similique voluptatum quam architecto saepe. Deleniti explicabo hic iste harum officiis.
+Sequi ut atque reiciendis. Molestias voluptatum ab est repellendus voluptate suscipit.",2,1,"[1, 2, 3, 4]",17,347000,2020-10-24 07:33:44,2024-01-04 01:09:11
+주식회사 서한오,36.6009,126.665,제주특별시 북구 영동대1가,"Quia autem accusamus corporis similique error maiores. Id fuga laudantium ut.
+Delectus saepe excepturi ducimus. Cupiditate id vero.",10,2,"[1, 2, 3, 4]",12,618000,2023-01-20 12:48:15,2024-01-03 01:02:39
+박신김,36.20389,127.08472,대구광역시 중구 언주길,Adipisci nobis ducimus quam ratione distinctio numquam. Eaque eveniet occaecati tempora voluptatem earum.,6,3,"[1, 3, 4]",12,196000,2023-10-31 05:48:34,2024-01-02 00:38:14
+김최서,36.6009,126.665,대전광역시 서구 삼성0거리 (옥자김김동),Possimus minima velit aliquid illo repellat. Dicta eum sapiente ex.,8,1,[],14,206000,2021-07-07 03:34:27,2024-01-01 22:58:12
+주식회사 하권진,36.6009,126.665,제주특별시 동구 강남대42거리,"Reprehenderit nisi officiis ad ipsam alias. Cum excepturi sint vel.
+Velit neque architecto. Suscipit quasi necessitatibus. Ipsam aperiam alias quos quia.",4,1,"[1, 2, 3, 4]",1,121000,2023-05-21 00:38:35,2024-01-02 05:34:59
+(주) 김,36.20389,127.08472,대전광역시 서구 잠실173가 (미영송이마을),"Aperiam atque tempore aperiam. Officia sit in minus consectetur tempora.
+Facilis aliquam quam ipsam. Expedita eos itaque odit vitae. Labore neque dolore.",8,2,"[1, 2, 4]",1,391000,2021-09-10 22:08:53,2024-01-01 03:05:43
+(주) 이,37.65639,126.835,제주특별시 남구 단원구 반포대로 (도윤홍김리),Aliquid aspernatur odio voluptatum omnis occaecati omnis.,7,4,[2],4,66000,2022-03-17 19:02:33,2024-01-04 07:51:44
+윤허,36.6009,126.665,대전광역시 남구 반포대5가 (정순김읍),"Nam dolorem veniam quos nisi dolorum. Beatae officia laudantium.
+Non sapiente quasi temporibus est nam iusto consequatur.
+Fuga explicabo mollitia perferendis.",1,2,[1],13,45000,2023-06-28 17:43:07,2024-01-02 20:02:46
+김최박,36.6009,126.665,대전광역시 북구 역삼78로,"Culpa est suscipit. Atque non veniam suscipit debitis quia odio.
+Sit similique inventore repellat nihil nulla voluptas. Molestias vitae facere hic.",2,1,[1],10,141000,2023-01-15 03:53:05,2024-01-02 09:21:35
+김이,36.6009,126.665,대전광역시 중구 백제고분거리 (현우허마을),"Dolor eius at quibusdam sed. Quo perspiciatis quam quasi.
+Eaque quibusdam atque ut consequuntur quae aperiam. Accusantium minima provident iure corrupti. Veniam impedit tempora voluptas qui porro.",5,2,"[1, 2, 3, 4]",2,411000,2020-06-16 22:28:12,2024-01-02 01:49:11
+최손,36.82167,128.63083,대구광역시 동구 논현2길 (보람박마을),"Natus vitae cupiditate dignissimos dolorem ad. Ipsum assumenda rem.
+Minus quae reiciendis hic a. Esse ex corporis fugiat quisquam cum.",6,1,"[1, 3, 4]",3,50000,2021-01-21 15:43:19,2024-01-02 20:12:06
+유한회사 주,36.6009,126.665,제주특별시 동구 오금5길,"Accusantium placeat voluptate voluptatem ratione. Est corporis omnis suscipit sint culpa accusantium officiis.
+Suscipit laboriosam cum numquam repellendus. Inventore odio pariatur neque quos.",3,1,"[1, 2, 3, 4]",5,201000,2020-07-26 22:17:28,2024-01-03 10:14:31
+최김장,36.20389,127.08472,부산광역시 북구 논현988가 (하은지면),"Dignissimos facere est omnis voluptatem fugit. Necessitatibus quibusdam ducimus quos est dignissimos qui molestiae. Quos neque laborum sit veniam maxime doloribus quaerat.
+Quo cum esse ipsam.",5,2,[3],6,29000,2023-12-12 04:32:32,2024-01-03 19:01:01
+(유) 김엄이,36.6009,126.665,부산광역시 동구 잠실거리,"Et similique blanditiis.
+Rem maxime ab debitis placeat assumenda iste. Debitis impedit consectetur fugiat. Veritatis eum quae hic porro porro.",10,3,"[1, 3]",1,224000,2020-10-24 09:48:34,2024-01-01 03:50:58
+주식회사 박이김,37.65639,126.835,서울특별시 동구 강남대401가,Quaerat repellat delectus quod aperiam ratione ea. Repellendus ullam esse adipisci atque ipsam. Enim aliquam eos atque officia dolorem.,10,4,[4],16,52000,2021-11-26 23:52:08,2024-01-03 21:41:53
+주식회사 이,37.65639,126.835,부산광역시 북구 서초중앙51길 (서영김한마을),"Architecto itaque iste voluptatum totam. Vel asperiores sequi sed fugit fuga sunt.
+Perspiciatis aliquid quia voluptatibus suscipit. Sapiente qui minus.",6,2,"[1, 2, 4]",5,315000,2021-01-18 23:02:28,2024-01-05 23:00:26
+(주) 오,34.8825,128.62667,서울특별시 중구 영동대가 (건우오안리),Perspiciatis mollitia consectetur non mollitia iure itaque. Quam quis quo. Accusamus dolores itaque iure odit.,4,4,"[1, 2, 3, 4]",7,141000,2022-10-06 09:00:07,2024-01-06 04:17:22
+(유) 오,36.6009,126.665,서울특별시 동구 석촌호수51가,Omnis repudiandae itaque nemo ipsum quidem. Eaque eius delectus cumque deleniti. Ex accusamus ducimus enim.,6,1,[1],18,297000,2022-07-25 09:48:50,2024-01-04 10:02:39
+윤김,34.8825,128.62667,대구광역시 북구 개포로 (건우박읍),Incidunt pariatur vero ipsa rerum repellendus. Cum sed exercitationem nobis quibusdam autem qui. Animi expedita quas deleniti saepe iure fugit. Dolor eveniet reiciendis iusto sapiente.,9,2,[],5,327000,2021-05-18 16:21:33,2024-01-05 18:56:50
+김유김,36.20389,127.08472,서울특별시 동구 학동483거리 (춘자문마을),"Officia eaque ad doloribus iste deleniti. Sed quae nesciunt soluta. Laudantium vel facilis error.
+Fugiat quasi nemo rerum recusandae culpa sed. Non pariatur dignissimos nesciunt rerum omnis.",7,4,"[1, 2, 3, 4]",2,45000,2020-12-31 02:50:21,2024-01-05 18:40:47
+유한회사 이,36.82167,128.63083,대구광역시 서구 개포길,"Iure dolore dolores officiis. Facere ullam nobis iure praesentium non recusandae reiciendis.
+Vel possimus reiciendis numquam molestiae quas possimus assumenda. Modi aliquid earum soluta nam vero id.",2,4,"[2, 3, 4]",9,35000,2022-01-09 05:15:58,2024-01-06 11:06:07
+주식회사 김,36.6009,126.665,대전광역시 서구 오금1거리,"Facilis ex ullam similique.
+Doloremque eaque voluptas. Quo reprehenderit enim quaerat. Dicta tenetur placeat fugiat earum fuga magnam. Delectus provident necessitatibus excepturi.",2,3,"[1, 2, 4]",14,251000,2023-09-19 15:34:44,2024-01-02 19:10:35
+유한회사 정박한,37.65639,126.835,대구광역시 남구 삼성길 (은주심배읍),"Rerum temporibus quaerat quis. Nostrum id repudiandae itaque magnam aut magni corporis.
+Placeat nam quaerat repellat. Tempore magnam placeat voluptate eligendi aliquam.",4,2,"[1, 2, 4]",4,393000,2022-02-06 01:16:41,2024-01-06 00:26:40
+박김윤,34.8825,128.62667,대전광역시 서구 흥덕구 압구정거리 (지혜오김면),Saepe veritatis sunt inventore. Aliquid sed saepe molestias voluptate veritatis. Quisquam voluptatem id eius.,6,3,[2],20,149000,2020-04-21 19:53:02,2024-01-04 07:43:41
+유한회사 박최정,36.20389,127.08472,대구광역시 서구 서초중앙520거리 (현우서이면),Vero doloremque numquam odio repellendus. Ratione ea quaerat eos.,3,3,"[1, 2, 3]",5,257000,2020-07-13 07:34:20,2024-01-04 10:15:53
+주식회사 이,36.20389,127.08472,대전광역시 남구 선릉거리,Blanditiis est sequi suscipit culpa assumenda itaque dignissimos. Amet velit voluptatum tempore dolor molestias. Quasi cupiditate perspiciatis asperiores.,4,3,"[1, 2, 3, 4]",13,123000,2021-08-04 02:33:52,2024-01-01 22:36:53
+(유) 황,36.6009,126.665,부산광역시 중구 언주529가,Dicta numquam quibusdam nostrum aspernatur. Libero minima quisquam. Ipsum perspiciatis alias architecto praesentium facere.,9,4,"[1, 3, 4]",20,150000,2023-03-15 13:29:43,2024-01-04 09:42:50
+장이,37.1759,128.9889,대구광역시 중구 삼성6길,"Vero quae dolores magnam porro. Fuga voluptates architecto aliquid dolore hic error. Facilis sunt nisi debitis quas architecto.
+Rerum nisi eum aliquid. Magni nam ut deserunt animi quibusdam iste.",6,2,[],19,30000,2020-02-12 10:23:07,2024-01-01 17:10:45
+최김최,37.65639,126.835,제주특별시 서구 선릉9로,Sequi minus doloremque molestias. Illo voluptates odit quam. Ratione totam sunt harum cupiditate explicabo nesciunt fugit.,10,3,"[2, 3]",9,346000,2020-08-12 06:27:25,2024-01-05 18:17:56
+김박,37.1759,128.9889,서울특별시 동구 역삼로 (시우김면),Rerum laudantium aliquam nam fugiat tempora officiis. Ea delectus exercitationem placeat.,8,4,[2],13,181000,2022-05-30 13:20:03,2024-01-02 00:35:14
+김이조,37.65639,126.835,대구광역시 동구 백제고분거리,"Tenetur repellendus delectus.
+Doloribus amet nemo cum atque. Asperiores ipsum natus voluptas. Deserunt ullam ad.
+Corrupti eaque sit magnam aliquid voluptatibus consequuntur. Voluptate est quod enim.",3,3,"[1, 2, 3]",18,213000,2023-05-01 14:34:03,2024-01-06 15:10:09
+노김,36.82167,128.63083,대구광역시 북구 잠실954가,Accusamus quos facere labore. Voluptas sequi quod illum.,2,1,"[1, 4]",16,387000,2021-02-13 16:50:52,2024-01-03 06:11:14
+주식회사 권박김,37.1759,128.9889,제주특별시 북구 개포거리,Deserunt sed quidem recusandae eum neque minima. Maiores molestiae saepe iusto repellendus illo ab pariatur. Perferendis fuga sequi fugit.,8,3,[],6,379000,2021-11-18 06:36:32,2024-01-05 02:33:35
+이배김,34.8825,128.62667,대구광역시 서구 선릉3가,Quibusdam maiores eius pariatur exercitationem. Autem vitae reprehenderit fuga maxime quam.,10,1,"[1, 2, 3, 4]",20,109000,2020-09-09 17:24:50,2024-01-04 18:22:01
+김문최,37.65639,126.835,부산광역시 서구 선릉거리,Voluptates id quisquam at sapiente reiciendis. Ex cum ullam impedit. Ipsum quod esse veritatis impedit praesentium.,8,4,"[1, 2, 3]",10,436000,2020-04-12 01:11:10,2024-01-02 10:45:07
+김최,36.82167,128.63083,서울특별시 중구 백제고분54길,"Earum asperiores impedit corrupti aliquid dolore. Dolorem fugit velit natus eius. Veritatis porro molestiae culpa porro nostrum aliquid minus.
+Inventore officiis ea. Aliquid sapiente provident aut.",9,4,[],8,296000,2020-06-20 03:42:02,2024-01-05 02:54:52
+박권이,36.82167,128.63083,서울특별시 중구 서초대2로,"Explicabo recusandae blanditiis dignissimos facere. Natus id aut delectus magni odit laboriosam tempora.
+Voluptates corporis cum libero nostrum veniam. Voluptas assumenda ea harum vel.",6,2,[],9,468000,2023-12-08 06:36:46,2024-01-03 04:43:27
+주식회사 박,36.20389,127.08472,제주특별시 북구 도산대길 (수빈김면),Suscipit recusandae quaerat sunt commodi. Non unde velit illo vero. Tempore nesciunt quisquam soluta assumenda voluptatibus rerum.,5,3,[1],1,87000,2022-09-25 10:09:15,2024-01-06 02:34:06
+(주) 박,34.8825,128.62667,서울특별시 남구 오금3길 (은주엄이리),"Cumque totam facilis optio pariatur quos. Enim temporibus autem eius. Similique nostrum dolores qui dolorem ad iste.
+Ratione rerum perferendis repudiandae. Rem officia dolore perspiciatis a.",8,1,"[1, 2, 3, 4]",1,36000,2021-04-08 19:31:57,2024-01-06 10:51:38
+서강,36.20389,127.08472,대구광역시 남구 반포대6길,Sapiente minima nobis sed. Quia vitae dignissimos occaecati veritatis blanditiis. Doloremque labore alias suscipit porro autem.,6,1,[1],8,68000,2022-06-18 06:31:46,2024-01-02 22:38:10
+문류,37.1759,128.9889,부산광역시 남구 처인구 영동대거리 (준영안박리),"Esse harum voluptates provident ducimus commodi. Doloribus ipsum at ipsam possimus. At possimus dolorum cupiditate.
+Asperiores illo veritatis incidunt. Deserunt voluptas neque neque dignissimos.",4,3,[],9,102000,2022-01-14 23:11:04,2024-01-06 15:15:14
+주식회사 강,37.1759,128.9889,부산광역시 동구 개포600길,"Natus eum ea. Illo unde fuga rerum quam dicta molestiae dolore.
+Veniam vero veritatis quasi. Sint nesciunt qui repellendus architecto.",5,2,"[1, 2, 3, 4]",7,276000,2021-04-11 23:10:00,2024-01-04 11:53:29
+김허구,37.1759,128.9889,대전광역시 북구 압구정길 (영철김리),Expedita aliquam ducimus quaerat earum aliquam nisi. Eveniet accusantium aliquam eaque rem.,1,2,[4],17,80000,2022-01-03 14:21:07,2024-01-05 04:29:17
+최김김,37.1759,128.9889,서울특별시 동구 개포가,Ipsam accusamus dolorum ea quod. Velit debitis deleniti. Veniam distinctio unde quae.,4,1,"[2, 3, 4]",17,361000,2021-10-19 14:25:47,2024-01-02 04:39:57
+김김,34.8825,128.62667,대구광역시 남구 반포대38길 (정훈이오면),"Amet nam voluptate nobis illo. Unde at fuga delectus consectetur illo.
+Natus esse dolores alias sapiente at. At harum vel ex a vel.
+Cupiditate quam id quae explicabo. Excepturi maiores autem sequi.",6,3,[],20,68000,2023-03-19 20:25:46,2024-01-06 19:08:12
+주식회사 김장오,36.20389,127.08472,부산광역시 동구 서초중앙776가 (지민문박읍),Similique laboriosam non omnis aliquid. Natus hic ut qui accusamus incidunt maiores aperiam.,6,2,"[1, 3]",20,205000,2021-07-20 12:42:43,2024-01-02 19:30:36
+성김신,37.1759,128.9889,대구광역시 남구 청원구 삼성거리 (성진하이리),Architecto neque voluptatem reiciendis. Sint alias facere minus repellendus. Dolor labore laborum dolor.,7,3,[],5,153000,2023-10-05 13:10:21,2024-01-04 13:11:29
+이권,36.6009,126.665,제주특별시 남구 반포대로,Distinctio dicta illum sint. Eligendi voluptas ullam hic porro. Aperiam quidem iure dicta.,1,2,[],12,43000,2020-06-29 01:26:33,2024-01-06 15:06:47
+(유) 허권김,37.1759,128.9889,부산광역시 북구 학동40거리,"Mollitia similique deserunt omnis dolorem quidem ullam. Sapiente excepturi possimus harum. Porro alias eligendi ullam.
+Alias dolorum saepe.",10,3,"[3, 4]",14,297000,2021-08-04 06:30:02,2024-01-01 14:35:30
+(주) 이,36.82167,128.63083,대구광역시 서구 압구정48거리,Suscipit molestiae ea deserunt harum nisi hic. Maxime ab autem libero est ratione exercitationem. Dolores harum quis velit explicabo iusto amet.,7,4,[3],15,216000,2021-05-08 11:11:25,2024-01-03 13:21:07
+이이,36.6009,126.665,대전광역시 서구 양재천길,Dolores necessitatibus id delectus ipsa cum. Aut rerum expedita eveniet cumque ducimus. Enim esse et enim nesciunt recusandae vero. Rem debitis quisquam excepturi odio.,2,3,[],17,233000,2022-12-17 15:26:16,2024-01-02 13:40:44
+유한회사 김,36.82167,128.63083,대전광역시 남구 언주349로 (준서이마을),"Placeat asperiores maxime nesciunt voluptatibus modi molestias expedita.
+Consequatur similique unde. Harum impedit enim alias. Labore cumque doloribus pariatur placeat tempore veritatis.",8,2,"[1, 2, 3]",11,310000,2020-06-06 16:13:03,2024-01-04 01:27:03
+주식회사 오,37.1759,128.9889,제주특별시 동구 삼성길 (민서김읍),Accusamus nemo assumenda velit. Beatae totam laborum nisi voluptatibus. Sunt voluptas sunt ipsa doloribus incidunt.,1,2,"[3, 4]",15,401000,2021-04-04 07:13:44,2024-01-04 19:37:45
+유이송,36.6009,126.665,대전광역시 동구 선릉1로 (수빈이김면),"Adipisci hic repellat. Laudantium officia corrupti atque quis praesentium quasi.
+Placeat ea ipsum optio aperiam maxime id distinctio. Asperiores aut quae. Quas ducimus quam ipsum atque architecto at.",5,2,"[1, 2]",19,113000,2021-08-28 16:48:42,2024-01-02 01:57:52
+김구이,34.8825,128.62667,부산광역시 북구 역삼47로 (예진박리),Eius dolores maiores nemo sequi odio odit. Ipsum ex molestias deleniti neque expedita illum facere. Iusto fugit eaque aliquam.,7,3,[],20,132000,2021-10-16 02:52:48,2024-01-01 18:04:10
+김김김,36.82167,128.63083,제주특별시 중구 가락가,"Porro voluptatem esse dolor. Repellendus officiis aliquam sed fugit.
+Quod aliquid non sit aperiam aliquid explicabo. Assumenda voluptas commodi impedit quidem esse minus.",9,3,"[1, 2, 3, 4]",7,211000,2021-03-05 19:38:28,2024-01-04 20:44:03
+주식회사 이장김,34.8825,128.62667,제주특별시 중구 언주거리 (지은김오마을),Exercitationem voluptatibus vel ea eum. Vitae quod omnis alias minus quod nemo tempore. Autem recusandae impedit eius officiis.,8,1,"[1, 3, 4]",4,586000,2022-04-03 02:00:17,2024-01-04 15:26:23
+이오손,34.8825,128.62667,제주특별시 동구 잠실로 (서현이윤마을),Quaerat fugiat provident optio est magni. Facere aliquid a doloribus deleniti beatae.,8,3,"[3, 4]",18,221000,2022-09-25 14:38:08,2024-01-05 04:39:19
+(유) 이,36.20389,127.08472,대전광역시 남구 개포거리 (도윤오김읍),Earum soluta maxime vitae quod. Aspernatur dignissimos vero hic. Iure nihil sequi iusto facere.,2,1,"[1, 2, 3, 4]",12,146000,2020-08-18 11:59:10,2024-01-02 16:34:28
+한오김,36.20389,127.08472,대구광역시 북구 학동546가,Illum temporibus iusto suscipit perspiciatis similique asperiores. Eius placeat ipsam inventore porro quidem perspiciatis perferendis. Doloremque id excepturi ipsa itaque recusandae delectus.,5,1,[],8,546000,2023-08-28 19:18:48,2024-01-06 01:55:31
+주식회사 김,34.8825,128.62667,제주특별시 서구 양재천거리 (옥순최윤읍),"Sit voluptatem consequatur quisquam.
+Officia pariatur deserunt aliquam voluptatum sapiente distinctio. Qui repellendus non velit vero. Ea maiores deleniti esse exercitationem sunt repellendus.",6,4,"[1, 2, 3, 4]",10,558000,2020-08-14 01:37:24,2024-01-01 08:58:15
+배최권,37.1759,128.9889,서울특별시 중구 양재천거리 (상호안박읍),Ipsa quam soluta itaque dolorem quod totam repudiandae. Ab quaerat veniam consequuntur sequi repellat reiciendis.,7,4,"[3, 4]",16,326000,2022-04-07 14:19:06,2024-01-04 07:08:36
+황김,36.20389,127.08472,서울특별시 서구 반포대223로,"Quidem quam ullam itaque aspernatur repellat. Minus impedit ad hic recusandae. Eveniet temporibus esse incidunt quis distinctio.
+Fugit eius sint perspiciatis eos fugit non.",9,1,"[1, 2, 3, 4]",17,223000,2023-11-20 13:38:47,2024-01-05 11:35:19
+김박,34.8825,128.62667,대구광역시 동구 석촌호수거리,Qui consequatur ad nihil dolorem error. Alias eligendi illum beatae culpa. Optio error inventore delectus eius reprehenderit explicabo.,4,2,[2],18,290000,2021-10-27 11:05:06,2024-01-04 19:09:11
+나장이,36.6009,126.665,대구광역시 동구 서초중앙431길 (민수김면),"Perspiciatis repudiandae ipsa ullam. Voluptatem minus id ullam id dicta.
+Quam blanditiis temporibus hic consequuntur numquam. Laboriosam necessitatibus quod eum illum id.",7,1,[],13,672000,2022-09-16 20:52:59,2024-01-03 06:56:48
+신박,34.8825,128.62667,서울특별시 북구 강남대23길 (은지민정면),Ea at sapiente magnam. Omnis eaque voluptatum eaque rem ex. Et impedit veniam dolores adipisci saepe veritatis libero.,1,4,[1],1,30000,2022-12-20 05:46:33,2024-01-02 05:50:37
+(유) 민,34.8825,128.62667,대전광역시 중구 삼성4로,"Repellat ea ut quos molestias. Consectetur ut animi harum aut.
+Veritatis debitis ea deserunt similique harum deserunt. Est ipsa sed soluta minima non. Mollitia blanditiis eum.",6,2,[],1,16000,2020-06-17 20:25:31,2024-01-06 10:01:55
+주식회사 장,37.1759,128.9889,제주특별시 동구 일산서구 백제고분86가 (도현권읍),"Ad id a voluptates. Minus excepturi optio doloremque nemo magni.
+Adipisci ad eveniet officiis cum. Optio fugiat sequi optio laborum aspernatur.",4,1,"[1, 2, 3]",5,161000,2021-01-23 20:13:34,2024-01-03 10:58:16
+(유) 최,36.82167,128.63083,대구광역시 중구 서초대거리 (예은이리),"Labore quia ad nesciunt eius ducimus quis alias. Libero quidem voluptatum natus tempora.
+Vel dolore delectus aut quos consectetur at quas.",7,3,"[1, 3]",5,465000,2023-01-10 07:24:23,2024-01-05 08:31:30
+이김,37.1759,128.9889,제주특별시 서구 선릉437길,Ducimus ab atque suscipit delectus. Tempore facilis doloremque consequuntur ad similique iure. Deleniti ratione iste facere quam doloremque laborum et.,3,2,[],15,58000,2020-12-01 11:37:00,2024-01-03 15:24:29

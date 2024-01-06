@@ -30,13 +30,14 @@ def create_rooms(room_size): # ,host_id_size
         # host_id = random.randint(1, host_id_size)
         room_lat = lat_lng[0] # 위도 e.g 34.8825
         room_long = lat_lng[1] # 경도 e.g 128.62667
-        room_address = fake.address()
+        room_address = randomize_address()
+        print("room_address:", room_address)
         room_des = fake.text() # 숙소 설명 e.g. Quibusdam voluptatem omnis odio. Veniam nihil amet. Ratione minus repudiandae enim accusamus possimus.
         room_max = random.randint(1, 10) # 최대 인원수 e.g. 8
         room_type = random.randint(1, 4)
         room_option = random.sample(range(1, 5), k=random.randint(0, 4))
         room_option.sort()
-        room_host = row_i + 1
+        room_host = random.randint(1, 20)
         daily_price = int(price_distribution[row_i]) # 일일 가격 e.g. 30000 ~ 1500000 편향분포
         room_price = round(daily_price, -3)
         room_created_at = fake.date_time_this_decade()
@@ -48,6 +49,20 @@ def create_rooms(room_size): # ,host_id_size
 
     return df_rooms
 
+def randomize_address():
+    fake = Faker('ko-KR')
+    room_address = fake.address().split()
+    print(room_address)
+    # 무작위로 세 번째 단어를 시와 구로 바꿈
+    cities = ['서울특별시', '대구광역시', '부산광역시', '대전광역시', '제주특별시']
+    districts = ['동구', '서구', '남구', '중구', '북구']
+
+    room_address[0] = random.choice(cities)
+    room_address[1] = random.choice(districts)
+
+    # 무작위로 생성된 주소 반환
+    return ' '.join(room_address)
+
 
 def create_reviews(review_size):
     fake = Faker('ko-KR')
@@ -56,7 +71,7 @@ def create_reviews(review_size):
 
     for row_i in range(review_size):
         review_author = random.randint(1, 20)
-        review_room = random.randint(1, 20)
+        review_room = random.randint(1, 200)
         review_score = random.randint(1, 5)
         review_content = fake.text()
         review_created_at = fake.date_time_this_decade()
@@ -87,12 +102,12 @@ def create_room_images(room_size, random_image_size = 100, image_size_row = 400,
             
 
 # df_hosts = create_hosts(20)
-df_rooms = create_rooms(20) # 20개의 숙소 데이터 생성, FK host id는 20 까지 차례대로 있다고 가정
-df_reviews = create_reviews(50)
-df_room_image = create_room_images(20) 
+df_rooms = create_rooms(200) # 20개의 숙소 데이터 생성, FK host id는 20 까지 차례대로 있다고 가정
+df_reviews = create_reviews(500)
+df_room_image = create_room_images(200) 
 #df_room_image = create_room_images(500, 100, 400, 400) # 랜덤 이미지개수, 사이즈 조정 가능 (400x400)
 
 # df_hosts.to_csv('./dummy_hosts.csv', index = False)
 df_rooms.to_csv('./dummy_rooms.csv', index = False)
 df_reviews.to_csv('./dummy_reviews.csv', index = False)
-# df_room_image.to_csv('./dummy_room_images.csv', index = False)
+df_room_image.to_csv('./dummy_room_images.csv', index = False)
