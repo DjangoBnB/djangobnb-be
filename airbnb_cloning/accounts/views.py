@@ -15,6 +15,11 @@ from rooms.models import Room
 from rooms.serializers import RoomListSerializer
 from django.contrib.auth import get_user_model
 
+from allauth.socialaccount.providers.facebook.views import FacebookOAuth2Adapter
+from dj_rest_auth.registration.views import SocialLoginView
+from allauth.socialaccount.providers.google.views import GoogleOAuth2Adapter
+from allauth.socialaccount.providers.oauth2.client import OAuth2Client
+
 
 @api_view(['PUT'])
 @permission_classes([IsAuthenticated])
@@ -32,3 +37,11 @@ def likes(request):
 	rooms = user.like_rooms.all()
 	serializer = RoomListSerializer(rooms, many=True)
 	return Response(serializer.data)
+
+
+# class FacebookLogin(SocialLoginView):
+# 	adapter_class = FacebookOAuth2Adapter
+
+
+# class GoogleLogin(SocialLoginView):
+#     adapter_class = GoogleOAuth2Adapter
